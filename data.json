@@ -16813,5 +16813,13 @@
     "https://mp.weixin.qq.com/s/KNCcrFOVj_guhGClQ0L15Q": "【安全圈】Deno 曝出高危漏洞（CVE-2026-22863 和 CVE-2026-22864）可导致密钥泄露与任意代码执行",
     "https://mp.weixin.qq.com/s/cwNoi8Ad_rCeOuNyD9_VrA": "【漏洞通告】n8n Python 任务执行器沙箱逃逸导致任意代码执行漏洞(CVE-2026-0863)",
     "https://mp.weixin.qq.com/s/T3vtmueTfcA52xyb5GfI6A": "近期0day+POC|Windows RCE 0day漏洞利用|最后一个宣称通杀Android12–16",
-    "https://mp.weixin.qq.com/s/ceYfAtd_8nK_R5owDQtV9Q": "Langflow远程代码执行漏洞（CVE-2025-3248）"
+    "https://mp.weixin.qq.com/s/ceYfAtd_8nK_R5owDQtV9Q": "Langflow远程代码执行漏洞（CVE-2025-3248）",
+    "https://mp.weixin.qq.com/s/PoY5WKNoLMfdL5GrkGTOZA": "「吃瓜」前男友抖音小号约妹，借口：我在挖漏洞？",
+    "https://mp.weixin.qq.com/s/j_T9iaGY1oq46mSnvK_rOg": "CVE-2026-23745：node-tar 任意文件覆盖",
+    "https://mp.weixin.qq.com/s/nflXSF9y7FE0A5n-uHQOHg": "吃瓜现场：前男友用抖音小号约妹，借口竟说在“挖漏洞”？",
+    "https://mp.weixin.qq.com/s/52AoQONvgN2nyDVOsfhjtw": "从资产发现到漏洞利用：一款工具搞定渗透测试全流程",
+    "https://mp.weixin.qq.com/s/lXSKSNtqKNoRvtRrYFHkOA": "此仓库包含针对易受攻击的 Windows 驱动程序的概念验证 (PoC)",
+    "https://mp.weixin.qq.com/s/IY_4_bIm9DwuipQDiikF1w": "严重程度最高的 Ni8mare 漏洞影响近 60,000 个 n8n 实例",
+    "https://mp.weixin.qq.com/s/AnbKnyQkt7sz51zyxTOUiw": "AI自动化代码审计RCE",
+    "https://mp.weixin.qq.com/s/yoODAYM6m3H1jjMrmThJYA": "Langflow RCE(CVE-2025-3248)"
 }
