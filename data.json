@@ -16881,5 +16881,8 @@
     "https://mp.weixin.qq.com/s/B3Or_U8bsirv2ncZlyMe5A": "Fortinet漏洞、RedLine Clipjack、NTLM破解、Copilot攻击热门事件",
     "https://mp.weixin.qq.com/s/pJYpYZbEvTfK6iPdwR8fgg": "Cloudflare WAF存在高危0day漏洞",
     "https://mp.weixin.qq.com/s/wXYL-QvkaZHnKKfDxUUOgQ": "DeepAudit——代码漏洞挖掘多智能体ai系统",
-    "https://mp.weixin.qq.com/s/J_s-jJlO-4VTOoZXbfDqkQ": "从资产发现到漏洞利用：一款工具搞定渗透测试全流程"
+    "https://mp.weixin.qq.com/s/J_s-jJlO-4VTOoZXbfDqkQ": "从资产发现到漏洞利用：一款工具搞定渗透测试全流程",
+    "https://mp.weixin.qq.com/s/QKRTVKRmEa1Vp-dTs29eqA": "CVE-2025-61686 React Router∕Remix Run 路径遍历漏洞代码分析",
+    "https://mp.weixin.qq.com/s/LdVOZQlsZNxV9N-ejmYjkw": "大小写即漏洞：sqli-labs 第 27 ∕ 27a 关通关全解析",
+    "https://mp.weixin.qq.com/s/42sGaV-VRo1B2ri9xABgYw": "Apache bRPC存在关键远程命令注入漏洞，影响1.15.0前所有平台版本"
 }
