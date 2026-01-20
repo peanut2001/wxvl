@@ -16821,5 +16821,21 @@
     "https://mp.weixin.qq.com/s/lXSKSNtqKNoRvtRrYFHkOA": "此仓库包含针对易受攻击的 Windows 驱动程序的概念验证 (PoC)",
     "https://mp.weixin.qq.com/s/IY_4_bIm9DwuipQDiikF1w": "严重程度最高的 Ni8mare 漏洞影响近 60,000 个 n8n 实例",
     "https://mp.weixin.qq.com/s/AnbKnyQkt7sz51zyxTOUiw": "AI自动化代码审计RCE",
-    "https://mp.weixin.qq.com/s/yoODAYM6m3H1jjMrmThJYA": "Langflow RCE(CVE-2025-3248)"
+    "https://mp.weixin.qq.com/s/yoODAYM6m3H1jjMrmThJYA": "Langflow RCE(CVE-2025-3248)",
+    "https://mp.weixin.qq.com/s/2uOAkz5LnPDd-puFfxc2hg": "中国人民公安大学：浅析车联网漏洞挖掘技术",
+    "https://mp.weixin.qq.com/s/SkYyUTxHMC2kYYBYoQrL9g": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/h5HuV1AVYZzPmw5WKUpVxw": "Azure RCE漏洞剖析：单一VM沦陷可致整个租户失守",
+    "https://mp.weixin.qq.com/s/5ze4qDmKflvfq5UYnS2JVg": "漏洞情报(已验证) | 深科特LEAN MES系统FileSync.ashx 存在文件读取漏洞",
+    "https://mp.weixin.qq.com/s/z5nDgsjvuL9qP2eMJEdCJw": "泛微e-office dept sql注入漏洞",
+    "https://mp.weixin.qq.com/s/L5Wok7BVFSCgPrg7_InoVg": "【漏洞复现】大华ICC智能物联管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/rslChRVzWdVeTRVkjQN4Tg": "Pixel 9 零点击漏洞利用链可破坏内核",
+    "https://mp.weixin.qq.com/s/y8wYnzM8gR2OvgoM8esnLg": "CVE-2025-60188 Atarim 插件身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s/yl_z9z5lORQ0UCt66ltn4A": "Windows SMB 客户端漏洞使组织面临 Active Directory 完全被攻破的风险",
+    "https://mp.weixin.qq.com/s/IPLwLwa5yhI1srijYff9fQ": "工业警报：AVEVA 软件中存在严重远程代码执行漏洞，CVSS 评级为 10",
+    "https://mp.weixin.qq.com/s/VoDsZmLIKNTLajTPcBi6ZQ": "流量之眼 - 智能被动漏洞扫描平台",
+    "https://mp.weixin.qq.com/s/Fl0BlLmiB0SSoqCCxGklFA": "【漏洞复现】Apache Struts S2-069 XXE漏洞 CVE-2025-68493",
+    "https://mp.weixin.qq.com/s/KpOgJqpQC0WpffV2EGj8mw": "漏洞预警 | Apache Struts XXE漏洞",
+    "https://mp.weixin.qq.com/s/id7weKXxCKScue77LcgcHw": "漏洞复现 | 安科瑞环保用电监管云平台 uploadAttachment任意文件上漏洞",
+    "https://mp.weixin.qq.com/s/cif79qvGRPaK6r43oN3TBw": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/iVj33mTkm1ItEVdExKEprg": "新型 Kerberos 中继攻击利用 DNS CNAME 绕过缓解措施——POC已发布"
 }

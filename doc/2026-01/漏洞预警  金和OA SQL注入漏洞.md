@@ -1,5 +1,6 @@
 #  漏洞预警 | 金和OA SQL注入漏洞  
-浅安  浅安安全   2026-01-15 00:00  
+浅安
+                    浅安  浅安安全   2026-01-20 00:00  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -23,7 +24,7 @@ SQL注入
 获取敏感信息  
   
 **简述：**  
-金和OA协同办公管理系统C6软件的/c6/Jhsoft.Web.dossier/DelSelectSummaryIndicators.aspx/接口存在SQL注入漏洞，  
+金和OA协同办公管理系统C6软件的/c6/Jhsoft.Web.examinenod/AttendWorkAttendance.aspx/接口存在SQL注入漏洞，  
 未经身份验证的  
 攻击者可以通过该漏洞执行任意SQL语句，从而获取数据库敏感信息。  
   
