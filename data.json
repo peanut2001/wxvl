@@ -16837,5 +16837,19 @@
     "https://mp.weixin.qq.com/s/KpOgJqpQC0WpffV2EGj8mw": "漏洞预警 | Apache Struts XXE漏洞",
     "https://mp.weixin.qq.com/s/id7weKXxCKScue77LcgcHw": "漏洞复现 | 安科瑞环保用电监管云平台 uploadAttachment任意文件上漏洞",
     "https://mp.weixin.qq.com/s/cif79qvGRPaK6r43oN3TBw": "漏洞预警 | 金和OA SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/iVj33mTkm1ItEVdExKEprg": "新型 Kerberos 中继攻击利用 DNS CNAME 绕过缓解措施——POC已发布"
+    "https://mp.weixin.qq.com/s/iVj33mTkm1ItEVdExKEprg": "新型 Kerberos 中继攻击利用 DNS CNAME 绕过缓解措施——POC已发布",
+    "https://mp.weixin.qq.com/s/HsAwrkMW1j-uXjJcTEGKaw": "【高危漏洞预警】n8n Python沙箱绕过漏洞CVE-2026-0863",
+    "https://mp.weixin.qq.com/s/nfqg9uJ0yNqTKFZF1xLZfw": "美国首次公开承认对委内瑞拉使用网络武器：几分钟内关闭并恢复电网供电；2026年1月12-18日CNVD漏洞态势研判报告 | 牛览",
+    "https://mp.weixin.qq.com/s/7lWgs_TCUzunvEqFzj6UJw": "漏洞挖掘实战系列（第16期）：SSRF高级利用 攻击内网+云服务+Redis全解析",
+    "https://mp.weixin.qq.com/s/gqF_w3ieZZQIBavX73qCNQ": "男子利用购物平台漏洞窃取用户信息并骗取佣金1878万被判刑",
+    "https://mp.weixin.qq.com/s/TVEryh5WJUyEAYNDtGh_8g": "Jeecg-boot常见漏洞汇总（一）",
+    "https://mp.weixin.qq.com/s/iJxKvofjWIF_RF9Mxz13Rg": "神农SRC 漏洞挖掘实战课：从 0 到 1 成为赏金猎人",
+    "https://mp.weixin.qq.com/s/eo4h4_1cX-lXZ_T1zBZX4g": "【漏洞分析】Keras 路径遍历漏洞（CVE-2025-12638）",
+    "https://mp.weixin.qq.com/s/mN4xDSfcapBu2WmfiszgWg": "IM即时通讯系统 fileupload.php 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/WqpB99Co-UGRm_LkwHaaRA": "从 XSS 到 RCE：Electron 应用中的真实攻击链",
+    "https://mp.weixin.qq.com/s/lnkJYBVafFhfPdGyUSI4Cg": "Langflow远程代码执行漏洞（CVE-2025-3248）",
+    "https://mp.weixin.qq.com/s/z2wbPCa9XDALojaG_I3DFg": "0120.我是如何发现 MCP 服务器中一个罕见漏洞的——漏洞赏金计划",
+    "https://mp.weixin.qq.com/s/X0b_Wk19h3QlI_OyIr_Q4A": "漏洞验证-帆软 FineReport export∕excel远程代码执行",
+    "https://mp.weixin.qq.com/s/PjIKdLDFSlbgtngWkkxSKg": "【3】CVE-2025-38352 - Chronomaly 漏洞利用挖掘揭秘",
+    "https://mp.weixin.qq.com/s/M1TgMzlXZm7PkALEek8ECg": "Fortinet安全监控系统曝高危漏洞遭积极利用，企业核心威胁感知能力面临失效风险"
 }
