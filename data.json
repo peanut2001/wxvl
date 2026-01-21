@@ -16918,5 +16918,14 @@
     "https://mp.weixin.qq.com/s/sFLHzWAJCCq4d1zxm6Ftbg": "研究显示：GPT-5.2可稳定量产零日漏洞利用",
     "https://mp.weixin.qq.com/s/zMXlRyesyjnBQiyOK-piUA": "漏洞复现 | React(next.js)存在远程命令执行漏洞（CVE-2025-55182）",
     "https://mp.weixin.qq.com/s/8tpfLLv56fawojZBhnBjvw": "全是高危漏洞？CVSS 4.0 落地指南想帮安全团队挤挤漏洞的水分",
-    "https://mp.weixin.qq.com/s/htPJk0Hp4LLl20Is3pf1lg": "旭帆易云视信息科技有限公司 EasyCVR getbaseconfig 信息泄露漏洞(CVE-2025-1595)"
+    "https://mp.weixin.qq.com/s/htPJk0Hp4LLl20Is3pf1lg": "旭帆易云视信息科技有限公司 EasyCVR getbaseconfig 信息泄露漏洞(CVE-2025-1595)",
+    "https://mp.weixin.qq.com/s/RxXDkelQg8xYN2fcfy0UDw": "[0day]某erp系统存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/zT70DLu9h_8-ndCR17SV0w": "微软Copilot AI漏洞争议：安全边界还是已知局限？",
+    "https://mp.weixin.qq.com/s/ekoxDuejXY8oCm3uEynu1w": "0121.我如何将存储型 XSS 漏洞转化为账户接管：利用 WebSocket 驱动的应用程序",
+    "https://mp.weixin.qq.com/s/zq_XzOyIH9YExeY_nUyhjA": "CNVD漏洞周报2026年第2期",
+    "https://mp.weixin.qq.com/s/YJEdNT3MEJyoMNj0G5J2_w": "信息安全漏洞周报（2026年第3期）",
+    "https://mp.weixin.qq.com/s/mk6LGeOENGoO9jn1iyPdlQ": "zero-day点击远程漏洞攻击链 - 可绕过 iOS 加密信任（已在 iOS 18.4.1 中修复）",
+    "https://mp.weixin.qq.com/s/_igxxjZSKKPSR5u-qqZ4IQ": "智能⻔锁蓝⽛通信模块整数溢出漏洞分析",
+    "https://mp.weixin.qq.com/s/HP-e-6eddmzEtr6U3EnaMA": "分享多个EDUSRC&企业SRC中、高危漏洞（已修复）",
+    "https://mp.weixin.qq.com/s/j1U3OQOI2SatYWq-DZ7qvQ": "UC浏览器一键内存损坏漏洞：利用V8补丁间隙漏洞窃取您的数据"
 }
