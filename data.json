@@ -16927,5 +16927,21 @@
     "https://mp.weixin.qq.com/s/mk6LGeOENGoO9jn1iyPdlQ": "zero-day点击远程漏洞攻击链 - 可绕过 iOS 加密信任（已在 iOS 18.4.1 中修复）",
     "https://mp.weixin.qq.com/s/_igxxjZSKKPSR5u-qqZ4IQ": "智能⻔锁蓝⽛通信模块整数溢出漏洞分析",
     "https://mp.weixin.qq.com/s/HP-e-6eddmzEtr6U3EnaMA": "分享多个EDUSRC&企业SRC中、高危漏洞（已修复）",
-    "https://mp.weixin.qq.com/s/j1U3OQOI2SatYWq-DZ7qvQ": "UC浏览器一键内存损坏漏洞：利用V8补丁间隙漏洞窃取您的数据"
+    "https://mp.weixin.qq.com/s/j1U3OQOI2SatYWq-DZ7qvQ": "UC浏览器一键内存损坏漏洞：利用V8补丁间隙漏洞窃取您的数据",
+    "https://mp.weixin.qq.com/s/cdWpY8JO9e1cYQ3r-RIVpg": "Redis 远程代码执行漏洞曝光：官方容器现“老式”栈溢出高危风险",
+    "https://mp.weixin.qq.com/s/olUhcDJP3u5yK85_jZN02w": "百款AI应用集体“裸奔”：云端漏洞引发数据灾难",
+    "https://mp.weixin.qq.com/s/kkLsRsc_IrP8gkmfUe-BBg": "【已复现】GNU InetUtils telnetd 远程身份认证绕过漏洞(QVD-2026-4408)安全风险通告",
+    "https://mp.weixin.qq.com/s/Do2tOGIiFqA3vpNX6jwG6A": "Windows SMB客户端漏洞可导致攻击者掌控Active Directory环境",
+    "https://mp.weixin.qq.com/s/TgnsahDlk47F73-kVEg0-w": "Anthropic MCP Git 服务器漏洞可用于访问文件和执行代码",
+    "https://mp.weixin.qq.com/s/PA5EhntsCyWfQT2kTE1yNA": "【已复现】多款 Linux telnetd服务中招，仅需一个参数即可远程获取 Root 权限，GNU Inetutils telnetd 远程认证绕过漏洞(CVE-2026-24061)",
+    "https://mp.weixin.qq.com/s/G5gYUhFb9FpBIsyA8-WWiA": "Anthropic官方Git MCP服务器曝链式漏洞，可致文件访问与代码执行",
+    "https://mp.weixin.qq.com/s/P-zBho0S5gxUgX8CVjTVMw": "Cloudflare 修复可绕过 WAF 访问源服务器的 ACM 验证漏洞",
+    "https://mp.weixin.qq.com/s/6qGhmaD7lpwa1c9xJq66GA": "Cloudflare 0Day漏洞可绕过防护直接访问任意主机服务器",
+    "https://mp.weixin.qq.com/s/4F2tY7AP-Qyi5Tak7lPVeg": "未来已来：漏洞挖掘智能体VulnAgent 发现两个Suricata 高危漏洞，并获官方致谢!",
+    "https://mp.weixin.qq.com/s/ctgdyhvNmaIlnJIMeyWLdw": "东⽅通(TongWeb)应⽤服务器 EJB 反序列化远程代码执⾏漏洞",
+    "https://mp.weixin.qq.com/s/DDpmajusKV6Ul7kCDd7aSw": "WordPress插件AdvancedCustomFields:Extended曝高危漏洞",
+    "https://mp.weixin.qq.com/s/t4F-x2ojV5-ZhTTH_UoHgQ": "记某edusrc的任意用户密码重置漏洞挖掘",
+    "https://mp.weixin.qq.com/s/cLkmlGSUgnQHKX-S_grqCA": "【接口漏洞第八章第二节】挖掘GraphQL漏洞第一步：高效发现端口的三大实战技巧",
+    "https://mp.weixin.qq.com/s/kS6rZDDpz0f6xl5aW1_3BA": "Cloudflare 零日漏洞：可绕过 WAF 访问全球任意后端主机",
+    "https://mp.weixin.qq.com/s/dhbggM7euhNdc_AHz3sjww": "【安全圈】WordPress 插件漏洞导致 10 万余个网站面临权限提升攻击风险"
 }
