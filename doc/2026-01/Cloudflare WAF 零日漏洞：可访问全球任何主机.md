@@ -1,12 +1,12 @@
 #  Cloudflare WAF 零日漏洞：可访问全球任何主机  
-助力行业的
-                    助力行业的  李白你好   2026-01-21 00:02  
+点击关注👉
+                    点击关注👉  马哥网络安全   2026-01-21 13:02  
   
 ## 前言  
   
 **Cloudflare 的 Web 应用程序防火墙 (WAF) 中存在一个严重的零日漏洞，攻击者可以利用该漏洞绕过安全控制，并通过证书验证路径直接访问受保护的源服务器。**  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpUbJRYmxCqhticTq3ezWNjib5FS97qqiaGJEMEyVeVjXIn6zJuia0asFj1g/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicp9TNygLz3rSBXFcpoz6cnrSDr9TYiaMb9kIQmZYY5htZkVmu3jhQicDsg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0 "")  
   
 或者，当 .well-known 远远超出 WAF 的范围。几乎所有现代网站上都存在一个专为机器而非人类设计的 URL。它位于 /.well-known/acme-challenge/  
  下，在证书颁发期间的几秒钟内，一个机器人会访问它来检查你是否真正控制该域名。这个访问本应是平淡无奇的，一项例行无声的任务。但在这种情况下，这个安静的路径变得非常喧闹！  
@@ -32,29 +32,29 @@ ACME 是证书颁发机构验证域名控制的协议。在 HTTP-01 方法中，
 以下是演示环境的代表性截图。第一张图片显示正常请求在 Cloudflare 的阻塞页面结束。第二张显示我们用于阻塞演示中 cf- 主机名的自定义规则。接下来的三张显示每个演示主机在请求针对 ACME 路径时返回源站生成的 404。  
 #### 阻塞页面（正常请求）  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpVIbCsJ4ukPs1GqGTqKbn0qOVhvT4zFf0LCvibLahHA6VMze2UItha0Q/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpgFwv94FPIO9yuSsnz3yNmuWaCeenic3JNRo7uIzgIwfmxSXQdf7CbvQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1 "")  
 #### 自定义规则 - 阻塞 cf-* 主机名  
   
 在演示中，我们创建了一个规则，阻塞任何包含 cf- 的主机名。在生产环境中，许多团队阻塞公共互联网，只允许公司 VPN 出口。此规则模拟了演示的态势。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicppuTWgfuuXx3PT2jQk75Mp5dCjiaHDPdsESbvStgBN8e4VCZzJxCia8xA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpGcNIxlc3XmzUNhhEbD5EzApnktXo30rxzvxsx8HJkDvq4TVc3scABA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2 "")  
 #### 源站 404 (Next.js)  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicp1kZJ8B6pkAzu4uKPdmtiaegibxW4vReRezT97TL8xc0iaGaBUzkiavwmOg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicp8kmUoVgOVfCdN7gOM1Dcm2osciakeOrcTA2cQEvSMuGryzOdKDVibObA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3 "")  
 #### 源站 404 (Spring)  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpr52rhQDXw1qbmmRdQleVFqV1lNldfLic13smeSomicy4xRf3WM5bUAkQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpf5BMpO0JuVfEOxqlyRFz9oVA6QvD9ZadvhawSKm493qZ3fZ9cic2AGQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4 "")  
 #### 源站 404 (PHP)  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpfzH8OxZHCG16Qx4Tbo6Mxcr1BLyuiaJibjZU4YC3h4l8A8wXmNj6oQjg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpe67LXe6mcic9r9T1oUoEk4OLmhTc7cIBMvMkoopBQOcibQSQXPoys17w/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5 "")  
 ## 我们如何获得稳定的挑战令牌  
   
 为了可重复的演示，我们想要一个不会在中途消失的挑战令牌。Cloudflare 的 SSL/TLS 自定义主机名功能允许你管理 CNAME 到你的域名的第三方主机名和证书。我们添加了一个名为 cf-well-known.fearsoff.org  
  的自定义主机名，并明确选择了 HTTP 验证。下面的截图显示了添加流程和结果的待验证状态。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpekL0Fc4ic9OnhCYIjqRz7cKRVgKU0ILLibjyIeicdSb6kVYjlyENsn1aA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpjMic01ojsIhDaGruxfdGv3PZZrybuHMia6BFNPNUcDoTVD0MooHBQ2iaA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=6 "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpZjTY9qEKrvUC3fdYqicaLZ8zOuUyMahY72ywClTDmiaJfv6a4ibKCUkcw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpdR5yPia8iapomNRkNJcy8RPtd2GTKsVGm2vCHODPk0gbLdpQ4VoiaCe4A/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=7 "")  
   
 我们故意没有为 cf-well-known.fearsoff.org  
  创建 DNS 记录，因此颁发保持无限期挂起。在挂起状态下，Cloudflare 会显示验证机器人最终会请求的 HTTP-01 URL，例如：  
@@ -75,11 +75,11 @@ WAF 控制旨在成为前门。当单个维护路径绕过该门时，“内部�
  )，请求可以落在 **/actuator/env**  
  上并返回进程环境和配置。这些数据通常包括敏感值——数据库 URL、API 令牌、云密钥——它实质上提高了源站中任何错误的爆炸半径。  
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicprASt7cOP9TLWaxEMZPocGRhBZZDVpr4kL2FVIrDyLZhXekYFx5ibg1g/640?wx_fmt=jpeg&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpXnrWgVrDxwnslTkEg98VOxQUeZpibVcAlOicVj2MdCTfY9nlot7ybI2Q/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=8 "")  
   
 服务器端渲染框架通常将服务器派生的值发送到客户端以水合页面。当 WAF 拥有前门时，这是没问题的。当源站直接响应时，同一页面可以暴露从未打算从公共互联网可达的操作细节。  
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpezfUSBAecIJU1IDBI7zwl3y7OVjbMyOXSaOE58WWdTZteUXH2dzoeA/640?wx_fmt=jpeg&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicptYOwr4HqqoYnCTjFibyXyjeJIlj9comB2mdQbrrvQ6t7iaFl6xKeucDw/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=9 "")  
 #### PHP 路由  
   
 许多 PHP 应用程序通过 **index.php**  
@@ -87,9 +87,9 @@ WAF 控制旨在成为前门。当单个维护路径绕过该门时，“内部�
  就足以证明影响。在我们的演示中，即使是 404 流程也通过 **index.php**  
  路由，这就是为什么一旦源站开始直接说话，它就会暴露额外页面。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpy6byQkcricsicIcE7U1icDa7WJpQoicKicYxj1boKzXQEGPgJYT4H2u84xA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicp24PIW4oWlnRtAzavsZGgxAmhMmC1hx2ZtibLiaOepic2QsnhIrMhib044g/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=10 "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpCdbt628kCicUrAnyJycyvf4L2Adq647Fic4Tlu21icHdI7zmyp0rYrLVw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpCdbt628kCicUrAnyJycyvf4L2Adq647Fic4Tlu21icHdI7zmyp0rYrLVw/640?wx_fmt=png&from=appmsg#imgIndex=11 "")  
   
 这些演示是后果，而不是原因。根问题是特殊路径上的 WAF 决策。一旦门打开，源站内任何脆弱的东西突然就只需一个请求。  
 ## 不只是 404s - 账户 WAF 规则被忽略  
@@ -128,14 +128,45 @@ WAF 控制旨在成为前门。当单个维护路径绕过该门时，“内部�
 最危险的 bug 往往从例行细节开始。证书机器人的通道绝不应成为侧门。  
   
 参考链接：https://fearsoff.org/research/cloudflare-acme  
-## 网络安全情报攻防站  
   
-**www.libaisec.com**  
+文章内容转自李白你好，侵删  
   
-综合性的技术交流与资源共享社区  
+![](https://mmbiz.qpic.cn/mmbiz_png/INa3lxHH4I2aV3zCmfiaj4cXeQ2HQd6s53wJS36HYI65ib48fujDK8najfWiahicsljzsdT3dfVS8HHyxaviaSd8g2g/640?wxfrom=5&wx_lazy=1&wx_fmt=png&wx_co=1 "")  
   
-专注于红蓝对抗、攻防渗透、威胁情报、数据泄露  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUD0LPDib71VXU5N7sUkSnOicpYXERCGjDZUmdUumAsoGPeFAaNkHsNWNJ8CicXwAib87E7Bz6Y2ksial5w/640?wx_fmt=png&from=appmsg "")  
+**今日福利**  
+  
+为了帮助大家入门网安，给大家推荐一份**《新手Web安全入门到精通》**  
+，共474页，包括**代码审计、web漏洞、靶场实例分析、信息收集、渗透思路**  
+等，将Web安全攻防知识点一网打尽。  
+  
+代码配图，简单明了，攻防思路清晰透彻，关键是里面还配有多张思维导图，通俗易懂，实用性非常强，很适合新手学习参考~  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAnknFkWScXBu74vvYnrsKQeSxTJrcrLN5T9jWmO0WejeeRJzjYSo3QGnGGfibOmCRIZ8EGptiaTnKdQ/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0 "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAnknFkWScXBu74vvYnrsKQeF72M9DhzWE0U5434e5vlcoySfD4kicEibGeMVZpdnNRQqqWubWRUPHjg/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2 "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAnknFkWScXBu74vvYnrsKQeoy1Raic5D6tP84jY8W0WQhGOnVCxrSsy1hAuOj9YIcsDnbXicRXxDyyg/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4 "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAnknFkWScXBu74vvYnrsKQe0TTJ1MOQuQjyAMbyichkoSYxqLTCbNnIEJ8osu9dso3rJULxpwr6nUQ/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6 "")  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_gif/NUwbCdTuQQxsJibSZGyA8akP9TVyJfPcpJ4uIZJDj3akRUfv6cNbnksGJQsibq1aH8iaGDic7TvOaSwNGXLdQ8PC9A/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+  
+  
+以上资料获取请扫码  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAmQO922RsJH8oNVNo28hujdEqkbnrZTKI5IXibkbQGT3Es1s6wruZu9giczEsvg0Qr6G06ldEuVGFPg/640?wx_fmt=png&from=appmsg "")  
+  
+识别上方二维码  
+  
+备注：  
+**web安全入门到精通**  
+  
+100%免费领取  
+  
+（是扫码领取，不是在公众号后台回复，别看错了哦）  
+  
+  
   
   
