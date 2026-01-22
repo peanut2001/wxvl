@@ -16950,5 +16950,21 @@
     "https://mp.weixin.qq.com/s/cRPHl0FEL3kDkyQZ7GYo7g": "攻防技巧|快速高效挖掘.net系统漏洞",
     "https://mp.weixin.qq.com/s/hVSCK-VKXjF3gexImuTLjA": "最新高危漏洞威胁情报合集 (2026-01-21）",
     "https://mp.weixin.qq.com/s/BMcWmEx-eOHcnxLR7adA9g": "常见OAuth 漏洞：未验证token",
-    "https://mp.weixin.qq.com/s/uvGBBrunRX0YfXPc0tzWJw": "能注入 ≠ 理解漏洞：sqli-labs 第 29 关的真正考点"
+    "https://mp.weixin.qq.com/s/uvGBBrunRX0YfXPc0tzWJw": "能注入 ≠ 理解漏洞：sqli-labs 第 29 关的真正考点",
+    "https://mp.weixin.qq.com/s/UfQQRjykQEQ8b3daTtgX7w": "CVE-2026-1245：Node.js 二进制解析器存在代码注入漏洞",
+    "https://mp.weixin.qq.com/s/SYJIrOezFBMMmNVoeCPLYw": "Windows Telephony 服务权限提升漏洞（CVE-2026-20931）",
+    "https://mp.weixin.qq.com/s/piPYyb2z20u4jfiy5iyP2w": "【实战】利用 Salesforce ID 格式特性实现用户遍历",
+    "https://mp.weixin.qq.com/s/mGeC5uOsD9dGqjyyDmORaw": "ShiroExploit_通过另类手法实现Shiro一把梭",
+    "https://mp.weixin.qq.com/s/M_HqXbkyI1mS60xhydHzIg": "等保测评人员必备(Golin 弱口令 漏洞 扫描 等保 基线核查工具)",
+    "https://mp.weixin.qq.com/s/XIgbXhuy-8iB6TNHR5QDXg": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/dU0G9lyFItVrY2w4QbzflQ": "新Shiro反序列化漏洞一站式综合利用工具",
+    "https://mp.weixin.qq.com/s/akf5Cw9EAuvZ7rvV9XGbJQ": "Apache配置以及漏洞",
+    "https://mp.weixin.qq.com/s/hNfyByebe8NhUzgEPwAWgg": "普华PMS OfficeService存在任意文件读取漏洞【已复现】",
+    "https://mp.weixin.qq.com/s/Aserf-XcM_VDo4teW6FDiA": "CVE-2026-21440 AdonisJS框架的关键路径遍历漏洞",
+    "https://mp.weixin.qq.com/s/Q2hUkyEnhDa9GYIbTsVLxg": "如何用AI挖掘帆软表达式注入0day",
+    "https://mp.weixin.qq.com/s/fHTgD2xXT5ART3_6iBRFWg": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/jG2hBYYv7V9Z9NRis58q8Q": "【AI代码审计】漏洞挖掘多智能体系统",
+    "https://mp.weixin.qq.com/s/9_TUGRuTHWbjWV4Iy6reTA": "Webpack打包js.map泄露导致的通杀0day",
+    "https://mp.weixin.qq.com/s/-0zSGpUQHYoSOTuUaxUrHQ": "漏洞预警 | OpenCode远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/fOibkfQKvN8Ics33uLqV9g": "漏洞情报(已验证) | 友数聚科技-CPAS审计管理系统 存在文件读取漏洞"
 }

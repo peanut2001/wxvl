@@ -1,5 +1,8 @@
 #  Webpack打包js.map泄露导致的通杀0day  
-猎洞时刻  赤弋安全团队   2026-01-09 07:54  
+原创 猎洞时刻
+                    猎洞时刻  猎洞时刻   2026-01-22 00:01  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9evFcNH31Pjh0f83GEqsibSQsGS8uUrBPLU6VJbjw8CTibOgsYYOhqqKpaQHb9BicrJcCOYhZG0tYOg/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
 **免责声明**  
   
@@ -159,5 +162,213 @@ api/Monitor/GetActiveUsers
   
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH8Lbe9KICSQuvwicibXsrfda5bCE4tEibVCV9GiaEYGiaRkQ4uiasY5rqn1jPRywboTgRhkHCoE1xUPSeeQ/640?wx_fmt=png&from=appmsg "")  
+  
+**该漏洞已经提交到漏洞平台。**  
+  
+  
+**仅供技术参考，请勿复现！**  
+  
+  
+**感谢观看！**  
+  
+  
+## 往期内容：  
+## 众测实战 | 一次正负叠加导致的支付漏洞  
+## 实战一个小细节导致Mysql、Redis沦陷  
+## OpenID泄露导致小程序任意登录  
+## 记一次swagger的深度测试造成第三方API  
+## 服务接管  
+## 记一次从抖音日到edu站点的经历  
+## 如何在日常渗透中实现通杀漏洞挖掘  
+## 记一次实战日穿整个系统getshell-共九个漏洞  
+## 记一次无需Burp也能拿下Edu证书站  
+## 记一次拿下全校信息的漏洞+垂直越权  
+## 记一次非常严重的全校越权信息泄露  
+## Edu证书站 | 某票据系统JS提取未授权通杀  
+## XSS 如何乱杀企业SRC -公开课视频  
+## SRC第二期公开课！！超全信息收集！不听白不听！  
+## [收费公开课] 前后端分离渗透和三个突破口  
+## 一次越权信息泄露扩散到全校任意密码修改  
+## Edu证书站嘎嘎乱杀（二）  
+## Edu证书站嘎嘎乱杀（一）  
+## &lt;干货&gt;微信小程序特有通用漏洞&小程序强开F12开发工具&小程序反编译&Accesstoken泄露  
+  
+  
+**关于网络安全考证**  
+  
+  
+  
+我这边也承接网络安全证书考证，  
+包括 CISP、NISP一级、NISP二级、CISP-PTE、CISP-PTS、CISSP、CISP-IRE 、CISP-IRS 、ISO27001、PMP 等证书。  
+价格肯定要比大部分机构等都要低，咱们这边一直都是做的性价比  
+  
+有需要的哥哥们可以随时来找我。加我二维码下面有。  
+  
+  
+  
+  
+**猎洞时刻第三期漏洞挖掘培训**  
+  
+  
+  
+      目前猎洞时刻漏洞挖掘第三期正在开课中，  
+覆盖企业赏金SRC，众测赏金，线下项目渗透和安全行业工作能力提升、EDUSRC、CNVD、工作内推、一对一在线技术解答，目前价格  
+仅需1千多  
+，每期都可以永久学习，无二次收费，并且赠送内容200+、成员500+的内部知识星球，保证  
+无保留教学  
+,不搞水课!   
+众多学员入职CT、LM、QAX、AH、360等安全大厂。 酒香不怕巷子深，可以打听已经报名学员，我这边是否全程干货!  
+   
+绝对对得起师傅们花的钱! (以下课表内容并非全部，经常在上课期间添加新的技能方向!)  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6wkBASUnGtVTLJFdwLRiafq5oc8QjqibWWogTsgtJQdlJlODzq0nbtUXQ/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH8niaibllxloYdY6TSAdbVlBfQe8gazCRJM3pT3kJvxUlX7VXAxkziazmVyJWXEjuysbHyyCuTMtkicgQ/640?wx_fmt=png&from=appmsg "")  
+  
+  
+  
+         《近期报名学员成果汇报》  
+  
+众多学员入职各大安全厂商，  
+ct、lm、qax、ah、360等等均有学员入职。不仅仅是挖洞课程，我这边也会给大家提供入职规划和入职经验！  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH84CZG0rxw3p3txiar8hJibcTIW1TWkYEQyTzhlTNG0ULg55ST3qoFJicKqdG2duTK3vnSyGJSCVB84w/640?wx_fmt=png&from=appmsg "")  
+  
+  
+  
+本课程承诺是无保留教学、无私藏关键内容点、并且一对一解答！  
+  
+被大量学员强推“涨价”的课程，我始终坚信，服务好大家，才能越走越远！  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicFpowf1mKe20qfMpLBcVUV3GNlUgJqeaXJeNbIzwcDy9Ida8A1CSxspGmFsxvvD8Lic0A0oZTTtQg/640?wx_fmt=png&from=appmsg "")  
+  
+来自学员企业赏金SRC、众测赏金挖掘反馈。  
+  
+低价一千多的课程并不代表内容比市面上几千块的差，打破一分钱一分货的观念！  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHib8yZ3NhhWwLtaxkWNkcegE3RvEoAXXpRU8bGiao5OMyTQ7KgWLiaUoPkEvp7U5taCln3WR4Eev9jIQ/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH8UxOWM97eAicfmjMhgKL4uNUEyD7ZsjTqict6k3HloxdkjFLE1Jsh1AglfJxZTrSrJtGq5GBguqI4Q/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHico4s7YfpmcHmWDlhInfXQ3onZicYXP4Uj0ouTBT5XjibfTpA5kiaZzewcDnlKhicLxy12Oa2lm7jhU0g/640?wx_fmt=png&from=appmsg "")  
+  
+另一个学员通过支付漏洞的小思路，再次拿下6000+1000+1000=8000的赏金。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibuYDC1YReFUiaeeCxEEPVGLtLoVj3RuVDBBbgqHziabLlOEyPQEXkgRibQr4gJXo39gNh5gVc18Fprg/640?wx_fmt=png&from=appmsg "")  
+  
+下面众多学员赏金回本内容。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicsfiaZKESbNhgIqu5tfwALYzWcagp19avqg68yMJXCg9StedSvztuxtGT6WGBHBiaibHIYEckicljtdQ/640?wx_fmt=png&from=appmsg "")  
+  
+  
+学员获取万元赏金，一次性回本几倍。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicsfiaZKESbNhgIqu5tfwALYq4mHFyFHQUTQQicUGGnS8DGd6Jbedpz2liaF96icgXhCIDfCeozmuHrcA/640?wx_fmt=png&from=appmsg "")  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicsfiaZKESbNhgIqu5tfwALYWLzgrwhMOKM4oibbxP1JtZtQIJFAL9hfayESyzYWcUXPyqNMIEE3b6A/640?wx_fmt=png&from=appmsg "")  
+  
+  
+下面是来自学员的EDUSRC挖掘成果，一个人三个月八百分，将近30本证书。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicsfiaZKESbNhgIqu5tfwALYPgLWriacNzyAksQdXYKsQD7jtMjSF7Y25IBicTG27RfiatM8ic3mbB8WbQ/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicsfiaZKESbNhgIqu5tfwALY74flREur5Db0xDhQQNkhPwOQa5m0TMlSYYw6A9df8DaRucXxkalafw/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicsfiaZKESbNhgIqu5tfwALYrO3pcEQavRY72PWs1iahoibBuHYCibm4dicwFVgOWpicZcL0JfxXdhYSTvg/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicsfiaZKESbNhgIqu5tfwALY0yI2I0ENze3361KDnO6LoSOO8cibXQoA4qrODniayeWmMicnTpcoj5KxQ/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH8VWQOPbxZDB3kouUjgT7stg4yibGuRqZjASFb9MwV0mD8p50Jw034ZJictwIL03grzS3GHoWSD5uSg/640?wx_fmt=png&from=appmsg "")  
+  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6Ec7V2mdpARcXNrxUyhHMk8te0kpDQiaZXvyo6A31AhbuXl7n4ibc9cCQ/640?wx_fmt=png&from=appmsg "")  
+  
+来自学员报名后的真实评价和反馈。  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6ExiaaJbSDqQ9FamicjOoN4aVVwjQveKGicwNjicNe87FTDdB7P98yM44qQ/640?wx_fmt=png&from=appmsg "")  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6Ec7V2mdpARcXNrxUyhHMk8te0kpDQiaZXvyo6A31AhbuXl7n4ibc9cCQ/640?wx_fmt=png&from=appmsg "")  
+  
+  
+从一开始的疑惑不信任，怕跳入另一个培训的坑，到最后的逐帧学习！  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6pZc2LXREMNIpdRNlNGwTLeasLyoPpfJ7XFy1SNRrAVOSA5VXVT0vuA/640?wx_fmt=png&from=appmsg "")  
+  
+  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6MqcwfLpquPZVpCn91la3icYKcEFjaGMLqx4kjG25icSd8yh3n6YgnveQ/640?wx_fmt=png&from=appmsg "")  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6Ec7V2mdpARcXNrxUyhHMk8te0kpDQiaZXvyo6A31AhbuXl7n4ibc9cCQ/640?wx_fmt=png&from=appmsg "")  
+  
+  
+每节课都是花费大量时间进行撰写，不仅仅课程全程干货，针对于学员的入职、简历修改、实习和职业规划、工作内推、在线技术解答这些售后服务也一直在认真做。  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6wIz6wQlIl3dRCMgYAD4PSfDuAKDWhWRyLiboPFlpmdjFwmI9Gj3MWkQ/640?wx_fmt=png&from=appmsg "")  
+  
+  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6eD0pXNbsvuELZ16CtzibM3uL5nhCm7oicNfmjkWHGpZVDPN3TsDlatGQ/640?wx_fmt=png&from=appmsg "")  
+  
+课程加量不加价、上述课表中的内容，不代表第三期的全部内容，实际上课会比课表多更多。  
+  
+课程中还会有更多  
+其他师傅的技术分享  
+，比如溯源反制、edu通杀挖掘、企业src挖洞新技巧等等...  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHicsfiaZKESbNhgIqu5tfwALYwIGqmltkLxbXpaLLEzu6tvafJO5Dms4WGGGtghnKFELWlIPs7VtzRQ/640?wx_fmt=png&from=appmsg "")  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6Ec7V2mdpARcXNrxUyhHMk8te0kpDQiaZXvyo6A31AhbuXl7n4ibc9cCQ/640?wx_fmt=png&from=appmsg "")  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6Ec7V2mdpARcXNrxUyhHMk8te0kpDQiaZXvyo6A31AhbuXl7n4ibc9cCQ/640?wx_fmt=png&from=appmsg "")  
+  
+除此之外，包括什么HW和入职简历修改、安全厂商内推等资源、内部众测项目我们团队都是具有资源的！然后还会赠送一个永久的安全圈子(原收费圈)，有大量漏洞实战报告、各种实用工具和安全圈资源！  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6Ec7V2mdpARcXNrxUyhHMk8te0kpDQiaZXvyo6A31AhbuXl7n4ibc9cCQ/640?wx_fmt=png&from=appmsg "")  
+  
+  
+**报名课程赠送永久纷传圈子**  
+  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6eD0pXNbsvuELZ16CtzibM3uL5nhCm7oicNfmjkWHGpZVDPN3TsDlatGQ/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6FLfpsSWbNzwzQJza2ibjh5l0t3uicD8DeibFlUfgLvXmn2ZRiadKlnAc6g/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6Ec7V2mdpARcXNrxUyhHMk8te0kpDQiaZXvyo6A31AhbuXl7n4ibc9cCQ/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6k8MJLUSTKbCwbEwE2yejib6SYER4uY4BtrtZUnb6SeSvuRt3AjLwLvA/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6Ec7V2mdpARcXNrxUyhHMk8te0kpDQiaZXvyo6A31AhbuXl7n4ibc9cCQ/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6rjNT659oVt15pR0AtT7JlmpPbBUs7867ticTdKV1mG1J7Uc6u7Krukg/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6Ec7V2mdpARcXNrxUyhHMk8te0kpDQiaZXvyo6A31AhbuXl7n4ibc9cCQ/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6DJ5I3VEY7k9SF6SUquUR3YJclSqSdNUCpjSxCcYylIHeicacZexfG5A/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6Ec7V2mdpARcXNrxUyhHMk8te0kpDQiaZXvyo6A31AhbuXl7n4ibc9cCQ/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6VC1D4NCVicfwicEAYsX7wDv3omQiavvibbN2yA5cYfyldFoiaRVNo4vjQMA/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6Ec7V2mdpARcXNrxUyhHMk8te0kpDQiaZXvyo6A31AhbuXl7n4ibc9cCQ/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6JibDHMf1cBZRic6MoEicRWSc8EICPuAGKMFwq388JKMxyGarX66EdPd5Q/640?wx_fmt=png&from=appmsg "")  
+  
+  
+**技术交流和咨询课程加我微信**  
+  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6eD0pXNbsvuELZ16CtzibM3uL5nhCm7oicNfmjkWHGpZVDPN3TsDlatGQ/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTH9XP1icfbxx4tSm3LXJWMmF6wkBASUnGtVTLJFdwLRiafq5oc8QjqibWWogTsgtJQdlJlODzq0nbtUXQ/640?wx_fmt=png&from=appmsg "")  
   
   
