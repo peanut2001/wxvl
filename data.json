@@ -16990,5 +16990,16 @@
     "https://mp.weixin.qq.com/s/HETieO2Ts06x3SzcKf-fjw": "Spring Boot Actuator未授权访问漏洞",
     "https://mp.weixin.qq.com/s/IR1bJGUKWK-edwRF1znjAw": "细一点 你说的没有含金量了从爬虫到特权：SRC路径遍历漏洞的全链路狩猎",
     "https://mp.weixin.qq.com/s/n6iYKFOJaqDgAGEXGH3YAQ": "网安实验干货每日分享反射型XSS漏洞挖掘-0122",
-    "https://mp.weixin.qq.com/s/ilgelT0vc-_eXKW7ydl5pA": "StealC木马源码泄露后续：安全研究员教你如何通过控制台漏洞反向溯源"
+    "https://mp.weixin.qq.com/s/ilgelT0vc-_eXKW7ydl5pA": "StealC木马源码泄露后续：安全研究员教你如何通过控制台漏洞反向溯源",
+    "https://mp.weixin.qq.com/s/qAJ4jNFQ3lRKmOOOzJ8DJg": "如何在 Anthropic 官方的 Git MCP 服务器中发现代码执行漏洞",
+    "https://mp.weixin.qq.com/s/6mm-VK2MRNfk61dVXkTSjQ": "【在野利用】SmarterMail 管理员密码重置认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/aHJdEhJ0wad5jy95H-5BfQ": "严重漏洞WhisperPair曝光：黑客可通过蓝牙音频设备实施追踪与窃听",
+    "https://mp.weixin.qq.com/s/8qEzJlihCm0gUQ6aP2Y1jQ": "漏洞预警 | GNU InetUtils telnetd 远程认证绕过漏洞（CVE-2026-24061）",
+    "https://mp.weixin.qq.com/s/DlItFJYQPLPsypCrYMHB_g": "【556】【有靶场】CVE-2026-24061 GNU Inetutils telnetd 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/xGvTLEX8S9tBXKQRp5lchw": "【在野利用】SmarterMail 身份认证绕过漏洞(QVD-2026-4572)安全风险通告",
+    "https://mp.weixin.qq.com/s/7VwPrcxgru6SVdi3ISQYuQ": "Jeecg-boot常见漏洞汇总（二）",
+    "https://mp.weixin.qq.com/s/QtSmkvWeDD9qerLDIXnNpw": "大语言模型驱动的漏洞利用自动化时代来临",
+    "https://mp.weixin.qq.com/s/waGpfH8zdgwFBDtumlfBGA": "GNU InetUtils telnetd 远程认证绕过漏洞(CVE-2026-24061)",
+    "https://mp.weixin.qq.com/s/eQQJwaBF3at6iNvkPaVNiw": "从单一 ID 到机密报告披露 —— 打破真实漏洞赏金计划中的模式",
+    "https://mp.weixin.qq.com/s/9gaJgRZmNDoZBjKb5jXwfA": "【漏洞复现】CVE-2026-24061 直接拿root权限！GNU InetUtils telnetd远程认证绕过漏洞！"
 }
