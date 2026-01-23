@@ -17033,5 +17033,18 @@
     "https://mp.weixin.qq.com/s/vgRuAGD7ZCehLka6qOevAw": "漏洞复现 || Mailpit服务端请求伪造",
     "https://mp.weixin.qq.com/s/p0W9O4xwN_e1LCRAzg9b9g": "告别手动构造 Payload：Burp 文件上传漏洞测试插件，1000 + 绕过 Payload 全解析|工具分享",
     "https://mp.weixin.qq.com/s/cLYZnYwasBNTTzHB82t9Mg": "特斯拉遭黑客攻击，37个零日漏洞在Pwn2Own Automotive 2026大会上被演示。",
-    "https://mp.weixin.qq.com/s/BJiz2NU5xP6g2ix9BefFHg": "大华智能物联ICC综合管理平台evo-apigw∕evo-cirs∕file∕download接口存在任意文件读取漏洞 附POC"
+    "https://mp.weixin.qq.com/s/BJiz2NU5xP6g2ix9BefFHg": "大华智能物联ICC综合管理平台evo-apigw∕evo-cirs∕file∕download接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/JdFHGnPoYvYeMxx388qnQw": "漏洞管理已死，暴露面管理才是王道！",
+    "https://mp.weixin.qq.com/s/2RAosh0fuuQEqELTvvkMVg": "Shiro反序列化漏洞一站式综合利用工具 -- ShiroExploit（1月21日更新）",
+    "https://mp.weixin.qq.com/s/D1MCddkEOYAjc86i2iCrlQ": "CVE-2026-24061 telnet远程认证绕过漏洞批量检测工具",
+    "https://mp.weixin.qq.com/s/Im8V9aC0QCyvCYmDDHSeMw": "GNU InetUtils telnetd 存在超过11年的严重漏洞，攻击者可绕过登录并获得 root 权限",
+    "https://mp.weixin.qq.com/s/RHFXDnrbuC6FBstmuRn9bw": "又是 Prompt 注入！复盘 CVE-2025-68143：如何利用 Git 配置缺陷实现从“对话”到“提权”的跨越",
+    "https://mp.weixin.qq.com/s/l4FxwHNyzZwLPK1QEAEgFQ": "漏洞复现 | 深信服运维安全管理系统 get_all_application_release 敏感信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/H4YX04tne4xEY8l2kTS2sw": "漏洞预警 | n8n沙箱逃逸漏洞",
+    "https://mp.weixin.qq.com/s/yVaRh_6xzV34iiBpWF9KWw": "针对若依系统nday的常见各种姿势利用",
+    "https://mp.weixin.qq.com/s/70_DPMJ-pYIddHFdn2uJmQ": "【已复现】用友Bip LoginWithV8存在路径穿越(CVE-2025-66744)",
+    "https://mp.weixin.qq.com/s/1y53-Iu3JEuNqmiZN-OyIQ": "CVE-2026-23837：MyTube 认证绕过漏洞深度解析",
+    "https://mp.weixin.qq.com/s/ccAjrPywlZzMtB8TTkdVnA": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/g9s7GG35kW3vupXjQPOgDQ": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/ZCM2ZmrEu0DAPi8vJ8p0oQ": "新鲜出炉，Shiro 反序列化漏洞一站式综合利用工具"
 }
