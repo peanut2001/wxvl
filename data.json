@@ -17082,5 +17082,20 @@
     "https://mp.weixin.qq.com/s/vngnc3t2mZfVMflpOhYaYw": "Fortinet 确认 FortiCloud SSO 身份验证绕过漏洞正被积极利用",
     "https://mp.weixin.qq.com/s/raMZ9uzpZFh_hKwtFh9onA": "【AI安全】DeepAudit 降临！Multi-Agent 协作击穿代码漏洞防线",
     "https://mp.weixin.qq.com/s/eKC2GH7qNRWHD9z_xEkqCw": "利用 WAF 窃取 Salesforce OAuth 令牌",
-    "https://mp.weixin.qq.com/s/bkfkXy-jRgLyml3PLgNFSA": "【2026漏洞挑战专项第一期V1.0】白帽子集结令！火力全开"
+    "https://mp.weixin.qq.com/s/bkfkXy-jRgLyml3PLgNFSA": "【2026漏洞挑战专项第一期V1.0】白帽子集结令！火力全开",
+    "https://mp.weixin.qq.com/s/zftHpC3tmCyYEH-e3eJL8Q": "第153篇：Struts2-069 XXE 实体注入漏洞分析+复现",
+    "https://mp.weixin.qq.com/s/trgUEzPNgsj8yw463DqL5Q": "XSS 漏洞练习靶场，覆盖反射型、存储型、DOM 型、SVG、CSP、框架注入、协议绕过等多种场景",
+    "https://mp.weixin.qq.com/s/oH2NAXIFssc2e8x63jzfFw": "CVE-2026-24061漏洞快速检测工具",
+    "https://mp.weixin.qq.com/s/xwsVLHHEStbpMPb3cwBZJQ": "Oracle WebLogic惊现满分漏洞：CVE-2026-21962深度解读",
+    "https://mp.weixin.qq.com/s/jsD0IV6R6Umi7jhHsB7r8w": "零基础入门 EDU SRC 漏洞挖掘！3 个核心技巧，轻松拿高校证书",
+    "https://mp.weixin.qq.com/s/yZYpy7Fx4GEh1FMpOblsTQ": "漏洞扫描神器-xray从入门到放弃",
+    "https://mp.weixin.qq.com/s/EX-k632VSBWWJsTJY6rpVw": "车联网漏洞挖掘方法及典型案例剖析",
+    "https://mp.weixin.qq.com/s/pcTKDQs16Kyz95nn7larYw": "vBulletin远程代码执行漏洞复现（CVE-2025-48827）",
+    "https://mp.weixin.qq.com/s/CtGHR7RTXWlJOJhLYytBZw": "Web 化被动漏洞扫描平台FlowEye（流量之眼）",
+    "https://mp.weixin.qq.com/s/mgiGbBA6I074gRvkNhKniw": "漏洞复现 | Oracle E-Business Suite远程代码执行漏洞（CVE-2025-61882）",
+    "https://mp.weixin.qq.com/s/qkWr6CtnlTRpO2kWsrBLSg": "【附POC及复现环境】一个-f参数即可获得root权限？GNU InetUtils Telnetd 远程认证绕过漏洞（CVE-2026-24061）",
+    "https://mp.weixin.qq.com/s/blWcg3Gdf_mlKTVU68drUQ": "CVE-2026-24061 GNU Inetutils telnetd 命令注入涉及汽车零部件",
+    "https://mp.weixin.qq.com/s/FU4-PHu7HWPYg4A8zmO60g": "【云原生安全】容器环境DIND场景下的漏洞发现与利用",
+    "https://mp.weixin.qq.com/s/AuaBvlfbaD2_pOJ51Oit1A": "漏洞挖掘实战系列（终极指南）：从入门到精通的完整攻防体系",
+    "https://mp.weixin.qq.com/s/PuTosiWnfW4cR-fPs4cdFA": "7B漏洞检测模型VulnLLM-R，训练数据，过程，模型全开源，效果很好"
 }
