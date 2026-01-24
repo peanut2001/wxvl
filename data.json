@@ -17100,5 +17100,10 @@
     "https://mp.weixin.qq.com/s/PuTosiWnfW4cR-fPs4cdFA": "7B漏洞检测模型VulnLLM-R，训练数据，过程，模型全开源，效果很好",
     "https://mp.weixin.qq.com/s/N3xr4HJsZOK80Bh9C3oCCA": "从工单到Shell:利用PHP过滤器和CNEXT攻击osTicket(CVE-2026-22200)",
     "https://mp.weixin.qq.com/s/lsC9ppKpI8Jqcx3WoWHxMg": "高危漏洞威胁情报合集 (2026-01-22~2026-01-23）",
-    "https://mp.weixin.qq.com/s/NiruKEIvIlsrGplNF9RzGw": "微软向FBI提供BitLocker恢复密钥：隐私保护的重大漏洞暴露"
+    "https://mp.weixin.qq.com/s/NiruKEIvIlsrGplNF9RzGw": "微软向FBI提供BitLocker恢复密钥：隐私保护的重大漏洞暴露",
+    "https://mp.weixin.qq.com/s/RqvfzBLB1A47WTJlnu2Jbw": "苹果第二大代工厂立讯精密疑机密数据外泄；GPT-5.2可规模化开发0Day漏洞利用程序 | FreeBuf周报",
+    "https://mp.weixin.qq.com/s/4PMH2yw8JaxTnM0_-YC13w": "CISA更新KEV目录，新增四个正在被积极利用的软件漏洞",
+    "https://mp.weixin.qq.com/s/pHYh2DSyTyVVn-Mh8pE38w": "Web篇 | 密码重置漏洞挖掘指南：从原理到实战的完整路径",
+    "https://mp.weixin.qq.com/s/nbPsxTqg3jG3G8fqqglLbg": "注意：Github上这个CVE-2025-8088工具实为木马下载器",
+    "https://mp.weixin.qq.com/s/m26ce6CYk87l-xBxr4MJ3w": "MindsDB 文件路径处理漏洞预警：未授权信息泄露与拒绝服务风险"
 }
