@@ -17097,5 +17097,8 @@
     "https://mp.weixin.qq.com/s/blWcg3Gdf_mlKTVU68drUQ": "CVE-2026-24061 GNU Inetutils telnetd 命令注入涉及汽车零部件",
     "https://mp.weixin.qq.com/s/FU4-PHu7HWPYg4A8zmO60g": "【云原生安全】容器环境DIND场景下的漏洞发现与利用",
     "https://mp.weixin.qq.com/s/AuaBvlfbaD2_pOJ51Oit1A": "漏洞挖掘实战系列（终极指南）：从入门到精通的完整攻防体系",
-    "https://mp.weixin.qq.com/s/PuTosiWnfW4cR-fPs4cdFA": "7B漏洞检测模型VulnLLM-R，训练数据，过程，模型全开源，效果很好"
+    "https://mp.weixin.qq.com/s/PuTosiWnfW4cR-fPs4cdFA": "7B漏洞检测模型VulnLLM-R，训练数据，过程，模型全开源，效果很好",
+    "https://mp.weixin.qq.com/s/N3xr4HJsZOK80Bh9C3oCCA": "从工单到Shell:利用PHP过滤器和CNEXT攻击osTicket(CVE-2026-22200)",
+    "https://mp.weixin.qq.com/s/lsC9ppKpI8Jqcx3WoWHxMg": "高危漏洞威胁情报合集 (2026-01-22~2026-01-23）",
+    "https://mp.weixin.qq.com/s/NiruKEIvIlsrGplNF9RzGw": "微软向FBI提供BitLocker恢复密钥：隐私保护的重大漏洞暴露"
 }
