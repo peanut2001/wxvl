@@ -17105,5 +17105,9 @@
     "https://mp.weixin.qq.com/s/4PMH2yw8JaxTnM0_-YC13w": "CISA更新KEV目录，新增四个正在被积极利用的软件漏洞",
     "https://mp.weixin.qq.com/s/pHYh2DSyTyVVn-Mh8pE38w": "Web篇 | 密码重置漏洞挖掘指南：从原理到实战的完整路径",
     "https://mp.weixin.qq.com/s/nbPsxTqg3jG3G8fqqglLbg": "注意：Github上这个CVE-2025-8088工具实为木马下载器",
-    "https://mp.weixin.qq.com/s/m26ce6CYk87l-xBxr4MJ3w": "MindsDB 文件路径处理漏洞预警：未授权信息泄露与拒绝服务风险"
+    "https://mp.weixin.qq.com/s/m26ce6CYk87l-xBxr4MJ3w": "MindsDB 文件路径处理漏洞预警：未授权信息泄露与拒绝服务风险",
+    "https://mp.weixin.qq.com/s/7SinEMKajtsgs7biytJ_1Q": "Linux Telnetd 远程代码执行！靶场镜像",
+    "https://mp.weixin.qq.com/s/TIw8j1MYCHIE5Hsxm7h_MA": "蓝凌EKP系统接口thirdImSyncForKKWebService接口存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/A-wQSZ_AwoGeZlLF_h7fDg": "拆解 AI Skills 的五大逻辑漏洞与防御实践",
+    "https://mp.weixin.qq.com/s/fCToUaR-iSciYZ6uu8D3VQ": "CVE-2026-24061：GNU InetUtils Telnetd 身份验证绕过漏洞"
 }
