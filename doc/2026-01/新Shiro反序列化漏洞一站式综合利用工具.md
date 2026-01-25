@@ -1,30 +1,16 @@
 #  新Shiro反序列化漏洞一站式综合利用工具  
-FightingLzn9
-                    FightingLzn9  夜组安全   2026-01-22 00:02  
+ 黑白之道   2026-01-25 01:19  
   
-免责声明  
-  
-由于传播、利用本公众号夜组安全所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号夜组安全及作者不为此承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
-**所有工具安全性自测！！！VX：**  
-**NightCTI**  
-  
-朋友们现在只对常读和星标的公众号才展示大图推送，建议大家把  
-**夜组安全**  
-“**设为星标**  
-”，  
-否则可能就看不到了啦！  
-  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2WrOMH4AFgkSfEFMOvvFuVKmDYdQjwJ9ekMm4jiasmWhBicHJngFY1USGOZfd3Xg4k3iamUOT5DcodvA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
 ## 工具介绍  
   
 ShiroExploit，是一款Shiro反序列化漏洞一站式综合利用工具。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5foWCe1dVSqyYExiaDCq98ehsYiakG9ib6SibKda50SeSEY0ibsI8zR7XrDg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5ccT3v8Bn03ZOnwHWNiaANM5cBYn7QaHCYpiaPbaym6N75zl4yONRb54Q/640?wx_fmt=png&from=appmsg&watermark=1 "")  
 ## 工具功能  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s59bcsf5gscc7TIj5ajN5GxeaIz1T9L3gyalk0g2WNywTcyhKNHXibicqA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5VhbfAwB2HfwibTgXCahWIYONvPaCNE3pcWhniav1yxxpJ2RNRdzl0QXQ/640?wx_fmt=png&from=appmsg&watermark=1 "")  
   
 1、区分ShiroAttack2，采用分块传输内存马，每块大小不超过4000。  
   
@@ -47,55 +33,47 @@ ShiroExploit，是一款Shiro反序列化漏洞一站式综合利用工具。
   
 JDK18场景下实现命令执行和打入多种内存马。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5kUhkgZhRdicibKicTSGAFmicgzIa7P5MfEMF7QCLhfplLJxK2YZu6Twmsg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5eSlnbicS32XibzadGULDib0r23Mw7N33OdKbcCnGLUazgtiaMAXmw8MP8A/640?wx_fmt=png&from=appmsg&watermark=1 "")  
   
 跑key。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5foWCe1dVSqyYExiaDCq98ehsYiakG9ib6SibKda50SeSEY0ibsI8zR7XrDg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5ccT3v8Bn03ZOnwHWNiaANM5cBYn7QaHCYpiaPbaym6N75zl4yONRb54Q/640?wx_fmt=png&from=appmsg&watermark=1 "")  
   
 探测利用链。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5flLMUcPYVm63myssLiaR8icBfVIaEkicRmWQibvFpZRrbDFZ5ux5aziahWA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5dQdASUCB5xemSpk9CCsicvfmhO7hu4yAINuSczaS1icUFqVccSP2icZIw/640?wx_fmt=png&from=appmsg&watermark=1 "")  
   
 命令执行。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5nOYaTbsVbIt8DccULa0wxk6lKOhENdv6ssZUUH2uzOJtKQuRlpcopA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5eicI8Uj6CULiandtlOpM23GuLPYjur5hErDUtweqKic2EK1m1ByD1sPfA/640?wx_fmt=png&from=appmsg&watermark=1 "")  
   
 打入Godzilla内存马（支持Behinder内存马）。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5icibNlSFD9BHLtmWRGXQvFArTFiaZbr2BQvsgu4MjtLZrBwQCv1etiaI8A/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5GicHUEp8DzNz0YQGv98EIAzyeOoJwrP36UnxDVF1ylvqUG63Xfjl7ibg/640?wx_fmt=png&from=appmsg&watermark=1 "")  
   
 打入SUO5V2内存马。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5UvIHSM9bzQmfmJZqQKqlUrxic1Ciana4zkGGuic48ZliaCZRCFqKoLUBnQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5qtjVVALWmHvuy7hANTdTD4sdUYPIickpic2N9ZEia4CrxOZOJ2Xz1icI3g/640?wx_fmt=png&from=appmsg&watermark=1 "")  
   
 支持Tomcat10及以上的内存马。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5SBqUY8ickcmUUgp3gWZVUQZxG7Aiae23yXg5fibGd60boXzLYZ37elsSA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UIRDCPwyvn1Vg58IfWQ0s5sE6Izn96Xd8nBpfXEHTJT4Wty6RxXVX0icCFWJvV2B7VB3VI8Vicicl6g/640?wx_fmt=png&from=appmsg&watermark=1 "")  
   
   
 ## 工具获取  
   
   
+https://github.com/FightingLzn9/ShiroExploit  
   
-点击关注下方名片  
-进入公众号  
-  
-回复关键字【  
-260122  
-】获取  
-下载链接  
+> **文章来源：夜组安全**  
   
   
-## 往期精彩  
+  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+  
+如侵权请私聊我们删文  
   
   
-[【红队】一款专业的多协议漏洞利用与攻击模拟平台2026-01-21](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247496145&idx=1&sn=38b1287a667573c09ed4f056afc64b4c&scene=21#wechat_redirect)  
-[流量之眼 - 智能被动漏洞扫描平台2026-01-20](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247496127&idx=1&sn=b2e9109847a88c84ac808305babaeb8a&scene=21#wechat_redirect)  
-[XSS 漏洞练习靶场，覆盖反射型、存储型、DOM 型、SVG、CSP、框架注入、协议绕过等多种场景2026-01-19](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247496120&idx=1&sn=f2153c748593255cb40ae6f8e50a3ab8&scene=21#wechat_redirect)  
-[一款自动化403/401绕过工具 | 请求头注入、谓词篡改等多种实战技巧2026-01-16](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247496113&idx=1&sn=6e48fa8ac465f65cffbe9753de1b9c7f&scene=21#wechat_redirect)  
-[Burp Suite插件 | 高级HTTP头修改安全头来绕过安全限制、不同来源或设备的请求2026-01-12](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247496101&idx=1&sn=731e9d4fa9782a4bfdcc8622d4bf16b9&scene=21#wechat_redirect)  
+**END**  
   
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/OAmMqjhMehrtxRQaYnbrvafmXHe0AwWLr2mdZxcg9wia7gVTfBbpfT6kR2xkjzsZ6bTTu5YCbytuoshPcddfsNg/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&random=0.8399406679299557&tp=webp "")  
   

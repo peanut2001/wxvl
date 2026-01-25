@@ -1,8 +1,7 @@
 #  严重漏洞WhisperPair曝光：黑客可通过蓝牙音频设备实施追踪与窃听  
-胡金鱼
-                    胡金鱼  嘶吼专业版   2026-01-22 06:02  
+ 黑白之道   2026-01-25 01:19  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/wpkib3J60o297rwgIksvLibPOwR24tqI8dGRUah80YoBLjTBJgws2n0ibdvfvv3CCm0MIOHTAgKicmOB4UHUJ1hH5g/640?wx_fmt=gif "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
 安全研究人员在 Google 的Fast Pair（快速配对）协议中发现了一个严重漏洞，攻击者可利用该漏洞劫持蓝牙音频配件、追踪用户位置并窃听对话。   
   
@@ -32,8 +31,16 @@
 源：  
 https://www.bleepingcomputer.com/news/security/critical-whisperpair-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/wpkib3J60o2ib9obXIwF1RXaR0k8M8jbccdpWAicgrXc3RNlicqT1r3JnV6GtprWyLS85NpT9HhFQcAGuCR6HTBLaQ/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/wpkib3J60o2ib9obXIwF1RXaR0k8M8jbccKJLNMnYSQoBMc5op5F5MuUbWL4d8jlJha6uiazcDEROaGfORrWUWicyg/640?wx_fmt=png&from=appmsg "")  
+> **文章来源：嘶吼专业版**  
+  
+  
+  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+  
+如侵权请私聊我们删文  
+  
+  
+**END**  
   
   
