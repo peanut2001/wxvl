@@ -17111,5 +17111,9 @@
     "https://mp.weixin.qq.com/s/A-wQSZ_AwoGeZlLF_h7fDg": "拆解 AI Skills 的五大逻辑漏洞与防御实践",
     "https://mp.weixin.qq.com/s/fCToUaR-iSciYZ6uu8D3VQ": "CVE-2026-24061：GNU InetUtils Telnetd 身份验证绕过漏洞",
     "https://mp.weixin.qq.com/s/hm2Il1-KceEPg8uVnYxWWg": "快云服务器助手 filemana.aspx∕GetDetail 接口存在任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s/8cI1JjOPms573PRTZwYitQ": "StackWarp漏洞为什么不能影响海光C86"
+    "https://mp.weixin.qq.com/s/8cI1JjOPms573PRTZwYitQ": "StackWarp漏洞为什么不能影响海光C86",
+    "https://mp.weixin.qq.com/s/zSC_91YlsXBLtGk2gRt-pw": "CVE-2025-61686｜React Router未授权目录遍历漏洞（POC）",
+    "https://mp.weixin.qq.com/s/4xp8wx7QBNTTmPQErCvrFg": "CVE-2025-68493｜Apache Struts 2(S2-069)外部实体（XXE）注入漏洞（POC）",
+    "https://mp.weixin.qq.com/s/AZkj7nh8VIeetGQjK957Bw": "黑客利用 telnetd 身份验证绕过漏洞获取 root 权限",
+    "https://mp.weixin.qq.com/s/EBJ2iR1LDb0lSJxzv9tleQ": "一个整数溢出引发的全球安全危机：CVE-2022-22822深度解析"
 }
