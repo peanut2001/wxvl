@@ -17121,5 +17121,19 @@
     "https://mp.weixin.qq.com/s/lSyVhjNrDvFzf4dYbZrang": "dddd指纹和POC扩展",
     "https://mp.weixin.qq.com/s/O4rT0ENFGY-cqKbIrCC0PA": "严重漏洞WhisperPair曝光：黑客可通过蓝牙音频设备实施追踪与窃听",
     "https://mp.weixin.qq.com/s/BW6dfSR2P-CnAHXEqsg_pw": "构建可扩展的 Windows 驱动漏洞分析器 (第一部分)",
-    "https://mp.weixin.qq.com/s/Ny2l60b-VSK9bH9NVinneQ": "某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞"
+    "https://mp.weixin.qq.com/s/Ny2l60b-VSK9bH9NVinneQ": "某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞",
+    "https://mp.weixin.qq.com/s/CV1kBwJCgrcUr6tJt_-aHA": "谨慎Github恶意项目CVE-2025-8088 WinRAR 路径遍历的漏洞编号",
+    "https://mp.weixin.qq.com/s/LQLv9mp211AZLMZ1d6iRUA": "Shannon：这个AI渗透工具以96.15%漏洞利用成功率，重新定义AI自动化渗透测试",
+    "https://mp.weixin.qq.com/s/j5fn1sxYaHavYHqNIMAwQA": "CVE-2025-8088复现学习",
+    "https://mp.weixin.qq.com/s/Z_YuOGq_j8RdG4j7349jYQ": "【0day】安全漏洞通告：SmarterMail 管理员密码重置 (CVE-2026-23760) 与 Dify SSRF (CVE-2025-56520)|孚*云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/vMpoqAR6A-5cMMxPx28c7Q": "复现（CVE-2026-21440）@adonisjs∕bodyparser路径遍历漏洞利用",
+    "https://mp.weixin.qq.com/s/V3gPS3Dgr_C6V0Xvor52gg": "红队必备POC模板管理漏扫工具(1243POC模板，支持多平台使用)",
+    "https://mp.weixin.qq.com/s/5xJHAkUPkVRozgbRVbpsMg": "工具推荐 | 一款Shiro反序列化漏洞一站式综合利用工具",
+    "https://mp.weixin.qq.com/s/qnOLR3S50FQRiIpkpJeV3w": "【接口漏洞第八章第五节】GraphQL内省探测全流程：从探测、查询到可视化与工具利用",
+    "https://mp.weixin.qq.com/s/R__xiTDK5srXHzgYjuK92g": "畅捷通 mailinactive.php sql注入漏洞",
+    "https://mp.weixin.qq.com/s/BLVEJwDiCZv0epthliqu1A": "AI 狩猎 0day-自动化漏洞挖掘1000+ cve 和0day",
+    "https://mp.weixin.qq.com/s/48IEzA6K-P407HlKJURCIA": "Laravel Reverb严重漏洞预警：CVSS 9.8高危反序列化RCE深度解析",
+    "https://mp.weixin.qq.com/s/K2exIbQDTxCZMQJ1MRwloQ": "黑客在 Pwn2Own Automotive 2026 大会上利用 76 个零日漏洞获得 1,047,000 美元奖金",
+    "https://mp.weixin.qq.com/s/1wylCGy0hDm8GvnpR7WDgA": "Pwn2Own 2026首日，研究人员凭借37个独特0Day漏洞斩获51.65万美元",
+    "https://mp.weixin.qq.com/s/Xxifb1sKQyCn_WD9q7PV_Q": "【漏洞预警】GNU InetUtils Telnetd USER环境变量注入 权限绕过漏洞（CVE-2026-24061）"
 }
