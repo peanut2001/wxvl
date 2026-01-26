@@ -17158,5 +17158,11 @@
     "https://mp.weixin.qq.com/s/JH6hYPKtRDlnSUW9shdDuQ": "网安实验干货每日分享目录遍历漏洞-0126",
     "https://mp.weixin.qq.com/s/sC21RGnKULmVdHcWmEcotQ": "CVE-2026-24061GNU Inetutils telnetd 远程认证绕过漏洞预警",
     "https://mp.weixin.qq.com/s/1H2uL8OG_droMBMRnxVa4Q": "CVE-2025-38352 Part 1 - 在野利用的 Android Kernel 竞争 UAF 分析与 PoC",
-    "https://mp.weixin.qq.com/s/81ADNkSilnl85esFTP02vQ": "Instagram隐私漏洞：私密账号并不私密"
+    "https://mp.weixin.qq.com/s/81ADNkSilnl85esFTP02vQ": "Instagram隐私漏洞：私密账号并不私密",
+    "https://mp.weixin.qq.com/s/QeTajwMfx-Ql-bY5-dR-dg": "CVE-2025-38352 Part 2 - 无需内核补丁延长竞争窗口",
+    "https://mp.weixin.qq.com/s/x4WQc2bc9ARgA_QT7ZI27w": "星图实验室接棒玄武实验室，完成底层密码学库漏洞的最终修复",
+    "https://mp.weixin.qq.com/s/QyGJPErsLR9L-ErekZ4IfQ": "VMware vCenter Server 远程代码执行漏洞安全预警（CVE-2024-37079）",
+    "https://mp.weixin.qq.com/s/ZYvKrB7yBnETCiGzmkZiQA": "CVE-2025-38352 Part 3 - 揭开 Chronomaly：从竞态窗口到 Root 提权",
+    "https://mp.weixin.qq.com/s/Ddpnhu8gyF1wuCya6Jq8hg": "CVE-2026-22686：AI代理沙箱的完美逃逸",
+    "https://mp.weixin.qq.com/s/p_bjUbHdQoIkQDWrbH_5FA": "DudeSuite 漏洞播报 全网漏洞早知道【20260126】"
 }
