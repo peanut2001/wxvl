@@ -17164,5 +17164,20 @@
     "https://mp.weixin.qq.com/s/QyGJPErsLR9L-ErekZ4IfQ": "VMware vCenter Server 远程代码执行漏洞安全预警（CVE-2024-37079）",
     "https://mp.weixin.qq.com/s/ZYvKrB7yBnETCiGzmkZiQA": "CVE-2025-38352 Part 3 - 揭开 Chronomaly：从竞态窗口到 Root 提权",
     "https://mp.weixin.qq.com/s/Ddpnhu8gyF1wuCya6Jq8hg": "CVE-2026-22686：AI代理沙箱的完美逃逸",
-    "https://mp.weixin.qq.com/s/p_bjUbHdQoIkQDWrbH_5FA": "DudeSuite 漏洞播报 全网漏洞早知道【20260126】"
+    "https://mp.weixin.qq.com/s/p_bjUbHdQoIkQDWrbH_5FA": "DudeSuite 漏洞播报 全网漏洞早知道【20260126】",
+    "https://mp.weixin.qq.com/s/tXjZ8yqnr8i4C4Y5cPfVJg": "Meta低调修复Instagram高危权限漏洞，安全社区质疑其响应透明度",
+    "https://mp.weixin.qq.com/s/NZbfQNFcp8tQKJHBidP-Ng": "【接口漏洞第八章第六节】GraphQL端点发现了，然后呢？实战利用自省功能“透视”API",
+    "https://mp.weixin.qq.com/s/a9mtTzTNbgRrlR40Hc_aFA": "[安全启动链破坏][EL3级任意代码执行]记一次对Nothing Phone手机的漏洞利用链的研究",
+    "https://mp.weixin.qq.com/s/0nLaLjwXR4KmwigTEoHxqQ": "Node.js二进制解析库曝高危漏洞可导致恶意代码注入",
+    "https://mp.weixin.qq.com/s/gkQOfK6TbjYNay4RDXeRuQ": "警惕！GNU Inetutils telnetd 9.8分高危漏洞来袭，附批量可视化检测工具",
+    "https://mp.weixin.qq.com/s/Xf5HoteQwbma5sPGXnBjIw": "黑客利用微软 SharePoint 漏洞，绕过多因素验证窃取能源公司员工凭据",
+    "https://mp.weixin.qq.com/s/IxrijjH7ybKJxPQ1LXBx7Q": "CISA：四款企业软件中的漏洞已遭利用",
+    "https://mp.weixin.qq.com/s/yCzriw2y9a13_GiNLF59UQ": "上周关注度较高的产品安全漏洞20260119-20260125)",
+    "https://mp.weixin.qq.com/s/sfuwtfWCtBygkIBiAFzm4g": "CVE-2026-20931 Windows 电话服务漏洞分析",
+    "https://mp.weixin.qq.com/s/zt3kp5jevfqQTdEPR97UPg": "警惕！GNU Inetutils telnetd 9.8分高危漏洞来袭，附批量可视化检测工具",
+    "https://mp.weixin.qq.com/s/7GLhmogxiYwVSx0Nj2fGGw": "VMware vCenter关键RCE漏洞已遭攻击利用",
+    "https://mp.weixin.qq.com/s/mQ3XSZ-tw1ldGrNKCz59vw": "企业管理类系统常见漏洞挖掘指北",
+    "https://mp.weixin.qq.com/s/ctZMTfUnMAKjnxQ8OAvjOg": "CNVD漏洞周报2026年第3期",
+    "https://mp.weixin.qq.com/s/izrt9LFIav0d-JXyJ8QGFQ": "【高危漏洞预警】Linux内核IP6隧道漏洞CVE-2026-23003",
+    "https://mp.weixin.qq.com/s/q1QlzOObcgzkCDfLJj-J8g": "【免费领】全网最详尽的漏洞挖掘实战技巧大全"
 }
