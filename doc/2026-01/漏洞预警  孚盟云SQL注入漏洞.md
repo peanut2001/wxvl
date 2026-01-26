@@ -1,6 +1,6 @@
 #  漏洞预警 | 孚盟云SQL注入漏洞  
 浅安
-                    浅安  浅安安全   2026-01-23 00:01  
+                    浅安  浅安安全   2026-01-26 00:00  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -25,7 +25,7 @@ SQL注入
   
 **简述：**  
 孚盟云的  
-/m/Dingding/Ajax/AjaxCustomizeReport.ashx  
+/m/Dingding/Ajax/AjaxFormDefault.ashx  
 接口存在SQL注入漏洞，攻击者可通过伪造cookie获取系统访问权限，进而该漏洞获取数据库敏感信息。  
   
 **0x04 影响版本**  
