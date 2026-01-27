@@ -17218,5 +17218,11 @@
     "https://mp.weixin.qq.com/s/Hjm6RE5h0OjW3rTJdiUgAg": "网安靶场实战指南（第2期）：DVWA靶场从零到精通——环境搭建+基础漏洞全突破",
     "https://mp.weixin.qq.com/s/oyu-CHhmGZzmyzC3Ms8QvA": "CNVD漏洞周报2026年第3期",
     "https://mp.weixin.qq.com/s/uUmqvBKRLeTHnb4YCgUAkA": "一款定制 LLM 应用的自动提示注入扫描器(自动找出50+种提示词注入漏洞)",
-    "https://mp.weixin.qq.com/s/Gyy6BL5Z7pdSSwMnjA3k7A": "【紧急补丁】Microsoft Office OLE 缓解绕过漏洞 (CVE-2026-21509) 已发现在野利用"
+    "https://mp.weixin.qq.com/s/Gyy6BL5Z7pdSSwMnjA3k7A": "【紧急补丁】Microsoft Office OLE 缓解绕过漏洞 (CVE-2026-21509) 已发现在野利用",
+    "https://mp.weixin.qq.com/s/CnhHtqc8mVGaCqSsrxn9Vw": "Tomcat CVE-2025-24813远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/qemXzyoh9m893qgEFjeJtA": "Radware 披露 “ZombieAgent” 漏洞：一种可实现系统静默接管与云端数据窃取的新型零点击AI智能体漏洞",
+    "https://mp.weixin.qq.com/s/r_j8SXaRUQnb9T1lARrFaw": "雷神众测漏洞周报2026.1.19-2026.1.25",
+    "https://mp.weixin.qq.com/s/x5VdCVoT_N5NxUjx0jefyQ": "利用一个spel漏洞点测试一下自己内存马查杀工具的强度",
+    "https://mp.weixin.qq.com/s/iADJW5VlR1oWh5oaP9XaNQ": "EDUSRC-支付类漏洞思路合集（包括证书，小通杀等实例）",
+    "https://mp.weixin.qq.com/s/nTKt2muSh2MBMqLShNm5Og": "【漏洞通告】Microsoft Office 安全特性绕过漏洞(CVE-2026-21509)"
 }
