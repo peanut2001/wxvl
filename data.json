@@ -17224,5 +17224,16 @@
     "https://mp.weixin.qq.com/s/r_j8SXaRUQnb9T1lARrFaw": "雷神众测漏洞周报2026.1.19-2026.1.25",
     "https://mp.weixin.qq.com/s/x5VdCVoT_N5NxUjx0jefyQ": "利用一个spel漏洞点测试一下自己内存马查杀工具的强度",
     "https://mp.weixin.qq.com/s/iADJW5VlR1oWh5oaP9XaNQ": "EDUSRC-支付类漏洞思路合集（包括证书，小通杀等实例）",
-    "https://mp.weixin.qq.com/s/nTKt2muSh2MBMqLShNm5Og": "【漏洞通告】Microsoft Office 安全特性绕过漏洞(CVE-2026-21509)"
+    "https://mp.weixin.qq.com/s/nTKt2muSh2MBMqLShNm5Og": "【漏洞通告】Microsoft Office 安全特性绕过漏洞(CVE-2026-21509)",
+    "https://mp.weixin.qq.com/s/iz4JRyt5ke_7t-etsHt69A": "漏洞预警| CVE-2026-21962 Weblogic RCE漏洞",
+    "https://mp.weixin.qq.com/s/BjgTB3SdIrkGup0meLYDKg": "【接口漏洞第八章第七节】赏金猎人实战：如何快速从GraphQL自省中挖出高危漏洞",
+    "https://mp.weixin.qq.com/s/KYGF8A8dPdThH5RC3-d0wA": "漏洞速递 | CVE-2026-21962 Weblogic RCE漏洞（建议自查）",
+    "https://mp.weixin.qq.com/s/BP_vqp8CqTo43gK0b_WlZA": "记某edusrc通杀漏洞思路分享",
+    "https://mp.weixin.qq.com/s/ZvIrk3cgKs6491cLxYzxgg": "“零点击”实现数据窃取！警惕Superhuman AI漏洞让邮件成为黑客入口",
+    "https://mp.weixin.qq.com/s/xM0p0PGeN5nAA0Odi5dG2A": "Apache Hadoop 漏洞暴露系统，可能导致崩溃或数据损坏",
+    "https://mp.weixin.qq.com/s/xHwT8bJqGVbRaVR5qmXUlQ": "微软紧急修复已遭利用的 Office 0day 漏洞",
+    "https://mp.weixin.qq.com/s/RRgkWtM-3vg8cHOHrRPjCA": "CVSS 9.8高危沙箱逃逸漏洞，vm2缺陷危及数百万应用",
+    "https://mp.weixin.qq.com/s/_ASalqnaZ7RbLDHqdGdPZw": "微软紧急更新修复Office 0Day漏洞",
+    "https://mp.weixin.qq.com/s/nzbuLKFEZfx6Q8P2XO04jw": "AstrBot任意文件读取漏洞漏洞详细分析及复现（CVE-2025-48957）",
+    "https://mp.weixin.qq.com/s/nd5Gcu3Ju1wqO-HScl4vKw": "GNU Inetutils telnet远程认证绕过漏洞（CVE-2026-24061）分析及自查脚本"
 }
