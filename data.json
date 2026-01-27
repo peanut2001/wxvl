@@ -17235,5 +17235,11 @@
     "https://mp.weixin.qq.com/s/RRgkWtM-3vg8cHOHrRPjCA": "CVSS 9.8高危沙箱逃逸漏洞，vm2缺陷危及数百万应用",
     "https://mp.weixin.qq.com/s/_ASalqnaZ7RbLDHqdGdPZw": "微软紧急更新修复Office 0Day漏洞",
     "https://mp.weixin.qq.com/s/nzbuLKFEZfx6Q8P2XO04jw": "AstrBot任意文件读取漏洞漏洞详细分析及复现（CVE-2025-48957）",
-    "https://mp.weixin.qq.com/s/nd5Gcu3Ju1wqO-HScl4vKw": "GNU Inetutils telnet远程认证绕过漏洞（CVE-2026-24061）分析及自查脚本"
+    "https://mp.weixin.qq.com/s/nd5Gcu3Ju1wqO-HScl4vKw": "GNU Inetutils telnet远程认证绕过漏洞（CVE-2026-24061）分析及自查脚本",
+    "https://mp.weixin.qq.com/s/n0TQiM2C-rDLAWYYCLZ-Gg": "物理访问系统漏洞敞开欧洲大型公司的大门",
+    "https://mp.weixin.qq.com/s/jI5k-Q5rQWULYum_53z0Qw": "【高危漏洞预警】Microsoft Office安全功能绕过漏洞(CVE-2026-21509)",
+    "https://mp.weixin.qq.com/s/R5d_gcewBpWi9q2L56gvUw": "工具推荐 | TsojanScan v2.0：BurpSuite 2026版专属漏洞扫描插件",
+    "https://mp.weixin.qq.com/s/GBjU__UOBuKazRCqMXnN4Q": "CVE-2026-24061 漏洞检测与利用GUI工具（1月26日更新）",
+    "https://mp.weixin.qq.com/s/sJxOp93X2bNH8UkCO7Pacw": "初识IO_FILE Exploitation",
+    "https://mp.weixin.qq.com/s/MrxONnewihyYJyAGWMRgRg": "2025年新增漏洞5万个，公开遭到利用的不足千个"
 }
