@@ -17202,5 +17202,21 @@
     "https://mp.weixin.qq.com/s/tYxc4flkEcQtqQq4ZdwDRw": "1.9-监控POC根据指纹自动创建任务",
     "https://mp.weixin.qq.com/s/uWmADwNDa3x25OQ88dtBsg": "自动化代码审计，支持PHP、Java、Python、Go、Node.js等多种语言项目环境搭建、漏洞分析、漏洞验证、报告产出",
     "https://mp.weixin.qq.com/s/39O6D7Zey-qWJe_vK98ArQ": "CVE-2026-21962｜Oracle WebLogic Server身份认证绕过漏洞（POC）",
-    "https://mp.weixin.qq.com/s/m5ePEz5KDI0c9BWrPS2h5w": "漏洞情报(已验证) | 深科特 LEAN MES系统 WarehouseCheck.ashx 存在SQL注入"
+    "https://mp.weixin.qq.com/s/m5ePEz5KDI0c9BWrPS2h5w": "漏洞情报(已验证) | 深科特 LEAN MES系统 WarehouseCheck.ashx 存在SQL注入",
+    "https://mp.weixin.qq.com/s/tYIeaVmmXwbzGN_xfu67MQ": "【活动】通用漏洞全年3倍奖励，百万奖金持续悬赏！！！",
+    "https://mp.weixin.qq.com/s/-2T1gak48FLEVXABRhbuFw": "【40万POC？？？】小场面，看纽克如何拿捏海量POC场景",
+    "https://mp.weixin.qq.com/s/ioW4o8AQANnvDFXWY-arPQ": "CVE-2026-20045 高危漏洞曝光，Cisco 语音系统存在未授权远程执行风险",
+    "https://mp.weixin.qq.com/s/GyN4XIH5dxuA_496pD-Vbw": "【在野利用】Microsoft Office 安全功能绕过漏洞(CVE-2026-21509)安全风险通告",
+    "https://mp.weixin.qq.com/s/y7cJ6Aq28kQ1Fg-qlpcdFg": "Chrome V8 CVE-2026-0902 内存读取漏洞简析 & POC纪要",
+    "https://mp.weixin.qq.com/s/nAoM_yBliO48aLUgfPOSBA": "腾达路由器敏感信息泄露漏洞 附POC",
+    "https://mp.weixin.qq.com/s/1_d-wS11PlgoiYlTfDljmg": "K8s RCE 0-day漏洞剖析：仅需nodes∕proxy GET权限即可接管集群",
+    "https://mp.weixin.qq.com/s/jb1rLB5oi5IQJKUnwjnihA": "常见信息泄露漏洞总结",
+    "https://mp.weixin.qq.com/s/wn1wktQwNZnJycplqyQ2rA": "一款集成了H3C,致远，泛微，万户，帆软，海康威视，金蝶云星空，畅捷通，Struts等多个RCE漏洞利用工具",
+    "https://mp.weixin.qq.com/s/Oe2f4itq3-cL9MKIeeNY1A": "React 服务器组件爆出“核弹级”漏洞：CVE-2025-55182 到底有多严重？",
+    "https://mp.weixin.qq.com/s/ZPG8ZNXQnVUYDlMBdPzLRg": "Pwn2Own 2026首日，研究人员凭借37个独特0Day漏洞斩获51.65万美元",
+    "https://mp.weixin.qq.com/s/HVaMyw8Gadxk7MPLsuVV3A": "IM即时通讯系统 preview.php 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/Hjm6RE5h0OjW3rTJdiUgAg": "网安靶场实战指南（第2期）：DVWA靶场从零到精通——环境搭建+基础漏洞全突破",
+    "https://mp.weixin.qq.com/s/oyu-CHhmGZzmyzC3Ms8QvA": "CNVD漏洞周报2026年第3期",
+    "https://mp.weixin.qq.com/s/uUmqvBKRLeTHnb4YCgUAkA": "一款定制 LLM 应用的自动提示注入扫描器(自动找出50+种提示词注入漏洞)",
+    "https://mp.weixin.qq.com/s/Gyy6BL5Z7pdSSwMnjA3k7A": "【紧急补丁】Microsoft Office OLE 缓解绕过漏洞 (CVE-2026-21509) 已发现在野利用"
 }
