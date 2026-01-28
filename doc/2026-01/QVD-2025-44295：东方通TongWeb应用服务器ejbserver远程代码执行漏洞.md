@@ -1,6 +1,5 @@
 #  QVD-2025-44295：东方通TongWeb应用服务器ejbserver远程代码执行漏洞  
-原创 漏洞研究组
-                    漏洞研究组  Timeline Sec   2026-01-28 10:30  
+ Bear Hackers Industry   2026-01-28 15:59  
   
 >   
 > 关注我们❤️，添加星标🌟，一起学安全！  
