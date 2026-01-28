@@ -17258,5 +17258,19 @@
     "https://mp.weixin.qq.com/s/Fbr-OCTwVVxTKkgYmrsqvQ": "路由器入侵：TP-Link Archer MR600 路由器存在高危命令注入漏洞",
     "https://mp.weixin.qq.com/s/7OSxqs48F0O8ytYKgNJFyA": "Telnet漏洞或影响全球80万台设备，IoT∕OT设备会很受伤！",
     "https://mp.weixin.qq.com/s/mpNfcgbpEGgTUtuNFm3_YA": "WinRAR路径遍历漏洞在野利用",
-    "https://mp.weixin.qq.com/s/_YGXthMXSd4ch6fM1-crbQ": "GUI | CVE-2026-24061 telnetd 身份验证绕过漏洞检测与利用工具"
+    "https://mp.weixin.qq.com/s/_YGXthMXSd4ch6fM1-crbQ": "GUI | CVE-2026-24061 telnetd 身份验证绕过漏洞检测与利用工具",
+    "https://mp.weixin.qq.com/s/WIEtWZyMqxzgNW1aFF4HDg": "网安实验干货命令执行之DVWA-0128",
+    "https://mp.weixin.qq.com/s/4YRolVCvG_2_GfYkI_vEGw": "漏洞复现 | 深信服运维管理系统 set_port 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s/2aenwppwEtpBzaphxUBKsw": "明源地产ERP MyPub_XMLHTTP.aspx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/woNLuGMPrM_5F8HpmO2hcw": "Pwn2Own 2026首日，研究人员凭借37个独特0Day漏洞斩获51.65万美元",
+    "https://mp.weixin.qq.com/s/nuxjYrZbgVTPy58xdx0bEA": "【漏洞速递】CVE-2026-21859漏洞",
+    "https://mp.weixin.qq.com/s/IaITeh_pR5ok_3Ks5nCa_w": "漏洞验证-铭飞CMS cms∕category∕list接口存在SQL注入(CVE-2022-4375)",
+    "https://mp.weixin.qq.com/s/4hZPPjho41RtrSRUzu8kXQ": "基于大模型的代码审计与漏洞挖掘实战项目",
+    "https://mp.weixin.qq.com/s/pEyd5xiKBvWfehwcASx5rA": "【已复现】Node.js 生态主流沙箱组件 vm2 存在逃逸漏洞（CVE-2026-22709），每周下载量近百万",
+    "https://mp.weixin.qq.com/s/YimGNyQ5I0tZw0DQn53D7A": "【CVE-2026-24061】GNU telnetd 致命认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/lM0dxCitC2c-Ncq_85j4OA": "Microsoft Office 高危漏洞风险通告",
+    "https://mp.weixin.qq.com/s/ylNJ77YEdlpl-U7gk1IGnA": "CSRC开年首测 | 漏洞奖金翻倍，专享新年礼盒！",
+    "https://mp.weixin.qq.com/s/za737nF_cxMKW8jdivxFRw": "上传代码即审计：AI 驱动的自动化漏洞挖掘与 POC 验证平台",
+    "https://mp.weixin.qq.com/s/nzoKuqfTNJeUbpKpnAb7yw": "漏洞验证-明源地产ERP存在身份认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/VqpjysrRYKu_1TE4VfRm1A": "泛微E-Mobile 远程命令执行漏洞（RCE）附POC"
 }
