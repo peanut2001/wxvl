@@ -17241,5 +17241,22 @@
     "https://mp.weixin.qq.com/s/R5d_gcewBpWi9q2L56gvUw": "工具推荐 | TsojanScan v2.0：BurpSuite 2026版专属漏洞扫描插件",
     "https://mp.weixin.qq.com/s/GBjU__UOBuKazRCqMXnN4Q": "CVE-2026-24061 漏洞检测与利用GUI工具（1月26日更新）",
     "https://mp.weixin.qq.com/s/sJxOp93X2bNH8UkCO7Pacw": "初识IO_FILE Exploitation",
-    "https://mp.weixin.qq.com/s/MrxONnewihyYJyAGWMRgRg": "2025年新增漏洞5万个，公开遭到利用的不足千个"
+    "https://mp.weixin.qq.com/s/MrxONnewihyYJyAGWMRgRg": "2025年新增漏洞5万个，公开遭到利用的不足千个",
+    "https://mp.weixin.qq.com/s/ZShQ39Hme_rDg0AqjvMSmA": "漏洞挖掘 | 绕过日志记录进行敏感操作",
+    "https://mp.weixin.qq.com/s/uHGfjznTkElVsG0iucMkgA": "利用飞塔 FortiCloud SSO 零日漏洞的攻击持续在野，亟待补丁发布",
+    "https://mp.weixin.qq.com/s/uT4Em7_AHzKYeuLpDaZGYQ": "Kubernetes 中的 node∕proxy GET 权限漏洞：实现远程代码执行（RCE）",
+    "https://mp.weixin.qq.com/s/OoGpounyOGkUMrIY0aaAGg": "NVIDIA CUDA Toolkit 爆出 4 个高危漏洞：命令注入、任意代码执行，AI 服务器也不安全了",
+    "https://mp.weixin.qq.com/s/zk_Btg9EAZEP0zm0feQMCg": "漏洞预警 | TP-LINK TL-WR940N V6拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s/VnQb3w26nMFetG8Zgtu54g": "Kubernetes 中的 node∕proxy GET 权限漏洞：实现远程代码执行（RCE）",
+    "https://mp.weixin.qq.com/s/MDnWcJfQps02tIUOa7BNuw": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/faKdjbNuYACqb7mjaxnqcg": "Chainlit 被曝访问控制漏洞：已登录用户可非法查看并劫持他人对话线程（CVE-2025-68492）",
+    "https://mp.weixin.qq.com/s/CmokvAeRewf4KxpNHJUZiQ": "【项目实战】复盘 Dify 系统的“组合拳”漏洞",
+    "https://mp.weixin.qq.com/s/7S1o1kA5Y3EqT-y-FS3t1A": "门禁系统“全面失守”：研究揭示高端门控系统存在一系列致命漏洞",
+    "https://mp.weixin.qq.com/s/MASvziQWKRixfxih2kKo0Q": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/Ch0sFpFick9QmXesSYkfgg": "CVE-2025-24305 深度解析：一个可植入无法清除后门的固件层缺陷",
+    "https://mp.weixin.qq.com/s/8pyggy-68CTmtE4G3GB9cA": "IM即时通讯系统 fileupload.php 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/Fbr-OCTwVVxTKkgYmrsqvQ": "路由器入侵：TP-Link Archer MR600 路由器存在高危命令注入漏洞",
+    "https://mp.weixin.qq.com/s/7OSxqs48F0O8ytYKgNJFyA": "Telnet漏洞或影响全球80万台设备，IoT∕OT设备会很受伤！",
+    "https://mp.weixin.qq.com/s/mpNfcgbpEGgTUtuNFm3_YA": "WinRAR路径遍历漏洞在野利用",
+    "https://mp.weixin.qq.com/s/_YGXthMXSd4ch6fM1-crbQ": "GUI | CVE-2026-24061 telnetd 身份验证绕过漏洞检测与利用工具"
 }
