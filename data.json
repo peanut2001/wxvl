@@ -17368,5 +17368,6 @@
     "https://mp.weixin.qq.com/s/Nwnwt8v2OGEBAjOo1GXQkQ": "太阳风 SolarWinds警告称Web帮助台存在严重的远程代码执行和身份验证绕过漏洞",
     "https://mp.weixin.qq.com/s/efU2-wd1ZHFH48t3MHp8Gg": "【接口漏洞第八章第九节】一招绕过GraphQL内省防御：实战利用详解",
     "https://mp.weixin.qq.com/s/QPCJeKRVghy2fnNgq_Q4Yg": "【高危漏洞预警】OpenSSL CMS AuthEnvelopedData栈缓冲区溢出漏洞(CVE-2025-15467)",
-    "https://mp.weixin.qq.com/s/k2QSNDtAPsU8MqWW2fAVVA": "GitLab警告：存在高危双因素认证绕过和拒绝服务漏洞"
+    "https://mp.weixin.qq.com/s/k2QSNDtAPsU8MqWW2fAVVA": "GitLab警告：存在高危双因素认证绕过和拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s/PIZ9vC4Q7g4u3H8XyGIANg": "九思OA软件jsoa∕wap.do存在任意文件读取漏洞 附POC"
 }
