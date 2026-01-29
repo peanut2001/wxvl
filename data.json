@@ -17313,5 +17313,18 @@
     "https://mp.weixin.qq.com/s/ytqmfXv4ZiQnvVro0wd4pw": "Windows 电话服务远程代码执行漏洞剖析",
     "https://mp.weixin.qq.com/s/lnXRMkzdzkUBL25g9HWxjg": "Cloudflare曝零日漏洞：利用证书验证路径可绕过WAF访问任意源站",
     "https://mp.weixin.qq.com/s/vjQ2lGVNCMhMNWU4pw6U1A": "QVD-2025-44295：东方通TongWeb应用服务器ejbserver远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/EUhJqOlATFvX8EabSTtF9Q": "【漏洞预警】Fortinet多款产品身份认证绕过漏洞(CVE-2026-24858)"
+    "https://mp.weixin.qq.com/s/EUhJqOlATFvX8EabSTtF9Q": "【漏洞预警】Fortinet多款产品身份认证绕过漏洞(CVE-2026-24858)",
+    "https://mp.weixin.qq.com/s/xuWr51zaJIBxT3Z_V-M_-Q": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/I0byVZlQfTfzvhavWqBwJA": "CVE-2025-14988：ibaPDA 工业软件存在严重 9.8 级漏洞",
+    "https://mp.weixin.qq.com/s/07mFCKRNe18Tfc2RDZXNDg": "Chrome 144版本发布：修复10项安全漏洞，并修补V8引擎的危险缺陷",
+    "https://mp.weixin.qq.com/s/YK1BS7kNg83t35JV8lQk_g": "锐明技术Crocus系统 Upload存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/4GZ9Pj1pm8-ObSbh8OcaxQ": "自动化代码审计，支持PHP、Java、Python、Go、Node.js等多种语言项目环境搭建、漏洞分析、漏洞验证、报告产出",
+    "https://mp.weixin.qq.com/s/ErjvCAVgjBYuRB3Rt1rQ0A": "台达 PLC 被曝 3 个“9 分级”严重漏洞：真危机，还是被夸大的恐慌？",
+    "https://mp.weixin.qq.com/s/1YR6HLXgk4pSrgbfcoGyRg": "【深度解析】VulnHunter - AI 漏洞猎人v6.0漏洞扫描工具：功能全、速度快、操作简，安全测试的终极解决方案",
+    "https://mp.weixin.qq.com/s/Gl8BUqwPnZ-nkJrAvya1lg": "多客圈子论坛系统任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/QWEx4DuMWJXVuJE5M9DxFw": "漏洞预警 | 英赛特互联网客户服务平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/xEvSR7BXqajut0DnzF5U4w": "2025年度网络安全漏洞分析报告",
+    "https://mp.weixin.qq.com/s/Kfn-epmorp1Yz741OdU4gg": "漏洞预警 | vLLM远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/wJPCkHgw-3hiNsrwkOgIwQ": "Fortinet 修复了 CVE-2026-24858 漏洞，此前检测到 FortiOS SSO 漏洞利用",
+    "https://mp.weixin.qq.com/s/Iy8Np2aPfREuAuo_xSa_fw": "Telnet漏洞或影响全球80万台设备，IoT∕OT设备会很受伤！"
 }
