@@ -17339,5 +17339,7 @@
     "https://mp.weixin.qq.com/s/ZyVVh1BQNOO_fEDtc7Qjqw": "谷歌关于多个威胁行为者利用 WinRAR 严重漏洞 CVE-2025-8088 进行攻击分析",
     "https://mp.weixin.qq.com/s/eUxcfvTsRbed0qJ0cIencg": "Shiro漏洞综合利用工具",
     "https://mp.weixin.qq.com/s/mLIvzi12Xq7mosK-FJD8TQ": "国家漏洞库CNNVD：关于Microsoft Office安全漏洞的通报；韩国公共系统全面沦陷：模拟攻击揭示安全防护重大缺陷| 牛览",
-    "https://mp.weixin.qq.com/s/SB2P0wdu5awWNwHbidMUbg": "Grist-Core 严重漏洞允许通过电子表格公式进行远程代码执行攻击"
+    "https://mp.weixin.qq.com/s/SB2P0wdu5awWNwHbidMUbg": "Grist-Core 严重漏洞允许通过电子表格公式进行远程代码执行攻击",
+    "https://mp.weixin.qq.com/s/iRSKfbWctpUQYg2tmupopQ": "CVE-2025-39566 sql注入漏洞",
+    "https://mp.weixin.qq.com/s/HQDSxpkZFgmPWlBLMxiEgw": "Redis 远程代码执行漏洞（CVE-2025-49844）"
 }
