@@ -17358,5 +17358,15 @@
     "https://mp.weixin.qq.com/s/gakjueNgGFU2unY-WuybOg": "【安全圈】Chrome 发布安全更新，修复后台 Fetch API 漏洞",
     "https://mp.weixin.qq.com/s/1yPCR92RT33Ce4vWxR6DWA": "SolarWinds再曝重大RCE漏洞，企业安全团队旧伤复发",
     "https://mp.weixin.qq.com/s/UgdwoIRiHlXWDa6J_De7wA": "PyTorch安全模式被RCE漏洞攻破，恶意模型可执行任意代码",
-    "https://mp.weixin.qq.com/s/iKSyh5ksFFnH8IzfIlWBGA": "Gemini MCP 曝高危零日漏洞 允许远程攻击"
+    "https://mp.weixin.qq.com/s/iKSyh5ksFFnH8IzfIlWBGA": "Gemini MCP 曝高危零日漏洞 允许远程攻击",
+    "https://mp.weixin.qq.com/s/9ReeaEdtnwoWDU4xi4HooQ": "基于 LLM 多 Agent 的全流程漏洞挖掘系统，已挖数十个真实漏洞",
+    "https://mp.weixin.qq.com/s/Bz_pQpEUUsfVLOBpD9ADgQ": "Burp未授权漏洞自动检测插件 -- Unauthorized_Scan（1月27日更新）",
+    "https://mp.weixin.qq.com/s/_TEUKJ3O2Y0ur4Ow7Utacw": "一个基于LLM的多Agent全流程漏洞挖掘项目",
+    "https://mp.weixin.qq.com/s/uXCFfguP6LvuoF3nhre_cA": "G.O.S.S.I.P 阅读推荐 2026-01-29 超越答案正确性：揪出大模型推理回复中的“隐性逻辑漏洞”",
+    "https://mp.weixin.qq.com/s/JMG7EKojGxuERfZce_Perg": "网安圈的PUA话术，比0day漏洞还伤人",
+    "https://mp.weixin.qq.com/s/WbRrARZWr_wkygZjyTS3TA": "利用 NTLM 反射掌控 Active Directory（CVE-2025-33073）",
+    "https://mp.weixin.qq.com/s/Nwnwt8v2OGEBAjOo1GXQkQ": "太阳风 SolarWinds警告称Web帮助台存在严重的远程代码执行和身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s/efU2-wd1ZHFH48t3MHp8Gg": "【接口漏洞第八章第九节】一招绕过GraphQL内省防御：实战利用详解",
+    "https://mp.weixin.qq.com/s/QPCJeKRVghy2fnNgq_Q4Yg": "【高危漏洞预警】OpenSSL CMS AuthEnvelopedData栈缓冲区溢出漏洞(CVE-2025-15467)",
+    "https://mp.weixin.qq.com/s/k2QSNDtAPsU8MqWW2fAVVA": "GitLab警告：存在高危双因素认证绕过和拒绝服务漏洞"
 }
