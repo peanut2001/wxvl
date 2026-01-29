@@ -17341,5 +17341,22 @@
     "https://mp.weixin.qq.com/s/mLIvzi12Xq7mosK-FJD8TQ": "国家漏洞库CNNVD：关于Microsoft Office安全漏洞的通报；韩国公共系统全面沦陷：模拟攻击揭示安全防护重大缺陷| 牛览",
     "https://mp.weixin.qq.com/s/SB2P0wdu5awWNwHbidMUbg": "Grist-Core 严重漏洞允许通过电子表格公式进行远程代码执行攻击",
     "https://mp.weixin.qq.com/s/iRSKfbWctpUQYg2tmupopQ": "CVE-2025-39566 sql注入漏洞",
-    "https://mp.weixin.qq.com/s/HQDSxpkZFgmPWlBLMxiEgw": "Redis 远程代码执行漏洞（CVE-2025-49844）"
+    "https://mp.weixin.qq.com/s/HQDSxpkZFgmPWlBLMxiEgw": "Redis 远程代码执行漏洞（CVE-2025-49844）",
+    "https://mp.weixin.qq.com/s/07vRoWodsj0lNgPPMjk2CQ": "n8n 两个高危漏洞可导致认证RCE",
+    "https://mp.weixin.qq.com/s/fcDX1r74I8YzIG2WSnU4Wg": "【论文速读】| VulnResolver：一款基于大语言模型的自动化漏洞修复混合智能体框架",
+    "https://mp.weixin.qq.com/s/5ulg_3lR2wbQ5M3MGvWQXg": "【论文推荐】大模型组队挖掘0day，成功率竟然远超专业工具？",
+    "https://mp.weixin.qq.com/s/3AbOpNlidTI5KPcfqkEVOA": "CVE-2026-24747：PyTorch模型加载功能曝出8.8分高危漏洞",
+    "https://mp.weixin.qq.com/s/rBLFnFKwLayQU7fIwoJOaQ": "严重OpenSSL漏洞可使远程攻击者执行恶意代码",
+    "https://mp.weixin.qq.com/s/sI8BOAyzeLdZ_z5AyINkkQ": "Fortinet 修复已遭利用的严重 FortiOS 漏洞",
+    "https://mp.weixin.qq.com/s/h7uRGRlLnkJuZtINKiZo3A": "【已复现】OpenSSL CMS模块栈溢出漏洞(CVE-2025-15467)：可导致拒绝服务或远程代码执行",
+    "https://mp.weixin.qq.com/s/4ZNdVVPLk_QwgrFTkJRNzQ": "路由器安全研究｜D- Link DIR-823G v1.02 B05 复现与利用思路",
+    "https://mp.weixin.qq.com/s/dkjJDZKQp9zdw7lA8-dAhw": "密码重置漏洞挖掘指南：从原理到实战的完整路径",
+    "https://mp.weixin.qq.com/s/5EN6WrqP-AVVuhsnAtz9ow": "WordPress后台存储型XSS 全网首发POC及复现环境（CVE-2025-12067）",
+    "https://mp.weixin.qq.com/s/pTw1PJuArTmLxnfycTt1UQ": "Chrome安全更新修复Background Fetch API中的严重漏洞",
+    "https://mp.weixin.qq.com/s/vq41cwGRjiKoATtNMCx03A": "【安全圈】PyTorch \"安全\"模式被严重RCE漏洞攻破，可执行任意代码",
+    "https://mp.weixin.qq.com/s/_Paf3WYVXDV9gDmQwYdeLg": "Linux 内核攻击：Punch hole (2025 Backdoor skernel 复现)",
+    "https://mp.weixin.qq.com/s/gakjueNgGFU2unY-WuybOg": "【安全圈】Chrome 发布安全更新，修复后台 Fetch API 漏洞",
+    "https://mp.weixin.qq.com/s/1yPCR92RT33Ce4vWxR6DWA": "SolarWinds再曝重大RCE漏洞，企业安全团队旧伤复发",
+    "https://mp.weixin.qq.com/s/UgdwoIRiHlXWDa6J_De7wA": "PyTorch安全模式被RCE漏洞攻破，恶意模型可执行任意代码",
+    "https://mp.weixin.qq.com/s/iKSyh5ksFFnH8IzfIlWBGA": "Gemini MCP 曝高危零日漏洞 允许远程攻击"
 }
