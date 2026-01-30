@@ -17377,5 +17377,14 @@
     "https://mp.weixin.qq.com/s/OtccLZKPZB3Q4mZ0jIlY7A": "漏洞复现 | React Native CLI 远程命令执行漏洞（CVE-2025-11953）",
     "https://mp.weixin.qq.com/s/LAI7MSNLfhI7GB8fi6z3nA": "谷歌警告WinRAR必须更新！漏洞正被黑客疯狂利用：已有大量用户中招",
     "https://mp.weixin.qq.com/s/u_x_jDPUFAi3dfxa_G2h0g": "CVE-2026-24061 telnet远程认证绕过漏洞批量检测工具",
-    "https://mp.weixin.qq.com/s/Wtr3Y-6hrMJT460-Trbb5Q": "漏洞预警 | 孚盟云SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/Wtr3Y-6hrMJT460-Trbb5Q": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/IlOHVkpabmomumtlv2NGXg": "CRMEB开源电商系统SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s/EnLuZC0En6CakfjphUvV6g": "【已复现】Dokploy 命令注入漏洞（CVE-2026-24841）",
+    "https://mp.weixin.qq.com/s/6rLluYeTtz6dr5jP1DVPKA": "网安靶场实战指南（第5期）：OWASP Juice Shop进阶——API注入+文件漏洞+第三方组件风险",
+    "https://mp.weixin.qq.com/s/ParjTWUdruIZtucozNtzpg": "端口没开也能激活+rce？ebpf∕XDP 内核级隐蔽后门原理剖析",
+    "https://mp.weixin.qq.com/s/gkTYdxftr88P1QFYF4oPLA": "北京快手招聘：客户端漏洞挖掘工程师（安全蓝军）",
+    "https://mp.weixin.qq.com/s/SrH5I6FB-oA8viI-GQJZJg": "红队资产梳理神器：集成50+数据源与9000+POC，实现外部攻击面自动化管理",
+    "https://mp.weixin.qq.com/s/dzszjP4CamZTBSEek8D_lQ": "网安实验干货每日分享Spring WebFlow 远程代码执行漏洞（CVE-2017-4971）-0130",
+    "https://mp.weixin.qq.com/s/riytASFc-80HU5mOKmEQ_Q": "NestJS Devtools 远程命令执行漏洞(CVE-2025-54782)",
+    "https://mp.weixin.qq.com/s/u86IWqfZSyBpw0UtOEGa6w": "工信部致谢！360荣膺“优秀技术支撑单位”并获颁原创漏洞证书"
 }
