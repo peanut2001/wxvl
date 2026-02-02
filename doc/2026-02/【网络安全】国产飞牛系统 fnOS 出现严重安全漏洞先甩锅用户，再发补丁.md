@@ -1,14 +1,14 @@
 #  【网络安全】国产飞牛系统 fnOS 出现严重安全漏洞先甩锅用户，再发补丁  
-利刃信安
-                    利刃信安  利刃信安   2026-02-01 18:29  
+ 嗨嗨安全   2026-02-02 00:20  
   
 国产飞牛系统 fnOS 出现严重安全漏洞先甩锅用户，再发补丁  
   
-近日，飞牛NAS用户群与论坛中大量用户反映设备突发异常，包括频繁断网、严重丢包、无法登录，同时系统出现异常高负载及未知进程。经查，飞牛OS（fnOS）被曝出多个高危0day漏洞，已遭黑客大规模利用。据估计，目前已有数以万计的设备被植入后门与挖矿木马，甚至可能被纳入僵尸网络，用于发起DDoS攻击。  
+近日，飞牛NAS用户群与论坛中大量用户反映设备突发异常，包括频繁断网、严重丢包、无法登录，同时系统出现异常高负载及未知进程。经查，飞牛OS（fnOS）被曝出多个高危  
+0day漏洞，已遭黑客大规模利用。据估计，目前已有数以万计的设备被植入后门与挖矿木马，甚至可能被纳入僵尸网络，用于发起DDoS攻击。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPWibX8PSbITqHxoNo7F9FNRPiaEliaCaf3icEdQiavSnmATia4eXRTMOTbWjA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPuCib72gwDsbaZGPVxEPRhQOWmqPMwP0saicib55MAgic8nr7nTgVGnbGVg/640?wx_fmt=png&from=appmsg&wxfrom=13&tp=wxpic&watermark=1#imgIndex=0 "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPnZQQptOzIgeVudUOWhx5tCv7bPXtY5cIxMD5VibZ8hrQTQjQ4rfXL4g/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPkibn8W53ciblXianqJ7ZribDhKJ0Q5zxbrKKnbEJicnu1j1Q8qK9Hn04icog/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=1 "")  
   
 以下是基于现有信息的梳理与整合：  
   
@@ -18,7 +18,7 @@
   
 目前已知1.1.18版本已经修复该漏洞，漏洞影响范围未知（1.1.18版本以下均可能受到影响），互联网部署数量较多，请及时排查！  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHP8T9AU9wdgHmn3Bq3ibIyEFfvbq6J5WlTiaMsib2sPCEhu3NyiaHlyn3Ewg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHP6tib9ib2Z7d0mmTh9hwDtdBnmuebN9P5gdxmPpibU9av3oBltb8vQfc8A/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=2 "")  
   
 1月21日起：已有零星用户报告设备异常，但未引起官方充分预警。  
   
@@ -36,16 +36,16 @@
   
 1.路径穿越 / 未授权访问  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPqJKU4pctichoh8B9UDB0UFA5p3RwbV7mPN6knWrRQ7v0xVBib6PT4gnw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPo0neo4icJ89DdechLMqWiaFz2Ho57zzVw2LhrnfjPmlx83jqfHefGtPA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=3 "")  
   
 在特定条件下，**无需正常登录即可访问系统路径或接口**  
 ，即使你没有主动对外开放管理页面，也可能存在风险。  
   
 2.后门程序与异常进程  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPyleKj4v6DUovxVLyoY4qXDtAdSqMeYetczUHqkib4xcaBNNDrl7F8EQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPEGYnJfasQPe41cG9dhTtNS0NEhYribRjzfZ5UmlWALMFJXPicMaibcdLA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=4 "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPHpv638t82LR9prkicAr9T2pou0m0mvljXVGFkRjQgnsgbCaHmeBL9Fw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPsf56W1xa7OqnUVnJrhyHicUnYQUubEvFY4icQrtZvexlzWS4T94pkQHQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=5 "")  
   
 部分用户发现系统中存在异常文件或进程，例如：  
 - • 不明可执行文件  
@@ -58,18 +58,18 @@
   
 3.官方修复不够“彻底”  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPPOQj8Ytxic3ejsolBDFAc4SHApK6J4NsPZnQ87uhgSe4UnycxwJRagA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPkLoibjRcSRy6UNrW1E9NpzLcWw5YSkULTOCYlsX9qhciaY9Q7xEFyVXg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=6 "")  
   
 虽然官方版本更新中提到已修复相关问题，但**社区中仍有用户反馈漏洞并未完全解决**  
 ，存在残留风险。  
   
 4.终端插件远程命令执行漏洞  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHP4icPYdHg4vnCf2JP4PxosoLwNZiaFLic8ER9PhicF9uw0R316XMwqVyPHg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPO8pcMeRpCiaofkGiafvbr3BLGyfaFqSkVNGMBxjpmwEaoUibiad5mx31ow/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=7 "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPo31fDM3B7mLOXfpPxfu2h7Sy1BhYDY9ogdvnRHHwpA5IoFNXJtHBzw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPynGzFrVyNWPF4J3j4k0VWNOxVt3nyrFVLh6TZZ9rz98QwV0ia3xcwqw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=8 "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPUe0ksXxyIzFbDGUyHZ4JflbIk60jNLpBQkJWgUWqFsfHiaXQicTyicgzA/640?wx_fmt=jpeg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPD9FgtNlibbvx4aGKjWffZywYcH0sZP3JajektL9mZEyicPCIlKpCLODg/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=9 "")  
   
 特征表现  
 - • 网络流量异常增大  
@@ -178,10 +178,14 @@ wget https://file.tongrens.top/sd/L2PjYOsr/clear.sh && chmod +x clear.sh && ./
   
 评论区精选各种丧事喜办+阴谋论+带节奏的评论  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPkPu6EWSKqvPKFJfs2ZdFDVyw68hcmnscXmQr9CHdjJ00FxPUdvd1KA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPWHA8nKH10dkI9XE1jOUQnIdNyB5zhFr4NeB80nTUWED2oUzLkNB9hw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=10 "")  
   
 好了，赶紧升级吧各位，小心你的小姐姐成别人的了！  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPIib1c0RicNicCia4To05be3Q7gFLatt3UYfF5YKicF6Z8zmicB3LJATJCn7A/640?wx_fmt=jpeg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/XB8gUH3cR12Qtr0l3X9hO0yDU6ia3BibHPSQTmjNINHxcKx03fEvYROYSdxU0FvMUDplNoZfq5nCpVIJ7eabAapg/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=11 "")  
+  
+本文来源:利刃信安  
+  
+https://mp.weixin.qq.com/s/CI4YQn-WMwXUwidgpOX1yQ  
   
   
