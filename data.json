@@ -17505,5 +17505,20 @@
     "https://mp.weixin.qq.com/s/cZ1qRSxcA2kyYkIQjA_i4w": "飞牛系统（fnOS）远程代码执行链：认证绕过",
     "https://mp.weixin.qq.com/s/pJhZaWxKQTBD4poWn5YKXg": "第155篇：Weblogic反序列化漏洞的多种回显方法总结（上篇）",
     "https://mp.weixin.qq.com/s/gZuixfOZHgo7GVSMRxd3Bw": "一键Clawdbot漏洞：启动恶意远程代码执行攻击",
-    "https://mp.weixin.qq.com/s/UUCNGrQ90V-O2d62XO6t9Q": "漏洞预警 | Advantech SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/UUCNGrQ90V-O2d62XO6t9Q": "漏洞预警 | Advantech SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/tG6KD0DBfNXubD3wnElDaw": "俺臻叼，一次逻辑漏洞之登录绕过测试记录",
+    "https://mp.weixin.qq.com/s/GZnKRz7MUump-ByoxXsLLQ": "如何利用 OpenClaw 漏洞一键盗取数据与密钥（CVE‑2026‑25253）",
+    "https://mp.weixin.qq.com/s/T9MZC2XpFltnmbV0xsu5ww": "飞牛系统（fnOS）任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/wbrYHJTfSnbLH2Tf-V91ng": "bsides vancouver 靶场复现",
+    "https://mp.weixin.qq.com/s/rJeVEN7fLLKbwiCcdMM0vg": "飞牛OS 漏洞复现",
+    "https://mp.weixin.qq.com/s/Fc0K_vxV2qh90D3HbncwGQ": "俄罗斯黑客利用近期修复的微软Office漏洞发起攻击",
+    "https://mp.weixin.qq.com/s/hniB2RTXqQDSsnmBTNoeAQ": "漏洞挖掘系列分享（第一期）：漏洞挖掘入门——定义、分类与核心流程",
+    "https://mp.weixin.qq.com/s/iG8vZt_fE5bpZSOYjQXS8g": "【漏洞脚本】安校易智慧校园管理系统 ADTag.ashx SQL注入",
+    "https://mp.weixin.qq.com/s/_tvuiBsGptTQTgnstIu9KA": "漏洞复现 | 汉王e脸通综合管理平台 monadFileUpload.do 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/h4y1yJ9WtYoW54R1t5yEIg": "CNVD漏洞周报2026年第4期",
+    "https://mp.weixin.qq.com/s/-X_RzH3vaGJ_VTrNw7sr7Q": "拉大旗出虎皮：Exploit Pack公司泄露数据简要分析",
+    "https://mp.weixin.qq.com/s/gX7e7ILJTqaPmrMNnpJjog": "CVE-2025-55182 Apache OFBiz SSRF与远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s/BTt4F5qXcPPX6eFWSQER4g": "某通杀漏洞思路分享",
+    "https://mp.weixin.qq.com/s/gX41gGKxm3xv5Y-SpoPx8g": "Ilevia EVE X1 Server login.php 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s/ZyHpBENMl56NhsB8NL1x2w": "一键触发漏洞：OpenClaw远程代码执行漏洞分析"
 }
