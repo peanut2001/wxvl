@@ -17520,5 +17520,10 @@
     "https://mp.weixin.qq.com/s/gX7e7ILJTqaPmrMNnpJjog": "CVE-2025-55182 Apache OFBiz SSRF与远程命令执行漏洞",
     "https://mp.weixin.qq.com/s/BTt4F5qXcPPX6eFWSQER4g": "某通杀漏洞思路分享",
     "https://mp.weixin.qq.com/s/gX41gGKxm3xv5Y-SpoPx8g": "Ilevia EVE X1 Server login.php 远程命令执行漏洞",
-    "https://mp.weixin.qq.com/s/ZyHpBENMl56NhsB8NL1x2w": "一键触发漏洞：OpenClaw远程代码执行漏洞分析"
+    "https://mp.weixin.qq.com/s/ZyHpBENMl56NhsB8NL1x2w": "一键触发漏洞：OpenClaw远程代码执行漏洞分析",
+    "https://mp.weixin.qq.com/s/BN1-1lelns-ZCK1OzIlMQA": "漏洞预警 | 飞牛-私有云fnOS文件读取漏洞",
+    "https://mp.weixin.qq.com/s/epViNNC4e37S4VbTKOU3aw": "分享Fastjson反序列化漏洞原理+漏洞复现+实战案例+POC收集",
+    "https://mp.weixin.qq.com/s/Rha5lDQ-ek52jzpVn_kMMA": "【独家复现】用友企业报表iUFO Cloud(U8Cloud)无条件任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/HoU35VNA9hUt-VAFOw1xGQ": "SAML认证绕过：Uber的一万美元漏洞复盘学习",
+    "https://mp.weixin.qq.com/s/oU-qw3fjUuJYdtqzZQ11Kw": "从美国CISA KEV看 “主权”合规漏洞清单的价值变迁"
 }
