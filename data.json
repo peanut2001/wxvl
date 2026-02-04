@@ -17604,5 +17604,6 @@
     "https://mp.weixin.qq.com/s/wl8vtaYPlFXE3A9RLzRFzQ": "【已复现】大蚂蚁即时通讯系统存在任意文件上传漏洞",
     "https://mp.weixin.qq.com/s/64BCcSAohxoCgFc7_PrVkw": "【安全圈】Fancy Bear 利用微软 Office 漏洞对乌克兰及欧盟发动网络攻击",
     "https://mp.weixin.qq.com/s/SUYJ4FM25JS8vXYZMiwpdA": "微软将默认禁用NTLM协议，终结30年高危身份验证漏洞",
-    "https://mp.weixin.qq.com/s/7sTcRY_fzP51vEzuSMsTjQ": "AI 助手OpenClaw 易遭一次点击 RCE 攻击"
+    "https://mp.weixin.qq.com/s/7sTcRY_fzP51vEzuSMsTjQ": "AI 助手OpenClaw 易遭一次点击 RCE 攻击",
+    "https://mp.weixin.qq.com/s/3uStWdd7GnPMfogBWF9KyA": "福昕PDF编辑器漏洞允许攻击者执行任意JavaScript代码"
 }
