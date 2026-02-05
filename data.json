@@ -17605,5 +17605,15 @@
     "https://mp.weixin.qq.com/s/64BCcSAohxoCgFc7_PrVkw": "【安全圈】Fancy Bear 利用微软 Office 漏洞对乌克兰及欧盟发动网络攻击",
     "https://mp.weixin.qq.com/s/SUYJ4FM25JS8vXYZMiwpdA": "微软将默认禁用NTLM协议，终结30年高危身份验证漏洞",
     "https://mp.weixin.qq.com/s/7sTcRY_fzP51vEzuSMsTjQ": "AI 助手OpenClaw 易遭一次点击 RCE 攻击",
-    "https://mp.weixin.qq.com/s/3uStWdd7GnPMfogBWF9KyA": "福昕PDF编辑器漏洞允许攻击者执行任意JavaScript代码"
+    "https://mp.weixin.qq.com/s/3uStWdd7GnPMfogBWF9KyA": "福昕PDF编辑器漏洞允许攻击者执行任意JavaScript代码",
+    "https://mp.weixin.qq.com/s/QcC34ScHRdpCZgxqermTRg": "CRLF 注入漏洞 ┏(｀-´)┛",
+    "https://mp.weixin.qq.com/s/rw6pQY4nPr_5oByTjBMjZw": "黑客利用 React Native CLI 的漏洞在公开披露前部署了 Rust 恶意软件",
+    "https://mp.weixin.qq.com/s/bprS63hvr_6hYoqXeRM8rg": "关于防范Microsoft Office安全功能绕过【高危漏洞】的风险提示",
+    "https://mp.weixin.qq.com/s/lsiR8dG4mZdoQLGUkU0wpw": "Foxit PDF 编辑器漏洞允许攻击者执行任意 JavaScript 代码",
+    "https://mp.weixin.qq.com/s/HfVhm49R9X7Je6I_lGuVfQ": "【漏洞复现】飞牛私有云 fnOS 0day 漏洞复现：可任意读取文件 + 绕过认证。",
+    "https://mp.weixin.qq.com/s/ItT_-24a4N0eEutvWCnmAg": "爆火 AI 智能体 OpenClaw 被发现严重漏洞，可传播 ∕ 植入 macOS 病毒",
+    "https://mp.weixin.qq.com/s/bocW_99dMANQSuotqiv6Yw": "承影 ChYing：支持 Nuclei POC+JWT 爆破 + 403 Bypass，开源渗透利器",
+    "https://mp.weixin.qq.com/s/xQy1_mmFH95qrxjqS-Ex1Q": "【高危漏洞预警】Microsoft Office安全功能绕过漏洞CVE-2026-21509",
+    "https://mp.weixin.qq.com/s/2M8pvfXQWYCbgyr6LGUFPg": "【代码审计】某财务系统代码审计Jdbc Attack bypass+反序列化漏洞利用",
+    "https://mp.weixin.qq.com/s/aGKseomBxYsch39H-qCGvA": "CVE-2026-21721 漏洞分析"
 }
