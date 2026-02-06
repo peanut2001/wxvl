@@ -17699,5 +17699,17 @@
     "https://mp.weixin.qq.com/s/HRfsYKM9TyDHh6kjrAFjjg": "【漏洞通告】n8n 表达式沙箱逃逸导致远程代码执行漏洞(CVE-2026-25049)",
     "https://mp.weixin.qq.com/s/NA40gl6fj3UFuevxwg48Tg": "Cisco 0-Day RCE 安全电子邮件网关漏洞已被实际利用",
     "https://mp.weixin.qq.com/s/p8FCNU22g_YqE4oxBwdZug": "gemini-mcp-tool 命令注入漏洞深度分析(CVE-2026-0755)",
-    "https://mp.weixin.qq.com/s/uTLuyDiY03iBLRoj1-dZQg": "Samsung MagicINFO 9 预认证 RCE 漏洞链分析 - TOCTOU 竞争与目录遍历导致认证绕过"
+    "https://mp.weixin.qq.com/s/uTLuyDiY03iBLRoj1-dZQg": "Samsung MagicINFO 9 预认证 RCE 漏洞链分析 - TOCTOU 竞争与目录遍历导致认证绕过",
+    "https://mp.weixin.qq.com/s/hN6B5Hnvl-wmXUekNaa4nQ": "信息安全漏洞周报【第059期】",
+    "https://mp.weixin.qq.com/s/zzjpm1Zlcso-zUzcAIkmkA": "【高危漏洞预警】n8n工作流自动化平台远程代码执行漏洞CVE-2026-25049",
+    "https://mp.weixin.qq.com/s/z1iLbcemPe7n9yr9qcVl1w": "【服务端漏洞-访问控制缺失-第二章第三节】找不到敏感路径？试试这招，源码里可能写着答案",
+    "https://mp.weixin.qq.com/s/cOEsDXrelY7xCIrznIxMrg": "网络钓鱼和OAuth令牌漏洞导致Microsoft 365全面入侵",
+    "https://mp.weixin.qq.com/s/Wo59F-Hkh8py_3CWfF4JmA": "【靶场复现】Ivanti EPMM Pre-RCE漏洞CVE-2026-1281∕1340",
+    "https://mp.weixin.qq.com/s/JWWeDFbAIR37yk8fm86FMw": "CVE-2025-48281 SQL注入",
+    "https://mp.weixin.qq.com/s/0MHKw8W5fGeo86owr8hC9Q": "2026年1月企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s/0m3JdmA36CrB4bvCBMeMoA": "2026年1月企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s/ezmGOPRRBDLljggC3V8xiQ": "jsPDF库两大漏洞可致代码注入与系统崩溃，千万开发者需立即升级",
+    "https://mp.weixin.qq.com/s/J9IC6PzcIgmylIhUSGkbZg": "JerryScript引擎ecma_op_to_index漏洞分析与越界读写利用",
+    "https://mp.weixin.qq.com/s/h0sTAppUiTNsQRzcKgz7Pw": "两个漏洞可用于攻陷谷歌 Looker 实例",
+    "https://mp.weixin.qq.com/s/lzft8UrsChCa-g4uFAtQMQ": "JAVA代码审计之Thymeleaf模板注入漏洞"
 }
