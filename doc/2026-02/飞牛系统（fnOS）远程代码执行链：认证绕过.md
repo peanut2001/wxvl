@@ -1,12 +1,12 @@
 #  飞牛系统（fnOS）远程代码执行链：认证绕过  
-助力行业的
-                    助力行业的  李白你好   2026-02-03 00:01  
+ 黑白之道   2026-02-06 01:18  
   
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
 ## 前言  
   
 在最近针对飞牛OS的0day攻击中，攻击者可能利用了三个漏洞来实现完整攻击链。作者：bron1e，https://github.com/bron1e/fnos-rce-chain  
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8ooGPeWhHVuIORfbAjpaDtuyp9VGQFAGAhe74uMps9OWb2qhjTxTOohA/640?wx_fmt=jpeg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8ooGPeWhHVuIORfbAjpaDtuyp9VGQFAGAhe74uMps9OWb2qhjTxTOohA/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=0 "")  
 1. **任意文件读取**  
   
 1. **认证绕过**  
@@ -28,7 +28,7 @@
   
 前端使用 Websocket 协议交互，登录流程如下：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oaqUFXlED8yA9csp74h2f0KeibYaocW3FwZZs4FnBXlFlLRL6QLuhRow/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oaqUFXlED8yA9csp74h2f0KeibYaocW3FwZZs4FnBXlFlLRL6QLuhRow/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=1 "")  
 #### 1.3 Token生成逻辑  
   
 在 /usr/trim/bin/handlers/users.hdl 中的 do_login 函数中包含了 secret, token, longtoken的生成逻辑：  
@@ -45,7 +45,7 @@
 - **后 16 字节**  
  (Cipher)：使用 RSA 密钥对 Secret 进行 AES 加密后的数据。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oaH0FoNbRnwWS5YmvX4FP1DNT8PCWDbmVo2fYT9WlvdkAf2x28QnOicQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oaH0FoNbRnwWS5YmvX4FP1DNT8PCWDbmVo2fYT9WlvdkAf2x28QnOicQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=2 "")  
   
 **因此 secret 和 token 可以相互转化**  
 ，这点很重要。  
@@ -64,19 +64,19 @@
   
 遗憾的是，加密包会触发token长度的判断。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oicgWaEk8v12VibLKvIacULZIhvzjszUDCBUGBOP4EicMJnKOictIOkZZ3g/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oicgWaEk8v12VibLKvIacULZIhvzjszUDCBUGBOP4EicMJnKOictIOkZZ3g/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=3 "")  
   
 不过这里存在另一个漏洞：  
   
 **验签时如果存在 token 字段，则直接对 token 解密得到 secret，然后对请求体计算签名。**  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oXrOMr7h1qDBLnxxEL5UToCxJtDnkgPANxqfCmbW0CcIn0e1V9eACzQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oXrOMr7h1qDBLnxxEL5UToCxJtDnkgPANxqfCmbW0CcIn0e1V9eACzQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=4 "")  
   
 因此，可以自己生成 secret 和 token 绕过认证。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oiapvYBDqKCvNTG7PORTDrk2g6DUVwibSZqVfWQdMian3sCJNIKbRIzIRA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oiapvYBDqKCvNTG7PORTDrk2g6DUVwibSZqVfWQdMian3sCJNIKbRIzIRA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=5 "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8o2zZzD5BK6mDhliaIxYZZuvQ3Xibdy5CpdXZeia11cYLThTpNc0gSdQExw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8o2zZzD5BK6mDhliaIxYZZuvQ3Xibdy5CpdXZeia11cYLThTpNc0gSdQExw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=6 "")  
 ### 2. PoC  
   
 需获取系统中的 rsa_private_key.pem  
@@ -89,7 +89,7 @@
   
 /usr/trim/bin/trim_http_cgi 存在一个稍弱的路径穿越、命令执行。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oZvxQP7H8BQNKDvm10VzzX97XdNbyg26avVPJMNVXqNZasAvtLw4ricA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oZvxQP7H8BQNKDvm10VzzX97XdNbyg26avVPJMNVXqNZasAvtLw4ricA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=7 "")  
   
 filepath.Join并不防御路径穿越，因此能从 /var/apps_ui 穿越到 /var，并执行任意文件。但存在有一些限制：  
 1. 需要合法token  
@@ -106,22 +106,24 @@ PostgreSQL数据库位于 /var/lib/postgresql/*/main/base
   
 该目录下有若干个数据库目录，通常为40000+，需要读取每个数据库下的pg_class表（固定OID为1259），然后从中获取 longtoken 表的 OID。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8o4vanctoHzPB0HI2sgQYibcIrfmjHJtmdCApicaNvHqMicIbtibicluHOd9g/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8o4vanctoHzPB0HI2sgQYibcIrfmjHJtmdCApicaNvHqMicIbtibicluHOd9g/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=8 "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oBk1BtRXPHjCefrZ7au2cUupQmFAibt2JnO2SvEJdXZL1dc0ueLTlDmQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oBk1BtRXPHjCefrZ7au2cUupQmFAibt2JnO2SvEJdXZL1dc0ueLTlDmQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=9 "")  
 ## 参考  
 ```
 https://club.fnnas.com/forum.php?mod=viewthread&tid=53230https://v2ex.com/t/1189392
 ```  
-## 网络安全情报攻防站  
   
-**www.libaisec.com**  
   
-综合性的技术交流与资源共享社区  
+> **文章来源：李白，你好**  
   
-专注于红蓝对抗、攻防渗透、威胁情报、数据泄露  
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/XoIcX2HtlUAiblUh4R9qPraTgZvNXbO8oRMiaBEP5kWyvcwmKhJG6tkdeQ8LN8Zfe5IyxVrSn3ibetIyQuQF04SRQ/640?wx_fmt=jpeg&from=appmsg "")  
   
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+  
+如侵权请私聊我们删文  
+  
+  
+**END**  
   
   

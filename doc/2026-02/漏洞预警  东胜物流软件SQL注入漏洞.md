@@ -1,6 +1,6 @@
 #  漏洞预警 | 东胜物流软件SQL注入漏洞  
 浅安
-                    浅安  浅安安全   2026-02-04 00:02  
+                    浅安  浅安安全   2026-02-06 00:02  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -25,7 +25,7 @@ SQL注入
   
 **简述：**  
 东胜物流软件的  
-/Shipping/CompanysAccountGridSource.aspx  
+/MvcShipping/MsBaseInfo/GetProParentModuTreeList  
 接口存在SQL注入漏洞，  
 未经身份验证的  
 攻击者可以通过该漏洞获取数据库敏感信息。  
