@@ -17679,5 +17679,16 @@
     "https://mp.weixin.qq.com/s/GFxgNj6ct8J9qHM9BWfY8g": "叮～你有新的速递！CVE-2026-21509 RCE漏洞（速查）",
     "https://mp.weixin.qq.com/s/c30Ywg_1PNiPdZ61ex-T0g": "漏洞速递 | CVE-2026-24423 RCE漏洞（建议自查）",
     "https://mp.weixin.qq.com/s/vFTs4x4HMdSRH4xiRjrQOA": "【新洞速递】CVE-2026-21858远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/0HChmdRHR-z3Zov8tLNubA": "【已复现】n8n 继CVE-2025-68613后再曝表达式沙箱逃逸漏洞可导致任意代码执行（CVE-2026-25049）"
+    "https://mp.weixin.qq.com/s/0HChmdRHR-z3Zov8tLNubA": "【已复现】n8n 继CVE-2025-68613后再曝表达式沙箱逃逸漏洞可导致任意代码执行（CVE-2026-25049）",
+    "https://mp.weixin.qq.com/s/GWjw-3u6XnVV8VQmTqGgWg": "飞牛 FnOS myapp存在目录遍历、文件读取漏洞",
+    "https://mp.weixin.qq.com/s/Pdmk2xThBcEhXhFzxGqphQ": "【漏洞通告】n8n 表达式执行漏洞导致命令执行(CVE-2026-25049)",
+    "https://mp.weixin.qq.com/s/i-rU2q_ZrcHXlrOhP--IwQ": "【红队武器库】100+款漏洞利用工具合集，从Shiro主流框架到云资产全覆盖",
+    "https://mp.weixin.qq.com/s/DGlUb5lXHIbWHfUYoKPR0g": "VMware ESXi 中的 CVE-2025-22225 漏洞现已被用于勒索软件攻击",
+    "https://mp.weixin.qq.com/s/vSyXocSl_bCxHvlueXMcOg": "洞见AI时代漏洞攻防，天融信发布《2025年网络空间安全漏洞态势分析研究报告》",
+    "https://mp.weixin.qq.com/s/UBUvlozD7JNRi4rUYm-a2g": "CVE-2025-8949漏洞复现技术分享",
+    "https://mp.weixin.qq.com/s/kJ1nfNQQzoCcPZaUqRRgAA": "CentOS 9 新漏洞允许攻击者提升至 root 权限——PoC 发布",
+    "https://mp.weixin.qq.com/s/cA_rlI3qQW5THz_LFbkrPA": "利用 LLM 加速漏洞挖掘：我是如何在 Scada-LTS 中发现 Stored XSS 并拿到人生第一个 CVE 的",
+    "https://mp.weixin.qq.com/s/wzZT_YT5jY8W4FkLssW7XQ": "关于防范Apache Struts2开源应用框架XML外部实体注入高危漏洞的风险提示",
+    "https://mp.weixin.qq.com/s/EUCyc-y6acIlkK6yEXdovg": "某即时通讯系统缓存投毒->代码注入RCE",
+    "https://mp.weixin.qq.com/s/1kcK8V1NKgZgmvvAi_Hr5Q": "我是如何利用二级上下文漏洞触发后端 API 调用中的 SSRF 和路径遍历攻击的"
 }
