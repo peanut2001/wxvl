@@ -17711,5 +17711,7 @@
     "https://mp.weixin.qq.com/s/ezmGOPRRBDLljggC3V8xiQ": "jsPDF库两大漏洞可致代码注入与系统崩溃，千万开发者需立即升级",
     "https://mp.weixin.qq.com/s/J9IC6PzcIgmylIhUSGkbZg": "JerryScript引擎ecma_op_to_index漏洞分析与越界读写利用",
     "https://mp.weixin.qq.com/s/h0sTAppUiTNsQRzcKgz7Pw": "两个漏洞可用于攻陷谷歌 Looker 实例",
-    "https://mp.weixin.qq.com/s/lzft8UrsChCa-g4uFAtQMQ": "JAVA代码审计之Thymeleaf模板注入漏洞"
+    "https://mp.weixin.qq.com/s/lzft8UrsChCa-g4uFAtQMQ": "JAVA代码审计之Thymeleaf模板注入漏洞",
+    "https://mp.weixin.qq.com/s/hGQIxEQONC3WhM-K7ZtiCA": "Claude Opus 4.6发现500+高危漏洞：AI漏洞发现技术深度解析",
+    "https://mp.weixin.qq.com/s/eiSig5Jtia_oBpG3U_nxaQ": "网络钓鱼和 OAuth 令牌漏洞导致 Microsoft 365 全面泄露"
 }
