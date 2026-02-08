@@ -17742,5 +17742,8 @@
     "https://mp.weixin.qq.com/s/k8nwUDd6xTuJWeN72j6STQ": "【已复现】锐明技术Crocus HardwareConfig存在SQLl注入",
     "https://mp.weixin.qq.com/s/kddO89c4nCtvlI5dQj8MqQ": "n8n自动化平台再曝6个漏洞，4个可致远程代码执行",
     "https://mp.weixin.qq.com/s/AaZUEXRODLhYG58nb855fg": "思源笔记存在前台任意文件写入漏洞",
-    "https://mp.weixin.qq.com/s/DDm7RAVsv96GZphMnikrBQ": "【在野利用】飞牛OS 未授权命令执行漏洞"
+    "https://mp.weixin.qq.com/s/DDm7RAVsv96GZphMnikrBQ": "【在野利用】飞牛OS 未授权命令执行漏洞",
+    "https://mp.weixin.qq.com/s/fylKHOG1HHSOjBKW507Ecw": "入门SRC简单漏洞案例",
+    "https://mp.weixin.qq.com/s/vHIXdvTJz1LtC248VHCu7w": "Vulnhub打靶新体验：深入pWnOS_v0的漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s/sz9TXsnzbyrtbuO9Tuq0GQ": "CSRF漏洞的降维打击：从盗取点击到完整账户接管的武器化路径-实战场景案例"
 }
