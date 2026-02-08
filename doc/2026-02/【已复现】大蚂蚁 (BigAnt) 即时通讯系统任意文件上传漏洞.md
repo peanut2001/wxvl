@@ -1,7 +1,7 @@
 #  【已复现】大蚂蚁 (BigAnt) 即时通讯系统任意文件上传漏洞  
- 长亭安全应急响应中心   2026-02-04 08:17  
+ 乌雲安全   2026-02-08 01:22  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/EqS9GE77r0P6rXgv8IaOd3xRAMlQZvdgkibnSHuJSAqp6dmQe8tpo4SJRPibZsHGTVrBQKvReDhEzHUrltcgKtXiaiaeib6FibIfEYWA2FGW2hibdg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/EqS9GE77r0P6rXgv8IaOd3xRAMlQZvdgkibnSHuJSAqp6dmQe8tpo4SJRPibZsHGTVrBQKvReDhEzHUrltcgKtXiaiaeib6FibIfEYWA2FGW2hibdg/640?wx_fmt=png&from=appmsg#imgIndex=0 "")  
   
   
 大蚂蚁 (BigAnt) 是杭州九麒科技有限公司开发的即时通讯系统，广泛应用于企业内部沟通、文件共享和协同办公。  
@@ -95,26 +95,6 @@ Solution
   
 https://www.bigant.cn/article/news/435.html  
   
-## 临时缓解方案临时禁用文件上传功能或相关 API 接口。在 Web 应用防火墙 (WAF) 中配置规则，过滤包含 ../ 等路径穿越字符的请求。严格限制上传目录的执行权限，防止上传的脚本文件被执行。漏洞复现Reproduction                            04产品支持 Support 05云图：默认支持该产品的指纹识别，同时支持该漏洞的PoC检测洞鉴：默认支持该产品的指纹识别，预计2026.02.04支持该漏洞的自定义PoC无锋：默认支持该产品的指纹识别，预计2026.02.04支持该漏洞的PoC检测全悉：默认支持检测雷池：默认支持检测时间线 Timeline 062026年2月4日 长亭安全应急响应中心发布通告参考资料：[1].https://www.bigant.cn/article/news/435.html  
+## 临时缓解方案临时禁用文件上传功能或相关 API 接口。在 Web 应用防火墙 (WAF) 中配置规则，过滤包含 ../ 等路径穿越字符的请求。严格限制上传目录的执行权限，防止上传的脚本文件被执行。漏洞复现Reproduction                            04  
   
-  
-**长亭应急响应服务**  
-  
-  
-  
-  
-全力进行产品升级  
-  
-及时将风险提示预案发送给客户  
-  
-检测业务是否受到此次漏洞影响  
-  
-请联系长亭应急服务团队  
-  
-7*24小时，守护您的安全  
-  
-  
-第一时间找到我们：  
-  
-邮箱：support@chaitin.com  
   
