@@ -17738,5 +17738,9 @@
     "https://mp.weixin.qq.com/s/6TgTyUT_tZHhcpMsqz2uew": "Vulnhub打靶新体验：深入pWnOS_v0的漏洞挖掘之旅",
     "https://mp.weixin.qq.com/s/nsf2XrJkJJL7O4ItPMUdJg": "CVE-2025-13375：IBM 严重加密漏洞（CVSS 9.8）暴露 HSM",
     "https://mp.weixin.qq.com/s/OwwPdHDM-_4HwIeTxxhvew": "漏洞复现 | MetaCRM 客户关系管理系统 mobileupload.jsp 任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s/zjULUgMX92bGEHXVTCGs5A": "如何检测 CVE-2026-21509 漏洞利用"
+    "https://mp.weixin.qq.com/s/zjULUgMX92bGEHXVTCGs5A": "如何检测 CVE-2026-21509 漏洞利用",
+    "https://mp.weixin.qq.com/s/k8nwUDd6xTuJWeN72j6STQ": "【已复现】锐明技术Crocus HardwareConfig存在SQLl注入",
+    "https://mp.weixin.qq.com/s/kddO89c4nCtvlI5dQj8MqQ": "n8n自动化平台再曝6个漏洞，4个可致远程代码执行",
+    "https://mp.weixin.qq.com/s/AaZUEXRODLhYG58nb855fg": "思源笔记存在前台任意文件写入漏洞",
+    "https://mp.weixin.qq.com/s/DDm7RAVsv96GZphMnikrBQ": "【在野利用】飞牛OS 未授权命令执行漏洞"
 }
