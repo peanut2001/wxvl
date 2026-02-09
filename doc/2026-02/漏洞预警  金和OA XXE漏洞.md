@@ -1,6 +1,6 @@
 #  漏洞预警 | 金和OA XXE漏洞  
 浅安
-                    浅安  浅安安全   2026-02-06 00:02  
+                    浅安  浅安安全   2026-02-08 23:50  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -24,7 +24,9 @@ XXE
 获取敏感信息  
   
 **简述：**  
-金和OA C6的/c6/JHSoft.Web.H5SiteControl/xmlhttp.aspx/  
+金和OA C6的  
+/c6/Jhsoft.Web.govset/ExamineNodXml.aspx/  
+和/c6/Jhsoft.Web.examinenod/ExamineNodCommisionDefault.aspx/  
 接口处存在XXE漏洞，未授权的攻击者可以通过此漏洞读取服务器上敏感文件或探测内网服务信息，进一步利用可导致服务器失陷。  
   
 **0x04 影响版本**  
