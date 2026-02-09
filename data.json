@@ -17755,5 +17755,17 @@
     "https://mp.weixin.qq.com/s/kBvYscEbm9nAKUJjFFLcaw": "漏洞预警 | 金和OA XXE漏洞",
     "https://mp.weixin.qq.com/s/co-9XSxMeLWEm08V1zh-JQ": "2025-02-08 漏洞攻击分布跟踪",
     "https://mp.weixin.qq.com/s/3rON4iIj8QDG8Lks6pEmDQ": "物理防线的“赛博裂痕”：2026 年仍需警惕的安防系统七大真实 CVE 漏洞",
-    "https://mp.weixin.qq.com/s/JbeI-1PqXatlFrrynbZCAg": "漏洞预警 | Microsoft Office安全功能绕过漏洞"
+    "https://mp.weixin.qq.com/s/JbeI-1PqXatlFrrynbZCAg": "漏洞预警 | Microsoft Office安全功能绕过漏洞",
+    "https://mp.weixin.qq.com/s/OIee-HjvdeKVIPpBYMp39g": "大蚂蚁即时通讯系统任意文件上传漏洞 附POC",
+    "https://mp.weixin.qq.com/s/OV2z-ShfQi0R94UxpbEaZA": "金和C6 CallSystemShow.aspx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/cMQloheSZdqRvTcKgs5Dmg": "网安每日干货分享之《文件包含漏洞01》-0209",
+    "https://mp.weixin.qq.com/s/avKOZdsjnOO7aGFi7dqvvA": "OpenClaw高危漏洞可一键窃取主密钥，攻击者直通上帝模式",
+    "https://mp.weixin.qq.com/s/WPBNVpgDv2NpZY_QjO2P_w": "端点暴露：FortiClient EMS 存在严重缺陷（CVSS 9.1），允许未经身份验证的远程代码执行",
+    "https://mp.weixin.qq.com/s/14lnajOC5OzlQVfBTIt5TQ": "PHP mail() 命令注入到远程代码执行（RCE）",
+    "https://mp.weixin.qq.com/s/BdpvsY_Xdi8l1tNIrx0Hhg": "【林晓月的新漏洞科普】Arista 下一代防火墙命令执行漏洞科普（CVE-2025-6978）",
+    "https://mp.weixin.qq.com/s/6gwvm9itLBtOpdFKu7iNNA": "漏洞复现 | 汉王e脸通综合管理平台 uploadMeetingFile.do 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/GsuG9Z7omLh05POTMivkSw": "【独家复现】用友BIP、NC Cloud、NC无条件任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/yJf7G4OviVcLynHrGWnDhA": "DNN 最新漏洞挖掘与技术复盘：从 Unicode 转换到 SMB 凭证窃取",
+    "https://mp.weixin.qq.com/s/5FesYDUZJZ6hNErDQ-KC4Q": "XXE漏洞测试工具 -- go-fake-ftp-server（2月6日更新）",
+    "https://mp.weixin.qq.com/s/aDanrPZ-pyk_gbFq2-erJw": "jeecg框架漏洞利用工具"
 }
