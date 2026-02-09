@@ -1,0 +1,65 @@
+#  预警丨防范Apache Struts2开源应用框架XML外部实体注入高危漏洞  
+ 网络安全和信息化   2026-02-09 09:20  
+  
+   近日，工业和信息化部网络安全威胁和漏洞信息共享平台（  
+NVDB  
+）监测发现，开源应用框架  
+Apache Struts2  
+存在  
+XML  
+外部实体注入漏洞。  
+  
+    Apache Struts2  
+是一款开源的  
+Java Web  
+应用程序开发框架，广泛用于创建企业级  
+Web  
+应用程序。其  
+XWork  
+组件在解析  
+XML  
+配置文件时，未对外部实体进行充分校验与限制，可被攻击者恶意利用造成服务器端请求伪造、数据泄露、拒绝服务等危害。受影响的  
+Apache Struts2  
+版本包括：  
+2.0.0  
+≤  
+Ver  
+≤  
+2.3.37  
+、  
+2.5.0  
+≤  
+Ver  
+≤  
+2.5.33  
+、  
+6.0.0  
+≤  
+Ver  
+≤  
+6.1.0  
+。  
+  
+    目前，  
+Apache  
+官方已修复该漏洞并发布更新公告（  
+URL  
+链接：  
+https://cwiki.apache.org/confluence/display/WW/S2-069  
+）。建议相关单位和用户立即开展隐患排查，及时升级至最新安全版本，或通过配置禁用外部实体等临时措施防范网络攻击风险。  
+  
+来源：工业和信息化部网络安全威胁和漏洞信息共享平台（  
+NVDB  
+）  
+  
+-  
+END  
+-  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/co91jb4rYkM8O2Vk1NMvSibBxaP5NSgRL1CpLoy06mLBVffNPZvoS2J6QNQnu0ybyprZ4UicZ4X7icgo5M3YWndwg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&wx_co=1&randomid=t4omqpdm&retryload=1&tp=webp#imgIndex=0 "")  
+  
+  
+**2026年杂志订阅开始啦~**  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/co91jb4rYkPhgRZr1jWNOHQc9dEtv4BIGOFRFibVXKHzKTk6m6HnTzJgDtDDRaVV7Xt04ZW3Inm7SEovRKDo6gw/640?wx_fmt=jpeg&from=appmsg&wxfrom=5&wx_lazy=1&retryload=1&tp=webp#imgIndex=4 "")  
+  
