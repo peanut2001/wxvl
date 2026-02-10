@@ -17823,5 +17823,19 @@
     "https://mp.weixin.qq.com/s/KjugfvkmbwFQWgKqu_BbaQ": "企业安全神器：一键爆破子域名、秒扫全端口、0day 裸奔可视化——资产漏洞全景地图，十分钟让你“看见”整个互联网攻击面！",
     "https://mp.weixin.qq.com/s/PfoAeF-9eoXG6YE7AFU_TQ": "【热点漏洞】——飞牛OS路径穿越、协议认证、命令执行（内附POC）",
     "https://mp.weixin.qq.com/s/nKkUOcb-c_9wzogr8H50Tw": "Everything - Post Exploitation",
-    "https://mp.weixin.qq.com/s/iddnJu9A0g6pUt1LrZpZdw": "漏洞预警｜GitLab AI Gateway 服务器端模版注入漏洞（CVE-2026-1868）"
+    "https://mp.weixin.qq.com/s/iddnJu9A0g6pUt1LrZpZdw": "漏洞预警｜GitLab AI Gateway 服务器端模版注入漏洞（CVE-2026-1868）",
+    "https://mp.weixin.qq.com/s/pCxga_rADV47eKyvVYikBQ": "ctfshow web入门 命令执行2",
+    "https://mp.weixin.qq.com/s/VQt-hwwjCtBuQSgPCkAwJQ": "【威胁监测】微信 for Linux存在RCE执行风险",
+    "https://mp.weixin.qq.com/s/az75ibo1fQ64M_DtKdlKrw": "Weixin for Linux最新版RCE，利用条件简单，已完成复现！！！",
+    "https://mp.weixin.qq.com/s/eQ9Kq31pArPxxvNF3adNFw": "【高危漏洞预警】Gogs自托管Git服务远程命令执行漏洞CVE-2025-64111",
+    "https://mp.weixin.qq.com/s/syhZgd-eonlWBLdG9lY28w": "【小年快乐】某WeCh** linux存在RCE",
+    "https://mp.weixin.qq.com/s/VB2k1yw6jmVsfm6k9MXJWQ": "类型混淆之美：Golang类型混淆到RCE",
+    "https://mp.weixin.qq.com/s/i-OBQqvo9Q83L_PkCGYUtw": "【小年快乐】微信最新版RCE 已复现",
+    "https://mp.weixin.qq.com/s/Xs-v_3SjPuS_h1lYmqb_HA": "Linux版本微信存在命令执行漏洞，信创的有吗？",
+    "https://mp.weixin.qq.com/s/tJPDDPJYLyWyKYCoEWIUgQ": "WeChat For Linux rce",
+    "https://mp.weixin.qq.com/s/4QpTq_P_bLzFR7S6vz4e2g": "【吐槽】Linux&信创微信任意命令执行漏洞-用户少而漏洞多",
+    "https://mp.weixin.qq.com/s/P3dbjpbjhQcYWtI72qGyWA": "【吃瓜】某信W*Cha*RCE任意文件执行",
+    "https://mp.weixin.qq.com/s/LPchipxRaeBscR872E4lSA": "【高危漏洞预警】Apache Airflow认证绕过漏洞CVE-2026-22922",
+    "https://mp.weixin.qq.com/s/Pq3vsB8Caji37EToM-7PeA": "微信 linux最新版 1click RCE 已复现",
+    "https://mp.weixin.qq.com/s/SFFDl1Zh2wVUPcA8uq2SCg": "微信 linux最新版 1click RCE 已复现"
 }
