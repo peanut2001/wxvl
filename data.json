@@ -17796,5 +17796,6 @@
     "https://mp.weixin.qq.com/s/TCCnpbT9Xxe9_78tuJTVHA": "Windows内核溢出漏洞——栈溢出保护(上篇)",
     "https://mp.weixin.qq.com/s/5wGrOyFWN2WDn7q0PB7Q7g": "BeyondTrust 严重漏洞可导致预认证RCE",
     "https://mp.weixin.qq.com/s/VDW_Wbtj6vaUXMHOHiin8A": "上周关注度较高的产品安全漏洞（20260202-20260208)",
-    "https://mp.weixin.qq.com/s/KJBGGaTwFjRvgAfGqqiLTw": "大蚂蚁BigAnt即时通讯系统DispersedAddin接口存在文件上传漏洞 附POC"
+    "https://mp.weixin.qq.com/s/KJBGGaTwFjRvgAfGqqiLTw": "大蚂蚁BigAnt即时通讯系统DispersedAddin接口存在文件上传漏洞 附POC",
+    "https://mp.weixin.qq.com/s/SDiOpqKX5JESztfDhi2diw": "工具推荐 | JeecgBoot 全场景漏洞检测工具，覆盖 20+ 高危漏洞"
 }
