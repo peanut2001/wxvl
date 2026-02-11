@@ -17879,5 +17879,11 @@
     "https://mp.weixin.qq.com/s/lhuJvoD5DSwI7NxAKmhGeQ": "飞塔 FortiSandbox XSS漏洞允许攻击者执行任意命令",
     "https://mp.weixin.qq.com/s/wzHkst0lMeGzD1MAfjf-dQ": "【快讯】Linux版本的微信 1Click RCE 漏洞",
     "https://mp.weixin.qq.com/s/f5KNcsxJMAEN5f821bjhzQ": "GCP Apigee跨租户读写漏洞剖析",
-    "https://mp.weixin.qq.com/s/802TeRm98k88wdOTDmYnFA": "upload_forge--专业文件上传漏洞扫描器"
+    "https://mp.weixin.qq.com/s/802TeRm98k88wdOTDmYnFA": "upload_forge--专业文件上传漏洞扫描器",
+    "https://mp.weixin.qq.com/s/T5z2PECSc7kKkkXQ0IxnvQ": "ctfshow web入门命令执行3",
+    "https://mp.weixin.qq.com/s/xQrAwJV84Odzlp5JhQHQdA": "利用钓鱼与OAuth令牌漏洞组合拳，攻击者可全面入侵企业Microsoft 365环境",
+    "https://mp.weixin.qq.com/s/g0_zT5nkOKfBfSvJ6lBZZg": "红队利器｜FnOS系统综合漏洞利用框架",
+    "https://mp.weixin.qq.com/s/xE3Zo6AzjmFo1r2a3ztEuA": "【网络安全】DeepAudit - 人人拥有的 AI 审计战队，让漏洞挖掘触手可及",
+    "https://mp.weixin.qq.com/s/eYlalO1wCbnJJ2eOWfhwZA": "【网络安全】微信 Linux 版 4.1.0.13 最新版本存在远程命令执行漏洞，信创系统全军覆没，鸿蒙系统逃过一劫",
+    "https://mp.weixin.qq.com/s/0v9wMgo7ES9-_uFnNZsY0w": "【动态靶场】一个博客系统，他有一个XSS漏洞-1"
 }
