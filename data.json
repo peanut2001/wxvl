@@ -17915,5 +17915,6 @@
     "https://mp.weixin.qq.com/s/9AAoIbOoMxVTjx9Vvu760w": "985证书漏洞越权成为教授 + EDU∕RCE漏洞实战解析｜湘安内部平台月榜 TOP3 案例",
     "https://mp.weixin.qq.com/s/EXXeXmN3nBITr7VZd5MNsg": "AI生成恶意软件利用React2Shell漏洞攻击Docker，低门槛威胁激增",
     "https://mp.weixin.qq.com/s/Jopoi2JGbbJYhmcRqa6-0w": "【已复现】微信 Linux版本命令执行漏洞(QVD-2026-7687)安全风险通告",
-    "https://mp.weixin.qq.com/s/uyH8XoiOHygvgC_mH4vESw": "开源库 Libpng 漏洞已存在30年，可导致数百万系统遭代码执行攻击"
+    "https://mp.weixin.qq.com/s/uyH8XoiOHygvgC_mH4vESw": "开源库 Libpng 漏洞已存在30年，可导致数百万系统遭代码执行攻击",
+    "https://mp.weixin.qq.com/s/szIBIyi0sLgzxGrASEbbRQ": "【已复现】最新版微信v4.1出现远程命令执行漏洞：one-click RCE on Linux WeChat"
 }
