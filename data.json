@@ -17916,5 +17916,19 @@
     "https://mp.weixin.qq.com/s/EXXeXmN3nBITr7VZd5MNsg": "AI生成恶意软件利用React2Shell漏洞攻击Docker，低门槛威胁激增",
     "https://mp.weixin.qq.com/s/Jopoi2JGbbJYhmcRqa6-0w": "【已复现】微信 Linux版本命令执行漏洞(QVD-2026-7687)安全风险通告",
     "https://mp.weixin.qq.com/s/uyH8XoiOHygvgC_mH4vESw": "开源库 Libpng 漏洞已存在30年，可导致数百万系统遭代码执行攻击",
-    "https://mp.weixin.qq.com/s/szIBIyi0sLgzxGrASEbbRQ": "【已复现】最新版微信v4.1出现远程命令执行漏洞：one-click RCE on Linux WeChat"
+    "https://mp.weixin.qq.com/s/szIBIyi0sLgzxGrASEbbRQ": "【已复现】最新版微信v4.1出现远程命令执行漏洞：one-click RCE on Linux WeChat",
+    "https://mp.weixin.qq.com/s/Dbz9GWqNLxu-6o7neIWtkg": "漏洞预警 | 天地伟业Easy7综合管理平台文件读取漏洞",
+    "https://mp.weixin.qq.com/s/3_OconCSMcLWgesztlUHQw": "必备漏洞挖掘工具！聚合 XRAY∕AWVS∕vulmap，批量搞定漏洞挖掘与验证",
+    "https://mp.weixin.qq.com/s/Mo_RnPed8f6Qj1uQvhJnBw": "利用 Ivanti EPMM 系统零日漏洞的攻击激增",
+    "https://mp.weixin.qq.com/s/ObURslSFAVSOOcz_axIZCw": "伪装成漏洞检测工具样本分析",
+    "https://mp.weixin.qq.com/s/NVhjujKg9-UTNQhNIb4Z3A": "韩国加密货币交易所Bithumb因系统漏洞导致出现400亿美元转帐错误",
+    "https://mp.weixin.qq.com/s/k3DgMIPfcvLnSo-E-gwHLQ": "扫过万千漏洞与站点，唯独对你一往情深！综合漏洞利用工具-dddd德帝版",
+    "https://mp.weixin.qq.com/s/TMdxeHaIZXSw5j_i1rZ6FQ": "CVSS 10.0！Rancher漏洞致K3s集群面临容器逃逸风险",
+    "https://mp.weixin.qq.com/s/Ytyc_s-dP_54i4XhYkyQZA": "复现Windows记事本最新漏洞-CVE-2026-20841",
+    "https://mp.weixin.qq.com/s/MYr-IWcFuiLDATOlhXQyvQ": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/uqeunEpeqJEWSC8xv0q85A": "微软表示，黑客正在利用关键0day漏洞攻击 Windows 和 Office 用户",
+    "https://mp.weixin.qq.com/s/KbpR09jITNlCMxWn0xiAbA": "警惕！Ivanti RCE零日漏洞复盘：这是一场针对IT管理者的“外科手术式”打击",
+    "https://mp.weixin.qq.com/s/ljKfH_SRrWnYy0riPvN9bw": "漏洞复现 | 深信服运维安全管理系统 getHis 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/P-eRD6vL0XJOgsUFGyYYpA": "漏洞预警 | 用友时空KSOA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/_SA0zX9mVEJXHJ_KITXo7g": "必备漏洞挖掘工具！聚合 XRAY∕AWVS∕vulmap，批量搞定漏洞挖掘与验证"
 }
