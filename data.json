@@ -17937,5 +17937,13 @@
     "https://mp.weixin.qq.com/s/VPE39CO8Mtr3l9x6hvr_2Q": "Host头碰撞漏洞揭秘：如何撞出“不存在”的网站",
     "https://mp.weixin.qq.com/s/QCkCaQOOfVB1_DedE-C6Vw": "CVE-2026-26215 - manga-image-translator 中的未经身份验证的远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/u0i_8unHyha7-FZ_pEr-wg": "手搓漏洞：4种无工具绕过邮箱验证的实战技法",
-    "https://mp.weixin.qq.com/s/i0OI52O3IorUmeCjUHvPIg": "【SRC实战】逻辑漏洞"
+    "https://mp.weixin.qq.com/s/i0OI52O3IorUmeCjUHvPIg": "【SRC实战】逻辑漏洞",
+    "https://mp.weixin.qq.com/s/UJmwmFPLRgfmqXHCm2hFZg": "SSHStalker僵尸网络利用IRC C2通过旧版内核漏洞控制Linux系统",
+    "https://mp.weixin.qq.com/s/rkCl9SwCPyJ9tuI4zQA7eg": "【已验证】Windows 记事本应用程序远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/sbUez7a_xm-3gOMniaWMqw": "2026-02微软漏洞通告",
+    "https://mp.weixin.qq.com/s/Ot5taw_2zs16xTR_VAkjKA": "【已复现】Microsoft Windows 记事本远程代码执行漏洞(CVE-2026-20841)安全风险通告",
+    "https://mp.weixin.qq.com/s/fqrjmoLoXHUuILRe4c7LVg": "【漏洞复现】腾达路由器曝敏感信息泄露漏洞，可直接获取管理密码。",
+    "https://mp.weixin.qq.com/s/ju2v7nRxPEKGlGl69v_yUQ": "【漏洞检测POC】Windows记事本命令注入漏洞（CVE-2026-20841）",
+    "https://mp.weixin.qq.com/s/9ZUrKzSgnTQqVwTvnzja1w": "windows记事本命令注入漏洞(CVE-2026-20841)",
+    "https://mp.weixin.qq.com/s/v10XhK_vXI5za8YiY3951g": "苹果零日漏洞遭恶意利用，发起复杂攻击，目标直指个人用户"
 }
