@@ -18007,5 +18007,6 @@
     "https://mp.weixin.qq.com/s/avzLG4iOHfRN-f1IF1UpvA": "Chrome紧急发布安全更新，修复多个高危远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/q3Ev10mQGfQnT45s0WT7bg": "补丁分析|白嫖企业级AI进行漏洞补丁分析",
     "https://mp.weixin.qq.com/s/G4IxQITuWEKoyry7fBOiXw": "【安全圈】飞牛 fnOS 漏洞被批量利用",
-    "https://mp.weixin.qq.com/s/HnbkYCIuKzr2Mp5vx4EvBA": "思科修复了攻击中利用的统一通信远程代码执行 0 day 漏洞"
+    "https://mp.weixin.qq.com/s/HnbkYCIuKzr2Mp5vx4EvBA": "思科修复了攻击中利用的统一通信远程代码执行 0 day 漏洞",
+    "https://mp.weixin.qq.com/s/301IIMitDMSJQXSOuMBSLA": "Chroma DB未授权信息泄露漏洞"
 }
