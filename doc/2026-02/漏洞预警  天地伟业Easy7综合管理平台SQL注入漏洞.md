@@ -1,6 +1,6 @@
 #  漏洞预警 | 天地伟业Easy7综合管理平台SQL注入漏洞  
 浅安
-                    浅安  浅安安全   2026-02-10 00:00  
+                    浅安  浅安安全   2026-02-13 00:02  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -27,9 +27,7 @@ SQL注入
   
   
 **简述：**  
-天地伟业Easy7综合管理平台的  
-/Easy7/rest/inquestRoom/getCurrentUserInquestRooms_ZHGL  
-接口存在SQL注入漏洞，未经身份验证的攻击者可以通过该漏洞获取数据库敏感信息。  
+天地伟业Easy7综合管理平台的/Easy7/rest/obj/getActiveEffectTemp接口存在SQL注入漏洞，未经身份验证的攻击者可以通过该漏洞获取数据库敏感信息。  
   
 **0x04 影响版本**  
 - 天地伟业Easy7综合管理平台  
