@@ -1,6 +1,6 @@
 #  漏洞预警 | 金和OA SQL注入和XXE漏洞  
 浅安
-                    浅安  浅安安全   2026-02-11 00:01  
+                    浅安  浅安安全   2026-02-14 00:00  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -23,9 +23,7 @@
 获取敏感信息  
   
 **简述：**  
-金和OA协同办公管理系统C6软件的  
-/c6/JHSoft.Web.Departments/XmlHttp.aspx/  
-接口存在SQL注入和XXE漏洞，  
+金和OA协同办公管理系统C6软件的/c6/Jhsoft.Web.epass/EpassInitTakenSnCheck.aspx/、/c6/Jhsoft.Web.epass/EpassInitTakenSnExec.aspx、/c6/Jhsoft.Web.epass/EpassInitTakenSnInva.aspx和/c6/Jhsoft.Web.epass/EpassValidate.aspx接口存在SQL注入和XXE漏洞，  
 未经身份验证的  
 攻击者可以通过该漏洞执行任意SQL语句、  
 读取服务器上敏感文件或探测内网服务信息  
