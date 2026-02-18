@@ -18035,5 +18035,9 @@
     "https://mp.weixin.qq.com/s/cbmNOAb2YodydLw_8fkZYg": "Metasploit发布7个新漏洞利用模块，覆盖FreePBX、Cacti和SmarterMail",
     "https://mp.weixin.qq.com/s/Sr7m00Yu6aYC-qdDNTClVw": "北大医疗信息技术有限公司运营管理与决策支持系统存在弱口令漏洞",
     "https://mp.weixin.qq.com/s/OCNdz1QLqMwC-2F7WDKtKg": "漏洞复现 | 爱数AnyShare爱数云盘start_service远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/d3qPOLz46w46Z82WomfYHQ": "Chroma DB存在swagger敏感信息泄露漏洞 附POC"
+    "https://mp.weixin.qq.com/s/d3qPOLz46w46Z82WomfYHQ": "Chroma DB存在swagger敏感信息泄露漏洞 附POC",
+    "https://mp.weixin.qq.com/s/ZMW8BxqPu1OqL0j5K-2VzA": "某系统存在Beetl反序列化模板注入RCE漏洞",
+    "https://mp.weixin.qq.com/s/L6ICTiU-siNQDAl_O_AZig": "年薪50万还不够？3名大厂员工兼职做黑产被抓|飞牛 fnOS 漏洞被批量利用",
+    "https://mp.weixin.qq.com/s/-f4kBB_5rtd39TIiUjdSlQ": "天工实验室祝您马年大吉，智能挖洞无漏报，0Day自带RCE！",
+    "https://mp.weixin.qq.com/s/V8vJ_7IwPqJasFk3DdSDFg": "第三方集成崩盘：Salesforce 可预测 ID 枚举 + Zendesk 前端 admin token 泄露 265 万记录"
 }
