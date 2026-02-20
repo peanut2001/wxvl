@@ -1,6 +1,5 @@
 #  【红队必备】自动化管理漏洞扫描工作流(Workflow+Finger+Dir+POC+自动生成Workflow)  
-原创 0xSecDebug
-                    0xSecDebug  0xSecDebug   2026-02-18 04:09  
+ sec0nd安全   2026-02-19 09:24  
   
 ## 工具简介  
   
