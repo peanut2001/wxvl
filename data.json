@@ -18071,5 +18071,8 @@
     "https://mp.weixin.qq.com/s/16NaX2RlYumcVYH6n0QOWA": "Tomcat漏洞允许攻击者通过HTTP∕0.9请求绕过安全限制",
     "https://mp.weixin.qq.com/s/bIPu5F-rsL-wjsahbInXmg": "Jenkins 存在严重漏洞导致建环境易受 XSS 攻击",
     "https://mp.weixin.qq.com/s/xmU88CJcC7Qw11CTQ6fEuA": "谷歌紧急发布关键Chrome更新，以修复PDFium和V8的严重漏洞",
-    "https://mp.weixin.qq.com/s/AzA7tX6EFuGAQ4SotgZvmA": "SmarterMail 关键远程代码执行漏洞在野外被利用"
+    "https://mp.weixin.qq.com/s/AzA7tX6EFuGAQ4SotgZvmA": "SmarterMail 关键远程代码执行漏洞在野外被利用",
+    "https://mp.weixin.qq.com/s/xEp5-H6_dmbnx5k4YHHRUA": "2026二月网络安全红警拉满！全球多起重大攻击爆发，这些漏洞和陷阱必防",
+    "https://mp.weixin.qq.com/s/xXfxNJOWRpMyJorhWIWEiA": "OpenClaw AI框架曝出六大高危漏洞，含SSRF与认证绕过风险",
+    "https://mp.weixin.qq.com/s/ejCGba22xZGOQTb8l5rFjQ": "【红队必备】info_scan集成30+工具的集成化漏洞扫描平台(从资产发现到漏洞验证的闭环管理)"
 }
