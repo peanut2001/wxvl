@@ -18101,5 +18101,10 @@
     "https://mp.weixin.qq.com/s/j6dpdiTw8cXxCo62lt4Y_w": "Go 原生的可视化自动化资产监控与攻击面漏洞扫描平台",
     "https://mp.weixin.qq.com/s/OVMUp8YalicS003K06t93A": "Anthropic推出Claude Code Security，用于人工智能驱动的漏洞扫描",
     "https://mp.weixin.qq.com/s/nUC7IPuPHritj2a5YX5oww": "CISA 将两个已被积极利用的 Roundcube 漏洞添加到 KEV 目录中",
-    "https://mp.weixin.qq.com/s/-Ww5NDMB9C7Pb7URNJZeAw": "[CVE-2026-0714] 嵌入式设备上的 TPM 嗅探 LUKS 密钥"
+    "https://mp.weixin.qq.com/s/-Ww5NDMB9C7Pb7URNJZeAw": "[CVE-2026-0714] 嵌入式设备上的 TPM 嗅探 LUKS 密钥",
+    "https://mp.weixin.qq.com/s/h7uNXsxKDj6JaR4A-w-0kw": "Windows记事本RCE漏洞PoC已公开（CVE-2026-20841）",
+    "https://mp.weixin.qq.com/s/BhfaxatmTiWpxMZhuukHHQ": "做个\"脚本小子\"--XPOC下载篇",
+    "https://mp.weixin.qq.com/s/v6bW3AwyovI0R2YN7F3viQ": "几个常见漏洞挖掘案例分享",
+    "https://mp.weixin.qq.com/s/bqavfbmDlHutjTb2hQVZ6Q": "总结常见的web安全漏洞（产生原因 ，原理 ，危害 ，防御措施）",
+    "https://mp.weixin.qq.com/s/SyENC7Y9eWi6UciQEwWNeA": "第45天-JavaEE安全探秘：动态代理与反序列化漏洞深度解析"
 }
