@@ -18136,5 +18136,10 @@
     "https://mp.weixin.qq.com/s/1FZ4g6E_vCYG2zwGjnxy3Q": "黑客组织大规模利用OpenClaw漏洞，窃取API密钥并部署恶意软件",
     "https://mp.weixin.qq.com/s/_paLzPUcg5Vlrt46gRRjaA": "【红队必备】红队批量打点∕Getshell利器(集成百个框架高危漏洞)",
     "https://mp.weixin.qq.com/s/O81bAxS38j7FAEt2GoplpQ": "Nuclei 漏洞扫描图形化工具 | POC 管理、FOFA∕Hunter∕Shodan 资产测绘、AI 辅助分析、漏洞报告生成",
-    "https://mp.weixin.qq.com/s/oMqK4nCnXVBH8IguGzfq3Q": "深度解析：在 Rails 中通过结构化代码消灭 IDOR 漏洞"
+    "https://mp.weixin.qq.com/s/oMqK4nCnXVBH8IguGzfq3Q": "深度解析：在 Rails 中通过结构化代码消灭 IDOR 漏洞",
+    "https://mp.weixin.qq.com/s/ZNGP-FMl9eMLAM8JWdz1UQ": "黑客利用 BeyondTrust 的严重漏洞，在多个行业部署 VShell 和 SparkRAT",
+    "https://mp.weixin.qq.com/s/yKAupl6Eboj4CIsf_sZtpA": "【已复现】东方通 TongWeb 的 EJB 服务接口存在反序列化远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/B5Fjxtvv3FTp-O-Wbo0tQA": "H3C路由器敏感信息泄露漏洞 附POC",
+    "https://mp.weixin.qq.com/s/1ivl78BDAcTYYwIYw2IPWA": "GraphQL 渗透测试（面向漏洞赏金猎人）：从端点发现到高影响漏洞利用",
+    "https://mp.weixin.qq.com/s/43sWyLGum2S7QJXy1pQPSA": "漏洞复现 | 东胜物流软件SoftMng∕FileInputHandler∕Upload接口存在任意文件上传漏洞"
 }
