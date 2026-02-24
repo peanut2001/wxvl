@@ -1,10 +1,10 @@
 #  黑客组织大规模利用OpenClaw漏洞，窃取API密钥并部署恶意软件  
- FreeBuf   2026-02-23 10:04  
+ 黑白之道   2026-02-24 01:18  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/icBE3OpK1IX2EED5IIYxeKsrRHjibOVhZCSdmkvxmxNNiaHk8NhliacBHtTT0BFZbiaLiab9ibrqsuITEO1h6QJRh6VV5kpEUiaicO2WCOA9ia5R1sBiaI/640?wx_fmt=png&from=appmsg "")  
-##   
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/nGzNudUIJ6MgKsBqQMyRyuv1ruAEQ2MjnfibbJliaNZria9FIEANS4b5wRPBuUq4Kv6GfX1xiakGG2aE9PdXX8ubWcpKBt3rIZt4wh7jzlvkQ5M/640?wx_fmt=png&from=appmsg "")  
   
 **Part01**  
 ## OpenClaw遭大规模利用  
@@ -55,22 +55,31 @@ Multiple Hacking Groups Exploit OpenClaw Instances to Steal API key and Deploy M
 https://cybersecuritynews.com/hacking-groups-exploit-openclaw/  
   
   
-###   
-###   
-###   
-  
-**推荐阅读**  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651335325&idx=1&sn=9ed0ec9935e791c0508c4ec1526dbf72&scene=21#wechat_redirect)  
+> **文章来源 ：FreeBuf**  
   
   
-### 电台讨论  
+**精彩推荐**  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibvNluUKZ6RPy7h2fbYibRbLQDHPFqj89KkFsXBRibx5YTLiaTUfFOy9PKicps3l56iazUPNQrwdhkZ7jA/640?wx_fmt=png&from=appmsg "")  
-  
-****  
   
   
+# 乘风破浪|华盟信安线下网络安全就业班招生中！  
+  
+  
+[](http://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650575781&idx=2&sn=ea0334807d87faa0c2b30770b0fa710d&chksm=83bdf641b4ca7f5774129396e8e916645b7aa7e2e2744984d724ca0019e913b491107e1d6e29&scene=21#wechat_redirect)  
+  
+  
+# 【Web精英班·开班】HW加油站，快来充电！  
+  
+  
+‍[](http://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650594891&idx=1&sn=b2c5659bb6bce6703f282e8acce3d7cb&chksm=83bdbbafb4ca32b9044716aec713576156968a5753fd3a3d6913951a8e2a7e968715adea1ddc&scene=21#wechat_redirect)  
+  
+  
+‍  
+# 始于猎艳，终于诈骗！带你了解“约炮”APP  
+  
+[](http://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650575222&idx=1&sn=ce9ab9d633804f2a0862f1771172c26a&chksm=83bdf492b4ca7d843d508982b4550e289055c3181708d9f02bf3c797821cc1d0d8652a0d5535&scene=21#wechat_redirect)  
+  
+**‍**  
   
   
