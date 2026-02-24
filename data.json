@@ -18141,5 +18141,10 @@
     "https://mp.weixin.qq.com/s/yKAupl6Eboj4CIsf_sZtpA": "【已复现】东方通 TongWeb 的 EJB 服务接口存在反序列化远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/B5Fjxtvv3FTp-O-Wbo0tQA": "H3C路由器敏感信息泄露漏洞 附POC",
     "https://mp.weixin.qq.com/s/1ivl78BDAcTYYwIYw2IPWA": "GraphQL 渗透测试（面向漏洞赏金猎人）：从端点发现到高影响漏洞利用",
-    "https://mp.weixin.qq.com/s/43sWyLGum2S7QJXy1pQPSA": "漏洞复现 | 东胜物流软件SoftMng∕FileInputHandler∕Upload接口存在任意文件上传漏洞"
+    "https://mp.weixin.qq.com/s/43sWyLGum2S7QJXy1pQPSA": "漏洞复现 | 东胜物流软件SoftMng∕FileInputHandler∕Upload接口存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/dVm2IlIQOVSjLWjHVMRCvA": "CVE-2026-20817 - Windows错误报告(WER) ALPC权限提升漏洞深度分析",
+    "https://mp.weixin.qq.com/s/ZxgnZSrU2s7qIT5KJHuV4Q": "Nuclei 漏洞扫描图形化工具 | POC 管理、FOFA∕Hunter∕Shodan 资产测绘、AI 辅助分析、漏洞报告生成",
+    "https://mp.weixin.qq.com/s/oemd5bvgrWhalgYcJhzlyA": "新型变种木马 XWorm 7.2 攻击链深度拆解：Excel漏洞 + 图片隐写 + 进程镂空",
+    "https://mp.weixin.qq.com/s/FBS3bRU-bRw3-nKOy6EnuA": "CVE-2025-2011 SQL注入",
+    "https://mp.weixin.qq.com/s/3e0vpcXvltDoS3jmay2pDA": "谷歌Chrome紧急安全更新修复了三个高危漏洞"
 }
