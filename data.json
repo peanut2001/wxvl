@@ -18203,5 +18203,12 @@
     "https://mp.weixin.qq.com/s/hFAbH6XS0hPN9BW5srKqhA": "Nuclei 漏洞扫描图形化工具 | POC 管理、FOFA∕Hunter∕Shodan 资产测绘、AI 辅助分析、漏洞报告生成",
     "https://mp.weixin.qq.com/s/0w6_upMKGDtHgtImQTcLCQ": "漏洞复现 | 用友NC importExcelTemplate 任意文件上传漏洞",
     "https://mp.weixin.qq.com/s/OV332EPC7MpooNb2PB4CJg": "通过js发现的一个信息泄露漏洞",
-    "https://mp.weixin.qq.com/s/RaQStYpdJfbgjLCrYEue4A": "AI 编程助手安全盲区：Claude Code 漏洞揭示的代码安全新挑战"
+    "https://mp.weixin.qq.com/s/RaQStYpdJfbgjLCrYEue4A": "AI 编程助手安全盲区：Claude Code 漏洞揭示的代码安全新挑战",
+    "https://mp.weixin.qq.com/s/b8CR4yagBnUWORg_I9e_yQ": "Check Point帮Claude找了3个漏洞，真没想到引来了...",
+    "https://mp.weixin.qq.com/s/1NCwubHtlNAgvuQaZELTVg": "存储型XSS漏洞checklist",
+    "https://mp.weixin.qq.com/s/JamQgowfqX9LPdjxJS_MzA": "天锐绿盾 findUserPage.do sql注入漏洞",
+    "https://mp.weixin.qq.com/s/0oqc03vbWiYq2z813CmjGQ": "【漏洞通告】RustFS PostObject 策略验证缺失导致授权绕过漏洞(CVE-2026-27607)",
+    "https://mp.weixin.qq.com/s/CtqxSsWmOT4D7P7hs4raDw": "近期安全事件一览（全球重大安全事件和CVE-2026-2441）",
+    "https://mp.weixin.qq.com/s/11i1r2xaS3Ei_Srkw4ey4w": "你以为的安全，其实漏洞百出：普通人必看的网络安全自查清单",
+    "https://mp.weixin.qq.com/s/5lLbdR_qKVsqdSRCaV8tkA": "SQL 注入漏洞总结"
 }
