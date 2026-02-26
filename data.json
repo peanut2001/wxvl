@@ -18190,5 +18190,11 @@
     "https://mp.weixin.qq.com/s/jba1vz708W7K90gopsxt9A": "GitHub Copilot漏洞可致代码库遭劫持，攻击者利用AI静默窃取敏感令牌",
     "https://mp.weixin.qq.com/s/yjsS7Er173vo9hKvhomcwg": "猫头鹰 XSS 平台：一个针对XSS漏洞的测试平台",
     "https://mp.weixin.qq.com/s/BSd_DmVkhLhKh-PS6WiC5g": "ACF插件漏洞使黑客能够获得5万个WordPress网站的管理权限",
-    "https://mp.weixin.qq.com/s/i6ZJifWeNNpgDswNgAkqXQ": "【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（一）ICS过程控制漏洞概述"
+    "https://mp.weixin.qq.com/s/i6ZJifWeNNpgDswNgAkqXQ": "【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（一）ICS过程控制漏洞概述",
+    "https://mp.weixin.qq.com/s/R6eEvS4lrouNvcOpgYFUXQ": "EventLog-in：利用微软Windows事件日志服务进行弱凭证横向移动（CVE-2025-29969）",
+    "https://mp.weixin.qq.com/s/K1iLP1PsXk3JHAEG88KjXw": "【利用难度极低】CVE-2026-25253 OpenClaw漏洞剖析",
+    "https://mp.weixin.qq.com/s/FyKg6H4dkoWHddED970u5A": "内鬼、黑客与替罪羊?L3Harris“核武级”漏洞泄露案拷问西方情报供应链安全",
+    "https://mp.weixin.qq.com/s/bouwXsLy0QEfsEgh-7x9ww": "'ormar' Python 库中发现严重 SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s/D6z6_0qgpKvrDPQlnde3nw": "【SRC赏金猎人必备】SRC资产扫描利器(集成四测绘引擎+549 POC)",
+    "https://mp.weixin.qq.com/s/6uyZO4tLCIBaZKG6_sKQVA": "【SRC赏金猎人必备】一款自动化SRC资产监控与漏洞扫描框架"
 }
