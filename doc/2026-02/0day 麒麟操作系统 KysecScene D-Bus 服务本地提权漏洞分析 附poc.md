@@ -1,6 +1,6 @@
 #  0day 麒麟操作系统 KysecScene D-Bus 服务本地提权漏洞分析 附poc  
-原创 KoWayMin
-                    KoWayMin  棉花糖fans   2026-02-25 00:46  
+KoWayMin
+                    KoWayMin  阿乐你好   2026-02-27 05:56  
   
 ![](https://mmbiz.qpic.cn/mmbiz_gif/1mtwZURvGTkCK3ZFyqYEyTwmaLo2YSMeibz3eeShkewiadS4oh0RBl1U7BTVeEscGQrEbjWKcQzGpJEFLwr4cFQw/640?wx_fmt=gif&wxfrom=13&wx_lazy=1&tp=wxpic "")  
   
