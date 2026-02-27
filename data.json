@@ -18233,5 +18233,18 @@
     "https://mp.weixin.qq.com/s/HdDlLJTTLI2oguXE54vU6Q": "CTFshow:请求伪造漏洞_CSRF",
     "https://mp.weixin.qq.com/s/x_BegxiS3Zd4YbxZ9VuWEQ": "存储型XSS漏洞checklist",
     "https://mp.weixin.qq.com/s/UeNNtqdsIJIAJIDrxZWBNw": "漏洞报告补档补档-知识星球",
-    "https://mp.weixin.qq.com/s/iXbGLS3F6SKmfnFhZoK2iA": "APP漏洞挖掘六脉神剑：组件、存储、证书、生物、Root、动态加载"
+    "https://mp.weixin.qq.com/s/iXbGLS3F6SKmfnFhZoK2iA": "APP漏洞挖掘六脉神剑：组件、存储、证书、生物、Root、动态加载",
+    "https://mp.weixin.qq.com/s/kWYv8nNmENO-o2-CHClgRQ": "网安人必看！我做了个漏洞报告生成Skill，效率大幅提升",
+    "https://mp.weixin.qq.com/s/UQsPWFxKDv0bSt2dKnTXGA": "新的沙箱逃逸漏洞使 n8n 实例容易受到远程代码执行攻击",
+    "https://mp.weixin.qq.com/s/kCGM_7-sHfqAa62J_DA2pw": "安科瑞企业微电网能效管理系统存在默认密码admin:Acrel001 附POC",
+    "https://mp.weixin.qq.com/s/K-6XZbp4CbjrqL5sLNlhpg": "从越权到RCE：深度剖析SolarWinds Serv-U 最新4大致命漏洞",
+    "https://mp.weixin.qq.com/s/0qB4Augj9nYLZ2ZIBHMPzA": "开工特惠 | ApiHunter智能参数填充+自动跑接口： API 接口漏洞检测工具",
+    "https://mp.weixin.qq.com/s/4XV0qHt1RiJBaPousddvwg": "大疆扫地机被曝安全漏洞，6700台设备可被远程控制",
+    "https://mp.weixin.qq.com/s/kcsNmlzPC_7oNSu0mVDvhw": "一款专业的文件上传漏洞检测工具，支持263+绕过技术、代理抓包、动态扫描",
+    "https://mp.weixin.qq.com/s/ALE2-VOhrbp9vMiSlNYn9w": "ServiceNow AI平台关键漏洞可实现远程代码执行",
+    "https://mp.weixin.qq.com/s/zHFcfpLsDsglURY-k5cyhA": "【已复现】深科特LEAN MES系统的MesATEApi.asmx接口存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/cpmA2bD3BKPgZtkd53PVaw": "2025年漏洞战场的真相：喧嚣之下，暗流涌动",
+    "https://mp.weixin.qq.com/s/-U5hc8-no1AO80v5pz8hcQ": "攻击路径(8)：不用漏洞也能打穿内网",
+    "https://mp.weixin.qq.com/s/Ijgxua3JDxH0JGiTAzcM5Q": "Wireshark 4.6.4发布，修复了多项安全漏洞",
+    "https://mp.weixin.qq.com/s/r2U_36RDjIVtOLU6Ttb2XA": "2026年全球漏洞披露预测与安全运营影响"
 }
