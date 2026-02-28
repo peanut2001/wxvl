@@ -18289,5 +18289,17 @@
     "https://mp.weixin.qq.com/s/_evFS7pc3dENFZIqfvduqg": "【0day】九佳易管理系统 picHY.ashx SQL 注入漏洞",
     "https://mp.weixin.qq.com/s/3LiyL2Zx_iOibk-q1kYgfA": "Claude Code遭入侵，RCE漏洞可窃取组织API密钥",
     "https://mp.weixin.qq.com/s/DDa6COeguCxfzOyDwifRIw": "2025年1%的安全漏洞被实际利用，却造成绝大多数网络攻击",
-    "https://mp.weixin.qq.com/s/8Dm8npmqBHHgV0Pfwns_RQ": "【干货】漏洞挖掘技巧+深层原理分析 前端鉴权绕过（一）"
+    "https://mp.weixin.qq.com/s/8Dm8npmqBHHgV0Pfwns_RQ": "【干货】漏洞挖掘技巧+深层原理分析 前端鉴权绕过（一）",
+    "https://mp.weixin.qq.com/s/rk-XGq62qoLkn2zHyZe7wg": "【AI高危漏洞预警】Claude Desktop命令注入漏洞CVE-2026-26029",
+    "https://mp.weixin.qq.com/s/bodNajH4xB3Ix7MuTy8OxQ": "美国防部推进AI网络作战工具 重点锁定中国电网与关键基础设施漏洞",
+    "https://mp.weixin.qq.com/s/pO9KhXPe0eGe27dH2-2bMg": "通往内核的七条路：RCE获取服务器权限的完整狩猎指南",
+    "https://mp.weixin.qq.com/s/Vhy8MgsDaHrmaaBmW1VB4g": "九佳易管理系统picHY.aspx接口存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s/fjT9Lh0io1ceU0kB8bD0mA": "青龙面板 v2.20.1 路由重写引发的鉴权绕过与配置写入风险（复现记录）",
+    "https://mp.weixin.qq.com/s/EjAedDCOV8rNCtXZvz-nUQ": "2026-02-28 最新CVE漏洞情报和技术资讯头条",
+    "https://mp.weixin.qq.com/s/tN16xBSmKDUF2_aGgBpnJQ": "Nuclei 漏洞扫描图形化工具 -- Nuclei_Gui（2月25日更新）",
+    "https://mp.weixin.qq.com/s/2npxthv9hdLO4AD9idiMQQ": "0day 青龙面板 最新版本 鉴权绕过导致 RCE 分析",
+    "https://mp.weixin.qq.com/s/Kb-0Df_n4veFXO6CbsFl_g": "FreeBSD 漏洞允许攻击者导致整个系统崩溃",
+    "https://mp.weixin.qq.com/s/2MbfPmIuFyTWyowmDStj-Q": "0day | 青龙面板最新版本鉴权绕过导致远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/6AKuG2tsWo1h4Che0_zJLw": "带 AI 辅助的可视化漏洞扫描工具、支持 POC Nuclei 管理与生成、FOFA∕Hunter∕Shodan 资产搜索",
+    "https://mp.weixin.qq.com/s/j7TdhAvGvSmOpRZGF42hvw": "EverShop严重安全漏洞警报：密码重置令牌直接暴露，CVSS 9.8分"
 }
