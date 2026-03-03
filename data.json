@@ -18433,5 +18433,15 @@
     "https://mp.weixin.qq.com/s/COJMTSv9xQdb_8mNWUkplQ": "OpenClaw高危漏洞ClawJacked深度解析：当浏览器成为内网渗透的跳板",
     "https://mp.weixin.qq.com/s/GGfhh7mmy6kNqyychBOelA": "Chrome高危零日漏洞CVE-2026-0628深度分析：恶意扩展如何借AI之势窃取你的本地文件",
     "https://mp.weixin.qq.com/s/PME9OXsdCaidSTxCbpE3Xg": "什么是自带漏洞驱动 (BYOVD) 攻击?",
-    "https://mp.weixin.qq.com/s/fftGnpspnYeUj66jbiUpUA": "用户名枚举漏洞并可被利用导致账户被恶意封禁算不算漏洞"
+    "https://mp.weixin.qq.com/s/fftGnpspnYeUj66jbiUpUA": "用户名枚举漏洞并可被利用导致账户被恶意封禁算不算漏洞",
+    "https://mp.weixin.qq.com/s/RBk_5wl1ORq2c7p-P_r2ug": "Chrome Gemini漏洞可致攻击者远程访问用户摄像头和麦克风",
+    "https://mp.weixin.qq.com/s/MDAR7vEt0u0QvT-RVj190A": "【论文速读】| FuzzySQL：基于大模型驱动的模糊测试挖掘数据库管理系统特殊功能中的隐藏漏洞",
+    "https://mp.weixin.qq.com/s/yk8acwGkXsWBgKcVp-SaTw": "CVE-2026-3042分析：ITSourceCode事件管理系统高危SQL注入漏洞（附poc）",
+    "https://mp.weixin.qq.com/s/c4fNfzn2TKA4VA1b9S1IFg": "Windows错误报告服务ALPC提权漏洞，PoC利用代码公开",
+    "https://mp.weixin.qq.com/s/VxuN9ohg3ypwOF6B8HYHXQ": "OpenClaw高危漏洞ClawJacked深度解析：当浏览器成为内网渗透的跳板",
+    "https://mp.weixin.qq.com/s/ct8GBNUKZIOnvqQaqOPbDA": "APT28组织利用MSHTML框架0Day漏洞在微软补丁发布前实施攻击",
+    "https://mp.weixin.qq.com/s/KszZ_HT1Mza5DWOqNdQqcA": "Netatalk CVE-2018-1160 复现及漏洞利用思路",
+    "https://mp.weixin.qq.com/s/wscOQbSSNwdp5Bc9XbI4sw": "漏洞验证-SpringBlade框架JWT认证缺陷(CVE-2021-44910)",
+    "https://mp.weixin.qq.com/s/BWVJsQI1sPmobRX4y3jDgw": "Chrome 漏洞可导致恶意扩展通过 Gemini 面板提权",
+    "https://mp.weixin.qq.com/s/zTGQOuixh9CgXZ76-7SmZQ": "【高危漏洞预警】青龙面板身份认证绕过漏洞"
 }

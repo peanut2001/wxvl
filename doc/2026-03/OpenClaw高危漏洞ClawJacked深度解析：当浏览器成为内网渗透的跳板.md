@@ -1,11 +1,11 @@
 #  OpenClaw高危漏洞ClawJacked深度解析：当浏览器成为内网渗透的跳板  
- 黑白之道   2026-03-03 01:43  
+点击关注👉
+                    点击关注👉  马哥网络安全   2026-03-03 09:00  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/2I159AwKj55PjxpoPFYtgKd65wuUpOVX4uhlurdxiaSDmM0c3SQQTziaHjs8pFm96cNXJLC71y0VyuHkacU2TAEzdwmn1xHt1gDjTUmhAvyRg/640?wx_fmt=png&from=appmsg "")  
   
-> **导语**  
+**导语**  
 ：一个未配置速率限制的WebSocket端点，一次静默的设备注册，竟能让恶意网站获得你本地AI Agent的完全控制权。这不是科幻，而是OpenClaw曝光的高危漏洞ClawJacked的真实攻击图景。当AI Agent成为企业基础设施的核心组件，它们的安全边界究竟在哪里？  
-  
 ## 一、漏洞原理：本地信任陷阱的致命漏洞  
   
 ClawJacked漏洞的核心在于**本地信任模型的设计缺陷**  
@@ -117,7 +117,7 @@ OpenClaw的AI Agent通常被赋予广泛的系统访问权限：
   
 Endor Labs的研究一针见血地指出："每个集成服务都在扩大攻击范围（blast radius），可以被转化为武器。"  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/nGzNudUIJ6Nx04DBFicyic8uUjiaiauib3w8GSyibAyERVFw7GHFhqQQzcKsUIfN1yBB1Fa3d92iabCwBSIKMmaia3zXEwdhibXPtB2EibicRre7cQM0rI/640?wx_fmt=jpeg&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/nGzNudUIJ6Nx04DBFicyic8uUjiaiauib3w8GSyibAyERVFw7GHFhqQQzcKsUIfN1yBB1Fa3d92iabCwBSIKMmaia3zXEwdhibXPtB2EibicRre7cQM0rI/640?wx_fmt=jpeg&from=appmsg#imgIndex=1 "")  
 ## 四、修复建议与技术防御措施  
 ### 4.1 紧急响应措施  
   
@@ -243,27 +243,60 @@ https://www.oasis.security/blog/openclaw-vulnerability
 [2]  
 https://github.com/openclaw/openclaw/releases/tag/2026.2.25  
   
+内容转自黑白之道，侵删  
   
-精彩推荐  
-  
-# 乘风破浪|华盟信安线下网络安全就业班招生中！  
-  
-  
-  
-[](http://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650575781&idx=2&sn=ea0334807d87faa0c2b30770b0fa710d&chksm=83bdf641b4ca7f5774129396e8e916645b7aa7e2e2744984d724ca0019e913b491107e1d6e29&scene=21#wechat_redirect)  
+****  
+![](https://mmbiz.qpic.cn/mmbiz_png/INa3lxHH4I2aV3zCmfiaj4cXeQ2HQd6s53wJS36HYI65ib48fujDK8najfWiahicsljzsdT3dfVS8HHyxaviaSd8g2g/640?wxfrom=5&wx_lazy=1&wx_fmt=png&wx_co=1 "")  
   
   
-# 【Web精英班·开班】HW加油站，快来充电！  
+**今日福利**  
+  
+为了帮助大家早日习得网络安全核心知识，快速入行网络安全圈，给大家整理了一套**【2026最新网安资料】**  
+网络安全工程师必备技能资料包（文末一键领取），内容有多详实丰富看下图！  
+  
+Web安全  
+👇  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAkcvc41LgmeFn1B18QpgBZFBODrmsTGnPTOibdIT9B5eFLTHVIgWzYafxGAesmYnfzrz52xwV3Bjhw/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+渗透测试  
+👇  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAkcvc41LgmeFn1B18QpgBZFVKWl2cLRTq7x9haKJerUZNO0YMhiaO8ibN1jjV0qxNLEvRKMfR90eNjQ/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+安全面试题  
+👇  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAkcvc41LgmeFn1B18QpgBZFgrmaDLaYT1yV5lst9tKC72QrYjd5I8IN7kcOZIZSfQJJz8MdX6a1uA/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+代码审计  
+👇  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAkcvc41LgmeFn1B18QpgBZFxmUkTNP1iagssZL5zkjID8hibpZsRCj1OnEb4x7ZYWqpiaymSjc8O7vSQ/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+红队笔记  
+👇  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAkcvc41LgmeFn1B18QpgBZFVZS1mB4MKAo4FoMBGyVSzq38ZXEKJCjZVaTsFtLE7tIJ3zbRWF5xeA/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+入门视频👇  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/O9D0kmTL9EgxtiaXGtk7loXV41e8AXiaORJMhqFbrtcfHvJWTia6ME2oSI9msVYJu79uCicb7foufuibEHaVg32XnWw/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_gif/NUwbCdTuQQxsJibSZGyA8akP9TVyJfPcpJ4uIZJDj3akRUfv6cNbnksGJQsibq1aH8iaGDic7TvOaSwNGXLdQ8PC9A/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
   
   
-‍[](http://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650594891&idx=1&sn=b2c5659bb6bce6703f282e8acce3d7cb&chksm=83bdbbafb4ca32b9044716aec713576156968a5753fd3a3d6913951a8e2a7e968715adea1ddc&scene=21#wechat_redirect)  
+以上所有资料获取请扫码  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAmQO922RsJH8oNVNo28hujdEqkbnrZTKI5IXibkbQGT3Es1s6wruZu9giczEsvg0Qr6G06ldEuVGFPg/640?wx_fmt=png&from=appmsg "")  
   
-‍  
-# 始于猎艳，终于诈骗！带你了解“约炮”APP  
+识别上方二维码  
   
-[](http://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650575222&idx=1&sn=ce9ab9d633804f2a0862f1771172c26a&chksm=83bdf492b4ca7d843d508982b4550e289055c3181708d9f02bf3c797821cc1d0d8652a0d5535&scene=21#wechat_redirect)  
+备注：  
+**2026安全合集**  
   
-**‍**  
+100%免费领取  
+  
+（是扫码领取，不是在公众号后台回复，别看错了哦）  
   
   
