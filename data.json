@@ -18488,5 +18488,18 @@
     "https://mp.weixin.qq.com/s/CxFbA576h3jQVaREcjD86g": "【0day】某知名品牌运维安全管理系统 del_route 远程命令执行漏洞",
     "https://mp.weixin.qq.com/s/zyh4L2iQZ6xcP48U_OTKXw": "【漏洞预警】青龙面板 网站管理系统 command-run 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/qefuyPAaCNk_kT6d-e_Rbw": "美以“史诗怒火”联合斩首行动看伊朗安保漏洞对我借鉴与启示",
-    "https://mp.weixin.qq.com/s/Y5AwybGPA4hERuPWZy0Z8A": "WebLogic任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s/Y5AwybGPA4hERuPWZy0Z8A": "WebLogic任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/lpDNPbUlLijmFuz_WVH5PA": "青龙面板存在任意账号密码重置漏洞",
+    "https://mp.weixin.qq.com/s/EXPK6rmIUkyF-KsxiRFdww": "【高危AI漏洞预警】LLM-Claw缓冲区溢出漏洞",
+    "https://mp.weixin.qq.com/s/LHxZY6wN4-GrvGcp9EMCVQ": "Tenda堆栈缓冲区溢出漏洞 (CVE-2024-2986)",
+    "https://mp.weixin.qq.com/s/Yri_0xcdQwKmwXkxdQdIbQ": "谷歌紧急修复Android 129个漏洞，含正遭利用的0Day",
+    "https://mp.weixin.qq.com/s/_9GMsNgc-_KdXl1-t-zRJQ": "谷歌披露iOS漏洞攻击套件Coruna，数千iPhone用户面临威胁",
+    "https://mp.weixin.qq.com/s/iIGADRYK9Qyg_SNILMBS5w": "Claude发现了500个你十年都没看见的漏洞——你引以为傲的经验，还值钱吗？",
+    "https://mp.weixin.qq.com/s/Hi3YQ_ytlbRhOu09yvRN6A": "OpenClaw近期生态安全事件解读：从RCE漏洞到Skill供应链投毒分析",
+    "https://mp.weixin.qq.com/s/GfZd_pqoiPhpiCriWaBkCg": "【附POC及复现环境】关于 “Windows记事本命令注入漏洞” 的一些真相（CVE-2026-20841）",
+    "https://mp.weixin.qq.com/s/KG3Ge_Zcf0dOdhg8U7mYSQ": "记一次有趣的XSS漏洞挖掘",
+    "https://mp.weixin.qq.com/s/qoWLKYYGDt1ODq8N73am9g": "Chrome Gemini 漏洞可被远程利用 访问受害者摄像头和麦克风",
+    "https://mp.weixin.qq.com/s/xKcq2Qq1yqEvJqn1U2DBRg": "Android 安全更新——修复 129 个漏洞及一个正在被利用的零日漏洞",
+    "https://mp.weixin.qq.com/s/ZtgHjwUp-LFGYi442FZa0A": "谷歌安卓更新修复已遭利用的高通 0day 漏洞",
+    "https://mp.weixin.qq.com/s/erYYn-ybsG-gMtg8G85AOQ": "CISA：VMware Aria Operations RCE漏洞已遭利用"
 }
