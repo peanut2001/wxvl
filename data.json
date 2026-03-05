@@ -18525,5 +18525,21 @@
     "https://mp.weixin.qq.com/s/RuArJUsXdTRtFY-TwB4PjQ": "【漏洞复现】某面板新版本鉴权绕过导致远程代码执行",
     "https://mp.weixin.qq.com/s/5sxG8QzEKQI1Q7_gd40kJg": "【0day】某知名品牌运维安全管理系统 Jwt 密钥硬编码",
     "https://mp.weixin.qq.com/s/SviX5oH7veHqAbNTXFseHQ": "深度追踪“Coruna”：一款高端 iOS 漏洞武器库的“暗网”漂流记",
-    "https://mp.weixin.qq.com/s/LLAKmMlaQbXIXyIFVzyIug": "Openclaw技术解析：自动审计用友U8C代码漏洞指南"
+    "https://mp.weixin.qq.com/s/LLAKmMlaQbXIXyIFVzyIug": "Openclaw技术解析：自动审计用友U8C代码漏洞指南",
+    "https://mp.weixin.qq.com/s/JCXLbJQ10qUr49I-597Fqg": "【漏洞预警】天地伟业Easy7 uploadMapServerBgImage 文件上传漏洞",
+    "https://mp.weixin.qq.com/s/YpKFmeH8FeulWifXxk3H7Q": "【已复现】Cisco Catalyst SD-WAN 身份验证绕过漏洞(CVE-2026-20127)安全风险通告",
+    "https://mp.weixin.qq.com/s/PFU_ObEwY_HD4-O8NV48TQ": "思科提醒注意满分 Secure FMC 漏洞可用于获取 root 权限",
+    "https://mp.weixin.qq.com/s/AjjCWHAokr2AAfPbqURadw": "恶意盗取Token接管OpenClaw AI Agent（CVE-2026-25253 ClawJacked）漏洞解析与安全加固方法",
+    "https://mp.weixin.qq.com/s/b5ywW9TSBc29OfsBtTsegg": "CVE-2024-45758&CVE-2024-10553 H2O-3反序列化漏洞",
+    "https://mp.weixin.qq.com/s/WKFyaWjfrnrm2TxSPBQmKA": "【漏洞预警】天地伟业Easy7 uploadMapServerBgImage 文件上传漏洞",
+    "https://mp.weixin.qq.com/s/381ABDm6YjMWK2XxW7ZWZQ": "天锐绿盾审批系统 findTenantPage.do SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/t_VNm95DuDB-zSm60dbI1g": "【漏洞预警】麒麟操作系统V11 KysecScene D-Bus 服务本地提权漏洞",
+    "https://mp.weixin.qq.com/s/f1mJyblER5ZpYk29EBSV-g": "FreeScout 严重漏洞可导致服务器遭完全接管",
+    "https://mp.weixin.qq.com/s/l5wftMKtuc6Wq4-HashBSA": "Agent时代的Web项目0day代码审计思考与实践",
+    "https://mp.weixin.qq.com/s/R7k1nu5r2f2UsjN81DBDtw": "AI 挖漏洞已经“原地起飞”？别被幻觉骗了：拆解 POC-GYM 的深度降温报告",
+    "https://mp.weixin.qq.com/s/ZYMagiAcbEAXIAPRYfYMHw": "MS-Agent漏洞致攻击者可劫持AI Agent获取系统完全控制权",
+    "https://mp.weixin.qq.com/s/sTPSTNgl_LDA2poxzHEF_w": "【已复现】Cisco Catalyst SD-WAN 身份验证绕过漏洞(CVE-2026-20127)",
+    "https://mp.weixin.qq.com/s/JmbKRZN3bvsESXjXmM7AgQ": "iOS攻击工具包Coruna利用23个漏洞入侵数千台iPhone设备",
+    "https://mp.weixin.qq.com/s/4T1iNxSM2tPEs5ade210Jw": "人工智能重要安全漏洞的通报 - Langflow安全漏洞",
+    "https://mp.weixin.qq.com/s/LkhnogIbInb50dG7WWDGqg": "【安全圈】思科修复最高危 Secure FMC 漏洞"
 }
