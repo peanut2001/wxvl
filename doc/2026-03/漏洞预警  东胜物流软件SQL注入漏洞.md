@@ -1,6 +1,6 @@
 #  漏洞预警 | 东胜物流软件SQL注入漏洞  
 浅安
-                    浅安  浅安安全   2026-03-03 00:00  
+                    浅安  浅安安全   2026-03-05 00:00  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -24,7 +24,7 @@ SQL注入
 获取敏感信息  
   
 **简述：**  
-东胜物流软件的/PriceCarrier/OpSailingDateListHtmlGridSource.aspx和/PriceCarrier/OpSailingDateInfoGridSource.aspx接口存在SQL注入漏洞，  
+东胜物流软件的/PriceCarrier/CrmProxyMailListGridSource.aspx和/Modules/ModuleGridSource.aspx接口存在SQL注入漏洞，  
 未经身份验证的  
 攻击者可以通过该漏洞获取数据库敏感信息。  
   
