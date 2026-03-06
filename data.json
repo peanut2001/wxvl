@@ -18616,5 +18616,12 @@
     "https://mp.weixin.qq.com/s/mh0yU485ImKrPFhc1gXuGQ": "【已复现】 你的文件可能被他人替换，Gogs 跨仓库 LFS 对象覆盖漏洞（CVE-2026-25921）",
     "https://mp.weixin.qq.com/s/-SBdt9KkSwNKxi3QbELESA": "某运维安全管理系统存在token泄露漏洞",
     "https://mp.weixin.qq.com/s/GQ1bp5KTuYzagkq-NRoh6Q": "【安全圈】Wi-Fi 爆出史上最大安全漏洞！所有路由器无一幸免：HTTPS 加密也没用",
-    "https://mp.weixin.qq.com/s/XnPbAGlNpuqIOL5Ngkg4Aw": "\"没有 EXP 就无法利用\"？那就公开。有种别修。"
+    "https://mp.weixin.qq.com/s/XnPbAGlNpuqIOL5Ngkg4Aw": "\"没有 EXP 就无法利用\"？那就公开。有种别修。",
+    "https://mp.weixin.qq.com/s/qyPxlI_uJ09AxYYz67pKzg": "Twenty CRM 远程代码执行 | CVE-2026-26720 复现&研究",
+    "https://mp.weixin.qq.com/s/Pl8HI07Re_o398osEnziUg": "东胜物流软件GetData接口存在SQL注⼊漏洞 附POC",
+    "https://mp.weixin.qq.com/s/gDVWpl1DS9aBbzJarP3aFg": "深度分析：CVE-2026-21509 Microsoft Office OLE 安全功能绕过高危漏洞",
+    "https://mp.weixin.qq.com/s/VSvP_O4x-eapULzcJISzqQ": "WordPress会员插件漏洞允许攻击者创建管理员帐户",
+    "https://mp.weixin.qq.com/s/NvjcXdqkAMwiWBX_JS0NMg": "SRC 漏洞挖掘实战指南 (2026版)",
+    "https://mp.weixin.qq.com/s/txVjLO1aaM9jJQ5PXXVxPg": "思科修复了48个防火墙漏洞，其中两个漏洞的CVSS评级为10级",
+    "https://mp.weixin.qq.com/s/N7TEytjucnMBH9CWp90_bQ": "企业系统成0Day攻击新靶点，商业监控公司首超国家黑客"
 }
