@@ -18568,5 +18568,16 @@
     "https://mp.weixin.qq.com/s/01A87uDZk2Yu1nM89GJOPA": "AI智能体如何自动化CVE漏洞研究",
     "https://mp.weixin.qq.com/s/4DSk7IYtsVYeYKAYgzsSQg": "【服务端漏洞-访问控制缺失-第三章第一节】身份验证漏洞攻击指南（基础篇）：认证、授权与暴力破解逻辑",
     "https://mp.weixin.qq.com/s/Y3XO2y3L6rTVbjmz1E6qYg": "高危预警 | CVE-2026-26713：开源点餐系统存在未授权 SQL 注入漏洞，CVSS 评分 9.8",
-    "https://mp.weixin.qq.com/s/AZU0GCqCArUGEvLcsH19tg": "【项目实战】如何用一个漏洞赚两笔钱"
+    "https://mp.weixin.qq.com/s/AZU0GCqCArUGEvLcsH19tg": "【项目实战】如何用一个漏洞赚两笔钱",
+    "https://mp.weixin.qq.com/s/OBl5SyMLksVtxwhD8Ougug": "AC集中管理平台敏感信息泄露漏洞 附POC",
+    "https://mp.weixin.qq.com/s/cwagi7X9W5TXkZyM1f_YWg": "漏洞复现 | Salia PLCC firmware.php 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/aO1nKrg43rioipqXQfcTAA": "网安工具30天通（第9期）｜Nessus：企业级漏洞扫描神器，资产巡检必备",
+    "https://mp.weixin.qq.com/s/8jMN-5L1p0tVqxK4Xe1xKA": "这种鸟漏洞不难挖啊",
+    "https://mp.weixin.qq.com/s/6MW1rgI5IflYMbPN-fAGlA": "CNNVD关于Cisco Catalyst SD-WAN Manager和Cisco Catalyst SD-WAN Controller 授权问题漏洞的通报",
+    "https://mp.weixin.qq.com/s/uR5rdkaE6L40rZEKHwSNIA": "用友NC doSingUp sql注入漏洞",
+    "https://mp.weixin.qq.com/s/OgLBXsfj7hXKo1p5Q3ahUg": "漏洞分析：Juniper Junos Evolved CVE-2026-21902 未授权远程代码执行漏洞剖析",
+    "https://mp.weixin.qq.com/s/oxvSmUx_sX3uHSbw2skv3w": "【漏洞预警】青龙面板 网站管理系统 dependencies 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/3vdborbClBeBYo4SEFbKjg": "用 Claude 把 GitHub 漏洞数据库变成代码审计 Skill",
+    "https://mp.weixin.qq.com/s/aybvsSzizp4U_Bnpe20aHQ": "思科SD-WAN零日漏洞已被利用，PoC漏洞利用程序已发布",
+    "https://mp.weixin.qq.com/s/CjDxq6wpSrDN6Rs4eAbelQ": "人工智能重要漏洞通报（2026年第二期）"
 }
