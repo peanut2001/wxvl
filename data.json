@@ -18579,5 +18579,20 @@
     "https://mp.weixin.qq.com/s/oxvSmUx_sX3uHSbw2skv3w": "【漏洞预警】青龙面板 网站管理系统 dependencies 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/3vdborbClBeBYo4SEFbKjg": "用 Claude 把 GitHub 漏洞数据库变成代码审计 Skill",
     "https://mp.weixin.qq.com/s/aybvsSzizp4U_Bnpe20aHQ": "思科SD-WAN零日漏洞已被利用，PoC漏洞利用程序已发布",
-    "https://mp.weixin.qq.com/s/CjDxq6wpSrDN6Rs4eAbelQ": "人工智能重要漏洞通报（2026年第二期）"
+    "https://mp.weixin.qq.com/s/CjDxq6wpSrDN6Rs4eAbelQ": "人工智能重要漏洞通报（2026年第二期）",
+    "https://mp.weixin.qq.com/s/rlDOBl-KWVRRqh0UKHFP6Q": "国家信息安全漏洞库发布人工智能重要安全漏洞通报；维基百科遭自传播JavaScript蠕虫攻击，XSS漏洞如何被武器化 | 牛览",
+    "https://mp.weixin.qq.com/s/BsmqMUNKrby0Pehd0dDvHA": "JAVA漏洞集合工具",
+    "https://mp.weixin.qq.com/s/O-NH0JVgiFwRgkiZ-X09uw": "安全热点周报：Android 发布了针对高通零日漏洞攻击的补丁",
+    "https://mp.weixin.qq.com/s/HxkTwFiK3Sr73Ee6jfVQhA": "山石安全能力中心｜青龙面板未授权RCE漏洞通告",
+    "https://mp.weixin.qq.com/s/ZKPlLs3MUiX1zVjermF38g": "仓促集成 AI 的安全隐患集中爆发：ServiceNow 曝出高危 AI 漏洞！BodySnatcher 可创建管理员后门",
+    "https://mp.weixin.qq.com/s/3MVFlqU63lCsvOQ_3j-QBQ": "大多数网络攻击的成功只因1%的漏洞导致",
+    "https://mp.weixin.qq.com/s/ClWJWC45M8S9DK1pGFvHxw": "记一次SSRF+文件上传组合拳：复盘我是如何组合漏洞一步步Getshell的",
+    "https://mp.weixin.qq.com/s/_2Mzr5mgAiv92KGg56y0tw": "【0day】某知名品牌运维安全管理系统 getLdap 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s/aya9HdpgMQtjdND_4cDkIQ": "ByteSRC入侵类漏洞限时享高系数奖励，高危额外再奖2w元！新人&伯乐礼同步上线！",
+    "https://mp.weixin.qq.com/s/tCEzegKFvdN3svBXqWRkFg": "Cloudflare 开源代理框架 Pingora 曝严重请求走私漏洞（CVE-2026-2835）",
+    "https://mp.weixin.qq.com/s/OnDLx6SFIaXxOH9U7RtfDw": "【漏洞预警】青龙面板 网站管理系统 dependencies 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/LFFzjDuPFy6tiO92O-PzKw": "泛微云桥 e-Bridge系统 sendWxMsg接口 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/5B_qeZqLKV2Ji3dYzUZb9w": "人人拥有的 AI 审计战队，让漏洞挖掘触手可及",
+    "https://mp.weixin.qq.com/s/p5tpA265DQzP9LzQp3g0PQ": "信息安全漏洞预警（2026年3月1日-3月6日）",
+    "https://mp.weixin.qq.com/s/SKu01RemygxCmC9PjMoEjA": "【漏洞复现】某面板最新版存在任意重置密码漏洞"
 }
