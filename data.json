@@ -18625,5 +18625,21 @@
     "https://mp.weixin.qq.com/s/txVjLO1aaM9jJQ5PXXVxPg": "思科修复了48个防火墙漏洞，其中两个漏洞的CVSS评级为10级",
     "https://mp.weixin.qq.com/s/N7TEytjucnMBH9CWp90_bQ": "企业系统成0Day攻击新靶点，商业监控公司首超国家黑客",
     "https://mp.weixin.qq.com/s/BF3zlf2dJA4vvK9UDKmFYA": "人人都能拥有的AI黑客战队！零成本挖洞，漏洞审计从此零门槛",
-    "https://mp.weixin.qq.com/s/kIacoCRgErbBe04lHe-x8Q": "“价值”500万的逻辑死锁漏洞"
+    "https://mp.weixin.qq.com/s/kIacoCRgErbBe04lHe-x8Q": "“价值”500万的逻辑死锁漏洞",
+    "https://mp.weixin.qq.com/s/njVDgOiQ-BtqV3ClOgx8lA": "Pull_request噩梦第二弹：如何通过GitHub Actions漏洞实现RCE和供应链攻击",
+    "https://mp.weixin.qq.com/s/CiL6aExyGam5MrYCHOs5gA": "两次 HTTP 请求拿下网站管理员权限——CVE-2026-1492 漏洞分析",
+    "https://mp.weixin.qq.com/s/cnzkjn-TdqRBRihMHAbCxw": "拆解 Claude 如何利用 CVE-2026-2796 漏洞",
+    "https://mp.weixin.qq.com/s/5_ErYro-nnL7gmSgB620og": "CISA 紧急令：联邦机构限期修复 Coruna 漏洞利用链相关 iOS 漏洞",
+    "https://mp.weixin.qq.com/s/U6Cuo9O4zv2J2V_Kq8j3NQ": "AI开始自己修漏洞：Codex Security 如何重构软件安全体系",
+    "https://mp.weixin.qq.com/s/jik3V1LPFwnyC3hq1jO1Bg": "Coruna:一个强大iOS漏洞利用工具包的神秘之旅",
+    "https://mp.weixin.qq.com/s/KrZvN9_VA4s5ifA8BmJkMg": "大多数网络攻击的成功只因1%的漏洞导致",
+    "https://mp.weixin.qq.com/s/VzwjCfbHGESk7RwUMQ44cA": "记一次对母校的漏洞挖掘经历",
+    "https://mp.weixin.qq.com/s/rifObUuyQp-nhtsbcmH53A": "漏洞管理平台 | 支持Excel格式的漏洞扫描报告导入、智能关联资产、漏洞可视化管理",
+    "https://mp.weixin.qq.com/s/_1bvND_g96tsnnx-Lhgrdw": "漏洞复现 | Cisco Catalyst SD-WAN 身份验证绕过任意文件上传漏洞(CVE-2026-20127)",
+    "https://mp.weixin.qq.com/s/MztVEjwQWPbeHCJ54lZaxg": "Serein：SRC 发掘漏洞的高效工具",
+    "https://mp.weixin.qq.com/s/N84dkkzp8hT0bp1PiBRdVQ": "记录比较有意思的几个漏洞挖掘事件",
+    "https://mp.weixin.qq.com/s/PfWn7dhq8__NAQU5yLQmkw": "【已复现】青龙面板身份认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/Gzi1cMELQIc3S0r_61TN5Q": "台军空军关键设施被曝存在安全漏洞 紧急斥资2680万加固",
+    "https://mp.weixin.qq.com/s/mljxoln_sVJFVxCOP_VTNQ": "五角大楼和欧洲航天局部署的卫星接收器爆超20项安全漏洞",
+    "https://mp.weixin.qq.com/s/Vfu7lvGPgamG1uyZ2mnqGg": "并发漏洞核心场景Checklist"
 }
