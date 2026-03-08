@@ -18664,5 +18664,8 @@
     "https://mp.weixin.qq.com/s/pY4HEgKGFeqwYnlkXaCOmQ": "漏洞复现 | JeeWMS iconController.do 任意文件上传漏洞",
     "https://mp.weixin.qq.com/s/xNriR19COmvebQiGvi3uSA": "【0day】某知名厂商运维安全管理系统 csspost∕update 远程命令执行漏洞",
     "https://mp.weixin.qq.com/s/iRwMW27c9j_Ikwkq2FoteA": "AVideo平台中的关键零点击命令注入漏洞允许流媒体劫持",
-    "https://mp.weixin.qq.com/s/3EfRbvMoLYBbKPPsvFZF5g": "Android GPU Zero-Day 深度研究—CVE-2026-21385 内存破坏漏洞分析"
+    "https://mp.weixin.qq.com/s/3EfRbvMoLYBbKPPsvFZF5g": "Android GPU Zero-Day 深度研究—CVE-2026-21385 内存破坏漏洞分析",
+    "https://mp.weixin.qq.com/s/OD-G9NvUA7UJn3b2XquQ7g": "Coruna：一套强大 iOS 漏洞利用工具包的神秘流转之旅",
+    "https://mp.weixin.qq.com/s/Mq-UEgEfR60nK13QgsDuvA": "云上的ssrf漏洞挖掘技巧",
+    "https://mp.weixin.qq.com/s/KEwenwr5hx38TTUgg2Ixww": "思科修复两大CVSS 10分Secure FMC漏洞"
 }
