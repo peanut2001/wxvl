@@ -18688,5 +18688,21 @@
     "https://mp.weixin.qq.com/s/TkiePjXVMg1TF55Mv65_1A": "漏洞预警 | 大蚂蚁即时通讯系统SQL注入漏洞",
     "https://mp.weixin.qq.com/s/zjFqLxqN2RBtnDNAJkdLbQ": "第75天-【深度解析】PHP反序列化漏洞：从入门到POP链构造",
     "https://mp.weixin.qq.com/s/bp3lKo60JvAd_ChlhN2Ypg": "129 个漏洞齐发！Google 这份三月安全报告，藏着哪些不能说的秘密？",
-    "https://mp.weixin.qq.com/s/WuG5S6CRvMgLvgfkB-tFqg": "黑客涉嫌出售针对 Windows 远程桌面服务零日漏洞的攻击程序"
+    "https://mp.weixin.qq.com/s/WuG5S6CRvMgLvgfkB-tFqg": "黑客涉嫌出售针对 Windows 远程桌面服务零日漏洞的攻击程序",
+    "https://mp.weixin.qq.com/s/ktw8TmbEg5EoM__EKVpzxw": "Intel处理器安全漏洞频发：芯片巨头的信任危机",
+    "https://mp.weixin.qq.com/s/NOHmQ844yLJh1Pr3gxhyqg": "【服务端漏洞-访问控制缺失-第三章第三节】赏金猎人技巧：别在验证码页面死磕，试试直接跳过它",
+    "https://mp.weixin.qq.com/s/qnHbJBOGF3RpObvAARJBXQ": "腾讯开源项目现严重 RCE 漏洞：两行请求拿下服务器，CVE-2026-30861 详解",
+    "https://mp.weixin.qq.com/s/khk36ikIXfqPk1xoNva0ig": "[漏洞复现]某资产管理运营系统存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/7NHj2RZ5GjhTtKmxfto-lA": "漏洞复现 | NUUO摄像机 handle_site_config.php 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s/2bvYbGVkLTQe8fwgzQpdBg": "DudeSuite 漏洞播报 全网漏洞早知道【20260309】",
+    "https://mp.weixin.qq.com/s/DgB-JaD-TeIES6n3hiN2ew": "【已复现】Nginx UI 未授权备份下载与加密密钥泄露漏洞（CVE-2026-27944）",
+    "https://mp.weixin.qq.com/s/RIvyXIAQ8Csfnx7fy4Tklw": "多款AI开发工具面临ContextCrush漏洞攻击威胁",
+    "https://mp.weixin.qq.com/s/pilvg1Zr-03SnH1z_ji6cQ": "写文章随便打开一个案例就发现了漏洞，真好玩儿！",
+    "https://mp.weixin.qq.com/s/4Op1D0XMnNXMKhCrS6OzDg": "H3C-H100路由器敏感信息泄露漏洞 附POC",
+    "https://mp.weixin.qq.com/s/LiWUI78zDswDhtyTwLi4yQ": "利用大模型分析二进制漏洞-从漏洞补丁到获取SYSTEM权限（CVE-2026-20805）",
+    "https://mp.weixin.qq.com/s/LEXHnjNXizOjKDnnOuK3jA": "2026-03-09 最新CVE漏洞情报和技术资讯头条",
+    "https://mp.weixin.qq.com/s/BeWRm2XPpO62_VrtlDJe7g": "一款老牌漏洞扫描器！AWVS-GUI已上线、免费开源！！",
+    "https://mp.weixin.qq.com/s/iqPYKRKoXdYzcRiIWG5taw": "【AI安全】Unstructured.io 爆出严重漏洞：一个路径穿越导致全系统沦陷（CVE-2025–64712）",
+    "https://mp.weixin.qq.com/s/38bPVTHUXB69mMCRXasksA": "3月社区投稿活动 | 漏洞挖掘",
+    "https://mp.weixin.qq.com/s/2U16TqpTD7jvTGamfEJRWA": "用友NC importPml XXE漏洞"
 }
