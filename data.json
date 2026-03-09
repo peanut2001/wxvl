@@ -18704,5 +18704,17 @@
     "https://mp.weixin.qq.com/s/BeWRm2XPpO62_VrtlDJe7g": "一款老牌漏洞扫描器！AWVS-GUI已上线、免费开源！！",
     "https://mp.weixin.qq.com/s/iqPYKRKoXdYzcRiIWG5taw": "【AI安全】Unstructured.io 爆出严重漏洞：一个路径穿越导致全系统沦陷（CVE-2025–64712）",
     "https://mp.weixin.qq.com/s/38bPVTHUXB69mMCRXasksA": "3月社区投稿活动 | 漏洞挖掘",
-    "https://mp.weixin.qq.com/s/2U16TqpTD7jvTGamfEJRWA": "用友NC importPml XXE漏洞"
+    "https://mp.weixin.qq.com/s/2U16TqpTD7jvTGamfEJRWA": "用友NC importPml XXE漏洞",
+    "https://mp.weixin.qq.com/s/GhDgqWn9kc_NrZl42cbW_w": "AI驱动的渗透测试框架(多智能体协作与45+安全工具集成)具备自动漏洞扫描、多代理系统及合规报告",
+    "https://mp.weixin.qq.com/s/7pvyWY3zEUMtxp_U3VRYOA": "工具更新 | 漏洞管理器V2.0.6",
+    "https://mp.weixin.qq.com/s/bBWmGmVuBjaoJvh5JodmZA": "OpenAI发布应用安全智能体：可自主发现、验证并修复漏洞",
+    "https://mp.weixin.qq.com/s/5qQ-hLKP-I1dL2tYWXl1pg": "等保报告-漏洞导出工具（切合等保报告）",
+    "https://mp.weixin.qq.com/s/qzEGhq5cuBNnGO6vALJqCQ": "CVE-2026-30860：腾讯开源 AI 框架 WeKnora SQL 注入绕过导致远程代码执行",
+    "https://mp.weixin.qq.com/s/QqbmA1thll3IObX6TJNrtw": "从漏洞挖掘到风险治理: AI闭环下的代码安全范式变迁与从业者转型",
+    "https://mp.weixin.qq.com/s/xa63JNJy_oZfPFjbP4zYXg": "CNNVD发布最新《人工智能重要漏洞通报》；美英同步发声：AI创作能否享有版权的法律界限已明确 | 牛览",
+    "https://mp.weixin.qq.com/s/ySg97z_KDqPI2SnCBHnV4g": "CISA提醒用户注意影响macOS和iOS的已被积极利用的漏洞",
+    "https://mp.weixin.qq.com/s/e4hGmEYAuU7hQZZBD9B_Fw": "【漏洞检测脚本】Nginx UI 未授权备份下载与加密密钥泄露漏洞（CVE-2026-27944）",
+    "https://mp.weixin.qq.com/s/lPkgHa8QRaJWPoAVPnX24A": "Burp Suite平替 | 智能代理、强大插件、集成云端虚拟手机，快速定位APP漏洞",
+    "https://mp.weixin.qq.com/s/3VIBo87kEX-SCRa6vZB6Zw": "Nginx UI 认证绕过漏洞：备份下载与加密密钥泄露（CVE-2026-27944）",
+    "https://mp.weixin.qq.com/s/icgGp-tLITPKby0NNpO5Hw": "【已复现】Nginx UI 信息泄露漏洞(CVE-2026-27944)安全风险通告"
 }
