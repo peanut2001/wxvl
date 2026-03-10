@@ -18757,5 +18757,14 @@
     "https://mp.weixin.qq.com/s/0WAUfsKL-U5SJIhf3zIruA": "CL-UNK-1068组织利用网络服务器漏洞和Mimikatz攻击亚洲关键基础设施",
     "https://mp.weixin.qq.com/s/WwdZsX9AdR1Ue1RXQxGJfg": "第88天-Web攻防大揭秘：PHP反序列化漏洞的“隐藏核武器”——Phar深度解析与框架实战",
     "https://mp.weixin.qq.com/s/hbQ2JIK_enKoD_MvKm7zRw": "腾讯开源项目现严重 RCE 漏洞：两行请求拿下服务器，CVE-2026-30861 详解",
-    "https://mp.weixin.qq.com/s/D64YIyr5IpmqvltyK09JOg": "【服务端漏洞-访问控制缺失-第四章第一节】服务员为何会帮你偷后厨的秘密？详解“内鬼”漏洞SSRF"
+    "https://mp.weixin.qq.com/s/D64YIyr5IpmqvltyK09JOg": "【服务端漏洞-访问控制缺失-第四章第一节】服务员为何会帮你偷后厨的秘密？详解“内鬼”漏洞SSRF",
+    "https://mp.weixin.qq.com/s/5k0U1ESVdf6bDEj87DeRYA": "漏洞挖掘拥抱AI，Openclaw开启新时代",
+    "https://mp.weixin.qq.com/s/A9SWR1B2oqEwFxxIjjuheA": "雷神众测漏洞周报2026.3.2-2026.3.8",
+    "https://mp.weixin.qq.com/s/jwa1eFBAnFUamgJ_h7juuQ": "国家信息安全漏洞库CNNVD通报OpenClaw82个漏洞",
+    "https://mp.weixin.qq.com/s/u-XRSHzzY4WcR4z7WE7UXA": "[高危预警]Nginx UI 未授权备份下载与加密密钥泄露漏洞（CVE-2026-27944）",
+    "https://mp.weixin.qq.com/s/r_s14u2I4Nyr8Yv5KI25tw": "人工智能重要安全漏洞的通报-openclaw多个安全漏洞",
+    "https://mp.weixin.qq.com/s/pumi000j8cimqk2PCHM68A": "OpenClaw（俗称“龙虾”）近期安全漏洞与风险汇总",
+    "https://mp.weixin.qq.com/s/rqpWDkEKSQ5aZVB7Tc7Gyw": "工控系统高危预警：台达 COMMGR2 栈溢出漏洞（CVE-2026-3630）CVSS 9.8，无需认证可直接远程执行代码",
+    "https://mp.weixin.qq.com/s/MdWY4c50KOAVF2Y5THGeMA": "抖省省反爬专测上线！漏洞奖金1000元起步！",
+    "https://mp.weixin.qq.com/s/FTVlif4n8keZdz6Qb8NVcQ": "买“帮助台”，搭售“远程后门”？SolarWinds Web Help Desk 认证前RCE链深度分析"
 }
