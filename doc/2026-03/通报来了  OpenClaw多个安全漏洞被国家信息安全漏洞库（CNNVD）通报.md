@@ -1,7 +1,9 @@
-#  国家信息安全漏洞库（CNNVD）重要漏洞提示 | 人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞  
- 嘶吼专业版   2026-03-11 06:03  
+#  通报来了 | OpenClaw多个安全漏洞被国家信息安全漏洞库（CNNVD）通报  
+ 数世咨询   2026-03-11 02:28  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/wpkib3J60o297rwgIksvLibPOwR24tqI8dGRUah80YoBLjTBJgws2n0ibdvfvv3CCm0MIOHTAgKicmOB4UHUJ1hH5g/640?wx_fmt=gif "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/lYWDmickZ2myybn2Tbgsxk3SNMricePC4KsKRlh6eZ3MZMSJcPLibrx9FakMayl2zPlsxr3bC8xKvz8VTGtCVaoOicnBxYQ8oanBKgqYcWQPltY/640?wx_fmt=png&from=appmsg "")  
+  
+  
   
 **漏洞情况**  
   
@@ -32,8 +34,7 @@ CNNVD将继续跟踪上述漏洞的相关情况，及时发布相关信息。如
 （  
 来源：CNNVD）  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/wpkib3J60o287jwk8LWD9icmgWlahS21WBibH0Iz3x2kLShrmHpicmyoLLZjhkG6s61yDMgXpJ74WhrDYlWupFxzKg/640?wx_fmt=png "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/wpkib3J60o2icEjy5ZrpCcgr4BicXicPv08DSsrgibDcJQpvwkZoO4OqdIpJNhj6TO5xV0ic0AnVf7f2kcPnNevQlTtQ/640?wx_fmt=png "")  
+  
   
   
