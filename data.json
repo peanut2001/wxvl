@@ -18862,5 +18862,15 @@
     "https://mp.weixin.qq.com/s/EXAlKw-E_B3jPcUYiCam4Q": "严重告警：OneUptime 监控平台曝出 RCE 漏洞，低权限用户可接管整个集群",
     "https://mp.weixin.qq.com/s/QNMPbiLX0YCWmO10oOaIjQ": "CVE-2026-29793：一枚藏在 WebSocket 里的 NoSQL 注入",
     "https://mp.weixin.qq.com/s/fRiYVp2pBo1NqLyIEHLCPA": "DataEase CVE-2025-49002 RCE",
-    "https://mp.weixin.qq.com/s/zLrFyHMHPNPANNmreqHebQ": "“Mail2Shell”：FreeScout 零点击未认证 RCE（CVE‑2026‑28289）补丁绕过分析"
+    "https://mp.weixin.qq.com/s/zLrFyHMHPNPANNmreqHebQ": "“Mail2Shell”：FreeScout 零点击未认证 RCE（CVE‑2026‑28289）补丁绕过分析",
+    "https://mp.weixin.qq.com/s/cx8XwMdGqxV39e8YOJnJTA": "【安全更新】微软3月安全更新多个产品高危漏洞通告",
+    "https://mp.weixin.qq.com/s/dKcWYZCPUQIAHhB3rT1XeQ": "CNNVD关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s/KGl9Z2W7IFQ39lWLVSum3Q": "82个漏洞、1184个恶意插件：你养的“龙虾”可能早已叛变！",
+    "https://mp.weixin.qq.com/s/eIQINBCcBc5I4MCOxy8APQ": "【已复现】Budibase 低代码平台未授权访问漏洞（CVE-2026-31816）",
+    "https://mp.weixin.qq.com/s/MV8MHIMJnPSF_Tb7FPuo0Q": "【已复现】Qwik server$ 反序列化未授权远程代码执行漏洞（CVE-2026-27971）",
+    "https://mp.weixin.qq.com/s/jQeFnXLYCsS9WH2vPT1HbA": "从零开始绕过 DexProtector 加固的 Frida 检测",
+    "https://mp.weixin.qq.com/s/eIgWVHKJWRg0FgT8DiGTRQ": "PageJack实战：CVE-2022-0995漏洞利用详解",
+    "https://mp.weixin.qq.com/s/ZxAS_wecokkG56v9VDVWXg": "【已复现】Budibase 平台未授权访问漏洞（CVE-2026-31816）",
+    "https://mp.weixin.qq.com/s/qMbo9XXX3DjnFz5QlZOSOA": "【联合活动】春锋猎洞全面启动，DSRC邀您共赴漏洞狩猎场！",
+    "https://mp.weixin.qq.com/s/zocABKUtU5dLHlqwawP-rg": "汇业研究 | 在华外企部署及应用中国版Salesforce的主要法律问题（一）"
 }
