@@ -1,6 +1,5 @@
 #  258 个漏洞，你的 OpenClaw 真的安全吗？  
-原创 360漏洞研究院
-                    360漏洞研究院  360漏洞研究院   2026-03-11 13:14  
+ 安全客   2026-03-12 03:53  
   
 “扫描下方二维码，进入公众号粉丝交流群。更多一手网安资讯、漏洞预警、技术干货和技术交流等您参与！”  
   
@@ -181,13 +180,16 @@ https://coesecurity.com/openclaw-malware-campaign-compromises-1184-software-pack
   
   
   
-“洞”悉网络威胁，守护数字安全  
+**安全KER**  
   
   
-**关于我们**  
+安全KER致力于搭建国内安全人才学习、工具、淘金、资讯一体化开放平台，推动数字安全社区文化的普及推广与人才生态的链接融合。目前，安全KER已整合全国数千位白帽资源，联合南京、北京、广州、深圳、长沙、上海、郑州等十余座城市，与ISC、XCon、看雪SDC、Hacking Group等数个中大型品牌达成合作。  
   
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Ok4fxxCpBb55r2rFMWkRjmibsbQXdE5srqplubuqeOXIMflUfyZSgNBaXglDiasYF9PNtzHy4e1Pic2c8rW8I0ic1Q/640?wx_fmt=png&from=appmsg "")  
   
-360 漏洞研究院，隶属于360数字安全集团。其成员常年入选谷歌、微软、华为等厂商的安全精英排行榜, 并获得谷歌、微软、苹果史上最高漏洞奖励。研究院是中国首个荣膺Pwnie Awards“史诗级成就奖”，并获得多个Pwnie Awards提名的组织。累计发现并协助修复谷歌、苹果、微软、华为、高通等全球顶级厂商CVE漏洞3000多个，收获诸多官方公开致谢。研究院也屡次受邀在BlackHat，Usenix Security，Defcon等极具影响力的工业安全峰会和顶级学术会议上分享研究成果，并多次斩获信创挑战赛、天府杯等顶级黑客大赛总冠军和单项冠军。研究院将凭借其在漏洞挖掘和安全攻防方面的强大技术实力，帮助各大企业厂商不断完善系统安全，为数字安全保驾护航，筑造数字时代的安全堡垒。  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Ok4fxxCpBb55r2rFMWkRjmibsbQXdE5srjrTDwKKYkTK4dnBuqDa2qRdZSrgHnsErtVXpGvfwqaEch5rDHCWTpg/640?wx_fmt=png&from=appmsg "")  
   
+**注册安全KER社区**  
   
+**链接最新“圈子”动态**  
   
