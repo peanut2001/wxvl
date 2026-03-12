@@ -18837,5 +18837,15 @@
     "https://mp.weixin.qq.com/s/3-IJtDtO05GsNTI5heo7Mw": "OpenClaw安全公告激增，暴露GitHub与CVE漏洞跟踪体系间的鸿沟",
     "https://mp.weixin.qq.com/s/Zynnwe4VMePpc3mbVPLuyw": "「神医」专家级智能安全助手，一键检修代码漏洞",
     "https://mp.weixin.qq.com/s/1FCG6fl6Cu4oav3mb6x2MA": "高危漏洞&系统命令执行复现",
-    "https://mp.weixin.qq.com/s/Lo5gUgXZQaDxEI6wcvVr9Q": "告别手动排查！这套安卓APK检测流程，从二维码识别到漏洞挖掘(AI+内置规则)一步到位！"
+    "https://mp.weixin.qq.com/s/Lo5gUgXZQaDxEI6wcvVr9Q": "告别手动排查！这套安卓APK检测流程，从二维码识别到漏洞挖掘(AI+内置规则)一步到位！",
+    "https://mp.weixin.qq.com/s/_lOm6TtFcgraha75s0Ru2Q": "CVE-2026-26117剖析：Azure Arc本地提权&云身份劫持",
+    "https://mp.weixin.qq.com/s/by4ePq9_Qky6rWBT1cB0rA": "两高一弱漏洞详情∕POC悬赏征集活动",
+    "https://mp.weixin.qq.com/s/a85eAJ23wM4Ro--69b1kRg": "一个 CSRF，让攻击者无需登录就能拿下服务器——CVE-2026-28495 分析",
+    "https://mp.weixin.qq.com/s/eFlc0BuiKsWKow9waIpbZA": "漏洞预警 | OpenEMR未授权访问漏洞",
+    "https://mp.weixin.qq.com/s/sNfHXEOe_MoMFulYqZ1A6w": "9.4分严重漏洞：电动汽车充电桩后台无需任何凭据即可被完全接管",
+    "https://mp.weixin.qq.com/s/PHzRYO3u_yAgYm8WRneZmA": "DeepAudit：革新代码漏洞挖掘的多智能体AI系统",
+    "https://mp.weixin.qq.com/s/cZmMeDXrC8lRJtkcNZkmSQ": "从漏洞挖掘到风险治理: AI闭环下的代码安全范式变迁与从业者转型",
+    "https://mp.weixin.qq.com/s/hMb933IQlhM0-9UqlZLA9Q": "漏洞情报(已验证) | 0Day 九佳易管理系统 UploadHanderForShangPin 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/WainDoUDeLxLIuqJwFN4nw": "漏洞预警 | 深信服运维安全管理系统密钥硬编码漏洞",
+    "https://mp.weixin.qq.com/s/EwA1CuteoZA3uBNWfe5vZA": "OpenClaw（龙虾）曝82个漏洞大汇总！"
 }
