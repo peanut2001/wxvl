@@ -18906,5 +18906,22 @@
     "https://mp.weixin.qq.com/s/y-Z3Odoa7PjE4mA_3NSWhA": "满分漏洞实录：一个缺失的配置项，如何让 Linux 服务器向所有人敞开大门",
     "https://mp.weixin.qq.com/s/uDyMORaaxvWTD3kwFYdrJQ": "漏洞复现 | 用友NC OAContactsFuzzySearchServlet 反序列化代码执行RCE漏洞",
     "https://mp.weixin.qq.com/s/Y-HlMJbGIwMvLGGVcPxewA": "DarkAngel：全自动漏洞扫描工具",
-    "https://mp.weixin.qq.com/s/ac0GhDOJaso-lEvGQa36aA": "0元购漏洞"
+    "https://mp.weixin.qq.com/s/ac0GhDOJaso-lEvGQa36aA": "0元购漏洞",
+    "https://mp.weixin.qq.com/s/6fyrEs5XI5rSd3AC1q69tA": "快普M6 GetCallInfo SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/c_Xq2Fm_7titReQ_g2s7FQ": "Bastille 2026年度报告披露：无线漏洞激增威胁企业机密与国家安全",
+    "https://mp.weixin.qq.com/s/ZBWyBTSKHvgieQhzbJvAMg": "【已复现】漏洞通告 | Budibase 平台未授权访问漏洞(CVE-2026-31816)",
+    "https://mp.weixin.qq.com/s/HQTxsKqmg2RyTN4t2UFb6Q": "【已复现】FortiClientEMS 无需认证 SQL 注入漏洞可致远程命令执行 (CVE-2026-21643)",
+    "https://mp.weixin.qq.com/s/aw-GA1OE9jF39kJfaymoWw": "大海捞针：用 LLM 进行漏洞研究",
+    "https://mp.weixin.qq.com/s/OF8otz5akkZYNPDgeIgVUg": "3月社区投稿活动 | 漏洞挖掘",
+    "https://mp.weixin.qq.com/s/XlofPeJeD4WM3Q5BQXSZWg": "Apple为旧版iPhone∕iPad发布紧急安全更新，修复被Coruna漏洞包利用的WebKit漏洞",
+    "https://mp.weixin.qq.com/s/o7dQtYVy25Jg9kGzqHO8ew": "CVE-2026-0866 Cisco ClamAV ZIP扫描引擎绕过漏洞",
+    "https://mp.weixin.qq.com/s/6yFRWk5TXZ0JbOAIwbccWw": "孚盟云 AjaxMethod.ashx存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s/aqpzJBwi-Rk5dJK0gboyEA": "GHSA-qrq5-wjgg-rvqw: OpenClaw 龙虾插件安装路径遍历漏洞分析报告",
+    "https://mp.weixin.qq.com/s/UmjxWv3m-0OkCitrAZL0Rw": "没有 Token，没有 Session，也没关系：一个默认 GraphQL 端点如何让我拿到未授权 RCE",
+    "https://mp.weixin.qq.com/s/xWBVPed0h9a1_fWRWilahA": "【服务继续升级】EnhancerSec第六期漏洞挖掘培训招生啦！（文中抽奖）",
+    "https://mp.weixin.qq.com/s/-MKjTVHQjcoJuDFUsVm-5g": "第83天-支付漏洞大揭秘：从“0元购”到“无限续杯”，黑客如何薅垮一个系统？",
+    "https://mp.weixin.qq.com/s/M-dVdYRKGEe0TXqRTbeeiQ": "OpenClaw 漏洞：远程接管你的本地AI助手，只需浏览一个网页",
+    "https://mp.weixin.qq.com/s/MdsIGFnd7uAQ3_TXKJkaBQ": "OpenSSH GSSAPI漏洞允许攻击者使SSH子进程崩溃",
+    "https://mp.weixin.qq.com/s/uJ8ieJSyJHQTjjGD_g7OOw": "荣耀蝉联！国舜科技入选工信部车联网产品安全漏洞专业库2026技术支撑单位",
+    "https://mp.weixin.qq.com/s/q1Kmy1OtZFXZ6UUjYCSUmA": "汇业研究 | 在华外企部署及应用中国版Salesforce的主要法律问题（二）"
 }
