@@ -19012,5 +19012,9 @@
     "https://mp.weixin.qq.com/s/R3G_f75biUYOC9slLqqz9Q": "OpenClaw（龙虾）近期高危漏洞&风险大盘点！",
     "https://mp.weixin.qq.com/s/X5Cn2GUQnNbDH7kNQ4ZbpA": "【S-SRC培训开课】开局就送0day～",
     "https://mp.weixin.qq.com/s/a7ZuFMiKJV-HrN1flL_cQw": "潜伏二十年：CVE-2025-38617 Linux内核竞态漏洞的极致利用",
-    "https://mp.weixin.qq.com/s/6wR0lo_wJ3ZcABqaIxp6Pg": "伊朗Hacker攻击美国：利用文印管控软件PaperCut漏洞"
+    "https://mp.weixin.qq.com/s/6wR0lo_wJ3ZcABqaIxp6Pg": "伊朗Hacker攻击美国：利用文印管控软件PaperCut漏洞",
+    "https://mp.weixin.qq.com/s/1Ig16PXYt_g21_S_QI9P3Q": "代码审计 | 九佳易ERP漏洞分析",
+    "https://mp.weixin.qq.com/s/3aUFaPqTswWqCxMq57ritQ": "OpenClaw AI Agent漏洞可导致提示词注入攻击与数据窃取",
+    "https://mp.weixin.qq.com/s/hSUIOxEbbIcDMM-QHuJkeA": "Linux AppArmor模块曝九大漏洞，可致提权及绕过容器隔离",
+    "https://mp.weixin.qq.com/s/FwT9gwksuumFjtZJxni0iQ": "记一次SSRF+文件上传组合拳：复盘我是如何组合漏洞一步步Getshell的"
 }
