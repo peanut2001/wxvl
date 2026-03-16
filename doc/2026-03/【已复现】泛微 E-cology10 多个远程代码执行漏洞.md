@@ -1,8 +1,8 @@
 #  【已复现】泛微 E-cology10 多个远程代码执行漏洞  
-长亭应急响应
-                    长亭应急响应  枇杷熟了   2026-03-16 12:44  
+ 长亭安全应急响应中心   2026-03-16 09:00  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/EqS9GE77r0NxnUogD8QymSJXrgTTDzXtwghSTib26lB7REq5BVk18MkN4J7sFB3TIlmTdSsSibBHbdicKTnTNomicsVmMNQzUxowa54uibHh6CwY/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/EqS9GE77r0NxnUogD8QymSJXrgTTDzXtwghSTib26lB7REq5BVk18MkN4J7sFB3TIlmTdSsSibBHbdicKTnTNomicsVmMNQzUxowa54uibHh6CwY/640?wx_fmt=png&from=appmsg "")  
+  
   
 泛微Ecology10是一款面向中大型组织的数字化运营平台，基于微服务架构与低代码引擎，支撑企业实现业务协同、数据整合与全程在线管理。  
 2026年3月，长亭安全应急响应中心监测到泛微 E-cology 10 修复了多个远程代码执行漏洞。经分析，攻击者可在无需任何权限的情况下，利用上述漏洞远程执行任意代码，最终导致服务器沦陷。建议受影响的用户尽快修复漏洞。  
@@ -120,6 +120,4 @@ Timeline
 第一时间找到我们：  
   
 邮箱：support@chaitin.com  
-  
-  
   

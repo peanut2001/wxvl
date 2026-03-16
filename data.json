@@ -19052,5 +19052,18 @@
     "https://mp.weixin.qq.com/s/1CQiy74TQhtIGTH6ssAhiA": "上周关注度较高的产品安全漏洞(20260309-20260315)",
     "https://mp.weixin.qq.com/s/36x_CgbTO9qJvEG7ZGBKbw": "WatchVuln_Web高价值漏洞采集与推送",
     "https://mp.weixin.qq.com/s/E1zb8_RV3oF5aEU0_Yrw4A": "【已复现】OpenClaw WebSocket共享令牌权限提升漏洞(QVD-2026-13829)安全风险通告",
-    "https://mp.weixin.qq.com/s/--iIVURpHM60oJRgs8srYg": "【已复现】泛微 E-cology10 多个远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s/--iIVURpHM60oJRgs8srYg": "【已复现】泛微 E-cology10 多个远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/yYk0iISgFMyT4NiZlml5Fw": "【Web安全】PHP反序列化漏洞",
+    "https://mp.weixin.qq.com/s/PRLdI60J7e52al730pJbig": "OpenClaw 新型绕过漏洞，上榜企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s/qwvE_nsegyb7EJkP7eXyxQ": "软件系统安全赛-Thymeleaf 3.0.15 视图名注入 + PRNG 逆向：完整 RCE 到 Root 提权",
+    "https://mp.weixin.qq.com/s/jNYvo5VzlB_stC6ee09UuQ": "OpenClaw 新型绕过漏洞，上榜企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s/Djio84K_H0NHbMT8Xuu2mQ": "【漏洞通告】Google Chromium V8 内存越界代码执行漏洞(CVE-2026-3910)",
+    "https://mp.weixin.qq.com/s/ytnp0zEheE7daYx6UPIqug": "【已复现】泛微 E-cology10 多个远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/axqS8Tq_4-vC8Q21eVT11A": "某火cai票娱乐城系统存在前台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/fBZWaB8u3LGqnYnD8757VQ": "谷歌2025年发放了近1.2亿元漏洞赏金，单个漏洞最高奖励170万元",
+    "https://mp.weixin.qq.com/s/xsLdkar6psjT-rt536JMyw": "OpenClaw node.invoke Rce(CVE-2026-28466)",
+    "https://mp.weixin.qq.com/s/M2Yv6hI9yvQiWMh7AFUHIw": "为什么你挖不到漏洞？从“无效努力”到“高效出洞”的思维跃迁",
+    "https://mp.weixin.qq.com/s/N_Zw4ij-92O2MeHFRlIoAw": "OpenClaw 满分漏洞：WebSocket 共享认证越权可接管平台",
+    "https://mp.weixin.qq.com/s/LvfU-s775n5ZgDbZ_0IuPw": "CNVD漏洞周报2026年第10期",
+    "https://mp.weixin.qq.com/s/j0ZOcjFFK_6sThi4VdX6gA": "JNDI注入攻防全解析：从低版本RCE到高版本绕过分析"
 }
