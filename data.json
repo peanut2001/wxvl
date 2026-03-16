@@ -19019,5 +19019,17 @@
     "https://mp.weixin.qq.com/s/FwT9gwksuumFjtZJxni0iQ": "记一次SSRF+文件上传组合拳：复盘我是如何组合漏洞一步步Getshell的",
     "https://mp.weixin.qq.com/s/tOY4NUdoJmafSaBvJy1iSg": "多个小程序漏洞挖掘与利用思路分享|带你从 0 到 1 挖小程序漏洞",
     "https://mp.weixin.qq.com/s/3VjysQ6W--H1alv2tcRACQ": "Zyxel警告称，十几款路由器存在严重远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/JMQ96xrHaEmx7TPCrz5e5w": "深科特LEANMES系统WarehouseCheck.ashx接口存在SQL注入 附POC"
+    "https://mp.weixin.qq.com/s/JMQ96xrHaEmx7TPCrz5e5w": "深科特LEANMES系统WarehouseCheck.ashx接口存在SQL注入 附POC",
+    "https://mp.weixin.qq.com/s/YOo4H46BlBPYH9pyBm9Kcg": "微软发布 Windows 11 开箱即用热补丁修复 RRAS 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/q4P9saf4szvJvRgtb3e7sg": "我是如何利用 AI 实现 Xray POC 自动转换的",
+    "https://mp.weixin.qq.com/s/bCXVIy5Tal-17VnPMdX1Ig": "漏洞预警 | 1Panel跨站脚本漏洞",
+    "https://mp.weixin.qq.com/s/NgRFkweMeJQceQiiCZDOig": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/LgmCW93MQZKzBqQyNMFGxw": "LoveJS插件——Web漏洞挖掘的高效信息搜集利器",
+    "https://mp.weixin.qq.com/s/LI0nV1uKKV2h7rl17FoXVg": "漏洞复现 | 飞企互联OA ChangeBGServlet 存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/LFbpV6n3YVW2vG5S1oII3A": "【服务端漏洞-访问控制缺失-第五章第四节】挖洞实录：一个Content-Type验证缺陷，让我拿到了服务器的敏感信息",
+    "https://mp.weixin.qq.com/s/duL-47kgsjKv6JyZaiF53g": "Tenable 揭露“LeakyLooker”漏洞，将 Google Looker Studio 变成云端后门",
+    "https://mp.weixin.qq.com/s/n5Ju61toL8N3ClCTI32Bww": "API Fuzz结合AI实战获取数据库密码漏洞-实战证书站案例",
+    "https://mp.weixin.qq.com/s/lmbPX8bnKrVHf2vnduMWFA": "OpenClaw AI Agent漏洞可导致提示词注入攻击与数据窃取",
+    "https://mp.weixin.qq.com/s/XecSE810kfb1YKFV423z0w": "2026-03-16 最新CVE漏洞情报和技术资讯头条",
+    "https://mp.weixin.qq.com/s/AbSNFCnWG-rcMGDs5_hWkg": "为什么你挖不到漏洞？从“无效努力”到“高效出洞”的思维跃迁"
 }
