@@ -19044,5 +19044,13 @@
     "https://mp.weixin.qq.com/s/jnYusEAwGGQpIyOW1lFqwA": "edusrc某学院联奕系统漏洞通过常规测试手段拿下9rank",
     "https://mp.weixin.qq.com/s/jv6H39mFH9gglbcCxipd2Q": "将超出漏洞范围的 HTML 注入升级为高危 9.3 分 XSS 漏洞（绕过 WAF）",
     "https://mp.weixin.qq.com/s/KxpSqvBI7RsoK_p9siymXw": "快普M6 GetPositionOfStaff sql注入漏洞",
-    "https://mp.weixin.qq.com/s/e1vcBZglNIj8NWqC907ZjA": "Claude Code、Gemini实测暴露漏洞，仍在重复十年前安全错误；中国互联网金融协会：关于OpenClaw在互联网金融行业应用安全的风险提示|牛览"
+    "https://mp.weixin.qq.com/s/e1vcBZglNIj8NWqC907ZjA": "Claude Code、Gemini实测暴露漏洞，仍在重复十年前安全错误；中国互联网金融协会：关于OpenClaw在互联网金融行业应用安全的风险提示|牛览",
+    "https://mp.weixin.qq.com/s/h59qNs4zbGVaHUgVcK5obA": "[ 深度洞察 ] 自动驾驶时代的黑客：Shannon 如何将“漏洞扫描”升维为“全自动渗透”？",
+    "https://mp.weixin.qq.com/s/kmUUyCTw4kIBgUp4WapOtg": "本月目前的瓜：AI龙虾爆雷、零日漏洞频发、黑产遭重创",
+    "https://mp.weixin.qq.com/s/foNbn5x8HOH2vb4_ERoR3A": "白帽黑客发现Injective中危及5亿美元资产的漏洞，仅获5万美元奖励且尚未支付",
+    "https://mp.weixin.qq.com/s/F-PLgFH917jG3JAbjcMgyA": "【复现】泛微 E-cology10 远程代码执行漏洞风险通告",
+    "https://mp.weixin.qq.com/s/1CQiy74TQhtIGTH6ssAhiA": "上周关注度较高的产品安全漏洞(20260309-20260315)",
+    "https://mp.weixin.qq.com/s/36x_CgbTO9qJvEG7ZGBKbw": "WatchVuln_Web高价值漏洞采集与推送",
+    "https://mp.weixin.qq.com/s/E1zb8_RV3oF5aEU0_Yrw4A": "【已复现】OpenClaw WebSocket共享令牌权限提升漏洞(QVD-2026-13829)安全风险通告",
+    "https://mp.weixin.qq.com/s/--iIVURpHM60oJRgs8srYg": "【已复现】泛微 E-cology10 多个远程代码执行漏洞"
 }
