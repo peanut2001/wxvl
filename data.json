@@ -19065,5 +19065,7 @@
     "https://mp.weixin.qq.com/s/M2Yv6hI9yvQiWMh7AFUHIw": "为什么你挖不到漏洞？从“无效努力”到“高效出洞”的思维跃迁",
     "https://mp.weixin.qq.com/s/N_Zw4ij-92O2MeHFRlIoAw": "OpenClaw 满分漏洞：WebSocket 共享认证越权可接管平台",
     "https://mp.weixin.qq.com/s/LvfU-s775n5ZgDbZ_0IuPw": "CNVD漏洞周报2026年第10期",
-    "https://mp.weixin.qq.com/s/j0ZOcjFFK_6sThi4VdX6gA": "JNDI注入攻防全解析：从低版本RCE到高版本绕过分析"
+    "https://mp.weixin.qq.com/s/j0ZOcjFFK_6sThi4VdX6gA": "JNDI注入攻防全解析：从低版本RCE到高版本绕过分析",
+    "https://mp.weixin.qq.com/s/WMPLPQiqK4kogMhUq_U75A": "CVSS 10.0 严重缺陷 SandboxJS 漏洞授予完全远程代码执行权限",
+    "https://mp.weixin.qq.com/s/N7qGcpZmz_Wj34BrI3B7fg": "一款专业的Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析"
 }
