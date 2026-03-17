@@ -19083,5 +19083,8 @@
     "https://mp.weixin.qq.com/s/DDb5XYatRTEik_7D-lTIoA": "API安全漏洞挖掘指南：40种真实世界漏洞模型",
     "https://mp.weixin.qq.com/s/aeqFZmUUHrL0u3lT3zC9vg": "DriverExplorer：一个面向 Windows 驱动分析与管理的实用工具",
     "https://mp.weixin.qq.com/s/VTwfSeLy2X8BsWlGSwAnpQ": "CISA：Wing FTP 已遭利用漏洞可泄露服务器路径",
-    "https://mp.weixin.qq.com/s/RIKbJTrM0hC0UTRtxuiyig": "安全通告丨网络安全漏洞通告（2026年3月）"
+    "https://mp.weixin.qq.com/s/RIKbJTrM0hC0UTRtxuiyig": "安全通告丨网络安全漏洞通告（2026年3月）",
+    "https://mp.weixin.qq.com/s/HUbkCUNstiF1yUHIe68hrw": "【高危漏洞预警】Libucl UCL输入处理漏洞 (CVE-2026-0708)",
+    "https://mp.weixin.qq.com/s/2XeK9bJ9cGCNTJ2N_x_I0g": "CVE-2026-1312: Django order_by结合FilteredRelation使用导致的SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/lVWQQUIj7U4AB4c7ZXfAIg": "安全预警｜校园小程序高危 SQL 注入漏洞曝光，师生信息安全需警惕！"
 }
