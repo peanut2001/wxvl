@@ -19086,5 +19086,22 @@
     "https://mp.weixin.qq.com/s/RIKbJTrM0hC0UTRtxuiyig": "安全通告丨网络安全漏洞通告（2026年3月）",
     "https://mp.weixin.qq.com/s/HUbkCUNstiF1yUHIe68hrw": "【高危漏洞预警】Libucl UCL输入处理漏洞 (CVE-2026-0708)",
     "https://mp.weixin.qq.com/s/2XeK9bJ9cGCNTJ2N_x_I0g": "CVE-2026-1312: Django order_by结合FilteredRelation使用导致的SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/lVWQQUIj7U4AB4c7ZXfAIg": "安全预警｜校园小程序高危 SQL 注入漏洞曝光，师生信息安全需警惕！"
+    "https://mp.weixin.qq.com/s/lVWQQUIj7U4AB4c7ZXfAIg": "安全预警｜校园小程序高危 SQL 注入漏洞曝光，师生信息安全需警惕！",
+    "https://mp.weixin.qq.com/s/sPkGyqAVgvU-yyIKhppQYA": "接口删了也能打！群杰印章物联网平台反序列化漏洞修复绕过思路",
+    "https://mp.weixin.qq.com/s/x7XTbPyq-pbLYNJR5qg9MQ": "工具分享 | Java反序列化漏洞Gadget Chain可视化图谱工具",
+    "https://mp.weixin.qq.com/s/vTRrpbpdpLkib13WPK6IZA": "从被拒到 RCE：四个月后如何获得一个依赖混淆漏洞的奖励",
+    "https://mp.weixin.qq.com/s/YI_N9EUNR4-7x2ZQ9potzA": "一款专业的Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析",
+    "https://mp.weixin.qq.com/s/xUxIpedjXyiYnSRIeUWokw": "【服务端漏洞-第六章第二节】命令注入总挖不到？那是你没搞懂这些符号的用法（附实战验证）",
+    "https://mp.weixin.qq.com/s/V2lWrxB2DFf1_ecui3Xo1g": "误报率80%→10%、两周100+0day......安恒这场“AI原生代码审计”直播藏满硬核干货",
+    "https://mp.weixin.qq.com/s/baPljEtfg-hMtS7LAn5aCg": "实战 IoT 漏洞挖掘—小米 C400 摄像头",
+    "https://mp.weixin.qq.com/s/f1YxrfcFH79sY6rrRcAZbA": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/fOqjVNRJzYpsp1qU2LvYuA": "【SRC实战】实名验证接口滥用漏洞",
+    "https://mp.weixin.qq.com/s/tY7GS1oQukcLHVWZqFCLmQ": "Chrome Gemini AI组件曝高危漏洞，可劫持摄像头与麦克风",
+    "https://mp.weixin.qq.com/s/Hiqkttfy6hNisWR8voF0Yg": "这类漏洞危害有点低，SRC 好像不收录！",
+    "https://mp.weixin.qq.com/s/N2sbmdfsY7_srqS187XXVA": "畅捷通TPlus FormReportOperateAction.aspx接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/_HIk2H3YB1o0kY_0ZD2T9A": "安全小知识-第二十八期_白帽子挖漏洞的思维破壁",
+    "https://mp.weixin.qq.com/s/OjwM0zz0V7TdVRKeKat0Bg": "Perfex CRM 高危漏洞分析：未授权反序列化导致远程代码执行",
+    "https://mp.weixin.qq.com/s/fmmJcpO-w0cjmMOffNzeNQ": "漏洞预警 | Google Chromium V8 内存越界漏洞",
+    "https://mp.weixin.qq.com/s/Jwvt-KVDm8cC3SDa_tL1rA": "【已复现】漏洞通告 | Langflow未授权远程代码执行漏洞(CVE-2026-33017)",
+    "https://mp.weixin.qq.com/s/DmuvQpCwUunHsqJDjGXEgA": "任我行协同CRM系统SQL注入漏洞 附POC"
 }
