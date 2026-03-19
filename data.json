@@ -19153,5 +19153,6 @@
     "https://mp.weixin.qq.com/s/m2Sp7S3Zkkb1hyTo-yVMbg": "美国网络安全和基础设施安全局 (CISA) 警告：微软 SharePoint 漏洞已被攻击者利用",
     "https://mp.weixin.qq.com/s/MWInOqfmcoFngNO9YRbAxg": "CVE-2026-2441：Chrome CSSFontFeatureValuesMap 释放后重用漏洞解析",
     "https://mp.weixin.qq.com/s/ZWuQBrCdi5JsHDlI7H5sBg": "【漏洞预警】Langflow 未授权远程代码执行漏洞（CVE-2026-33017）",
-    "https://mp.weixin.qq.com/s/mKiLs2DgG-_wVLdp-zD5ww": "预警丨防范Windows远程桌面服务（RDS）权限提升高危漏洞"
+    "https://mp.weixin.qq.com/s/mKiLs2DgG-_wVLdp-zD5ww": "预警丨防范Windows远程桌面服务（RDS）权限提升高危漏洞",
+    "https://mp.weixin.qq.com/s/xfPLqb_R5_9Xs24QNDWILw": "Windows RCE漏洞EXP - CVE-2025-29969"
 }
