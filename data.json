@@ -19138,5 +19138,20 @@
     "https://mp.weixin.qq.com/s/XPg9lHi4kJoBe2QF5Qtgdw": "Java 应用漏洞挖掘实战",
     "https://mp.weixin.qq.com/s/GG8Bih_lPVBI8g2_IZcr6Q": "某科技物流SQL注入漏洞",
     "https://mp.weixin.qq.com/s/x90M9gM7UH5CT3C7skzqIQ": "当 Claude 开始自己挖漏洞，我们该做什么？",
-    "https://mp.weixin.qq.com/s/_eOpxzoidToVBz4ffR5chQ": "“暗剑”出鞘：谷歌等公司联合披露新型iOS零点击漏洞利用链"
+    "https://mp.weixin.qq.com/s/_eOpxzoidToVBz4ffR5chQ": "“暗剑”出鞘：谷歌等公司联合披露新型iOS零点击漏洞利用链",
+    "https://mp.weixin.qq.com/s/YfGcNBnrT3rUtYqHYuB-mg": "远程运维的“定时炸弹”：四家厂商的 IP KVM 被曝严重漏洞",
+    "https://mp.weixin.qq.com/s/GyxdEH4tCLOGpinXe3g2BA": "IT 服务管理软件 BMC FootPrints 被曝未授权 RCE 漏洞链（CVE-2025-71257 至 71260）",
+    "https://mp.weixin.qq.com/s/ktmAv3EKBg9Z90axaWnjew": "Solon框架模板漏洞深度剖析与修复实战",
+    "https://mp.weixin.qq.com/s/_AbUh_jcUJIxKeIOGfNKqw": "严重的 Telnetd 漏洞允许远程攻击者通过 23 端口执行任意代码",
+    "https://mp.weixin.qq.com/s/BH45coP-O-dw1zl85ZHSjA": "Apple WebKit 漏洞使恶意网页内容可在 iOS 和 macOS 上绕过安全机制",
+    "https://mp.weixin.qq.com/s/WPmHCoDfS-cPTRrP-6gnZQ": "AI串联漏洞攻陷招聘平台，伪装特朗普索要数据权限",
+    "https://mp.weixin.qq.com/s/7ynSFvfJvzkViHbjPd9pxA": "【安全圈】CVE-2026-3888：Ubuntu 桌面版 24.04+ 易受提权漏洞攻击",
+    "https://mp.weixin.qq.com/s/RcAaRQND2ixd6CtQl27g4A": "【Net_AISec_hunter】基于 Wails + cursor 红队自动化 .NET 白盒漏洞挖掘工具",
+    "https://mp.weixin.qq.com/s/uKuRnc81OZgU16_anq_w6Q": "【论文速读】|ChainFuzzer：LLM智能体中工作流级多工具漏洞的灰盒模糊测试",
+    "https://mp.weixin.qq.com/s/SUK6JyTGy9WswTehEibpJw": "【安全圈】iOS18 爆高危漏洞！不升危险，升级变卡",
+    "https://mp.weixin.qq.com/s/FAnDZvbbWM7ah-hAYPed8A": "工信部：关于防范思科Catalyst SD-WAN管理软件多个漏洞的风险提示",
+    "https://mp.weixin.qq.com/s/m2Sp7S3Zkkb1hyTo-yVMbg": "美国网络安全和基础设施安全局 (CISA) 警告：微软 SharePoint 漏洞已被攻击者利用",
+    "https://mp.weixin.qq.com/s/MWInOqfmcoFngNO9YRbAxg": "CVE-2026-2441：Chrome CSSFontFeatureValuesMap 释放后重用漏洞解析",
+    "https://mp.weixin.qq.com/s/ZWuQBrCdi5JsHDlI7H5sBg": "【漏洞预警】Langflow 未授权远程代码执行漏洞（CVE-2026-33017）",
+    "https://mp.weixin.qq.com/s/mKiLs2DgG-_wVLdp-zD5ww": "预警丨防范Windows远程桌面服务（RDS）权限提升高危漏洞"
 }
