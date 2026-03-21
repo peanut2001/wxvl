@@ -19192,5 +19192,14 @@
     "https://mp.weixin.qq.com/s/Z-JzjkjTYRxwI0fs_73y6A": "别让“养虾”变“养险”：基础环境漏洞有多危险？",
     "https://mp.weixin.qq.com/s/H-1a8dxRSJHIvuOpatN1Tw": "信息安全漏洞周报【第066期】",
     "https://mp.weixin.qq.com/s/qBKxpIwDVvmiV0gXUJ79nQ": "【高危AI漏洞预警】Langflow远程代码执行漏洞(CVE-2026-33017)",
-    "https://mp.weixin.qq.com/s/ONH4oamY0YmycruWtfu2Kg": "九年未被发现的漏洞影响1260万个企业级Linux系统"
+    "https://mp.weixin.qq.com/s/ONH4oamY0YmycruWtfu2Kg": "九年未被发现的漏洞影响1260万个企业级Linux系统",
+    "https://mp.weixin.qq.com/s/lefaZES6jJKSW6jGy4OEIw": "Kanboard SQL注入 CVE-2026-33058 漏洞分析",
+    "https://mp.weixin.qq.com/s/Io5H5vBbGTLCrtgw9QuBxA": "【WebSocket漏洞漫谈-第三章】上集玩转WebSocket XSS，这集直接绕过防火墙！3000元高危漏洞实战复盘",
+    "https://mp.weixin.qq.com/s/KADb3WS7_D09pxvHx7wZiA": "Langflow高危漏洞CVE-2026-33309深度分析：一键拿Token到远程代码执行",
+    "https://mp.weixin.qq.com/s/tFg0qaVqGNH2m1u8ATqNdQ": "[漏洞预警]Langflow 远程代码执行与任意文件写入漏洞 | CVE-2026-33017∕33309",
+    "https://mp.weixin.qq.com/s/C5qIfAuv8-YoCnZBf55q5w": "【已复现】漏洞通告 | Langflow任意文件写入漏洞(CVE-2026-33309)",
+    "https://mp.weixin.qq.com/s/RDLbaD-8EFLcOHlrxDp99Q": "每周漏洞情报速览｜2026.03.14–03.20",
+    "https://mp.weixin.qq.com/s/qhm5dEgosDaKhL20o7Sj6Q": "第100天-Java安全攻防：从SQL注入到RCE，常见漏洞一网打尽！",
+    "https://mp.weixin.qq.com/s/578hkpnejm0E0Ppfernemw": "不要测无意义的并发漏洞",
+    "https://mp.weixin.qq.com/s/EB_MFvXyROs8LXbs0tA_-Q": "【已复现】Langflow 远程代码执行漏洞(CVE-2026-33017)"
 }
