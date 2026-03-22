@@ -19224,5 +19224,6 @@
     "https://mp.weixin.qq.com/s/I6l-7dUemwNhQ1lTd1cYAg": "OpenClaw远程代码执行漏洞（CVE-2026-30741）！",
     "https://mp.weixin.qq.com/s/7PNzRZMg7Xy59fwMslddgg": "明源地产ERP GetErpDept.ashx SQL注入漏洞",
     "https://mp.weixin.qq.com/s/wBtMqU_knqPFSu3gVUVc4w": "百易云资产管理系统SQL注入漏洞 附POC",
-    "https://mp.weixin.qq.com/s/PM22Bx6Pnvgj3KSC4gNPJg": "Oracle修复影响身份和Web服务平台的高危远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s/PM22Bx6Pnvgj3KSC4gNPJg": "Oracle修复影响身份和Web服务平台的高危远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/j8WQLe4JNp9WdLyz1KUjCA": "第101天-Java安全攻防：从SPEL、SSTI注入到SpringBoot框架漏洞，一篇通关！"
 }
