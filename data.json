@@ -19323,5 +19323,9 @@
     "https://mp.weixin.qq.com/s/jO06HSXds2LQm7B-7ZTpQw": "谷歌15年累计发放了8160万美元漏洞赏金",
     "https://mp.weixin.qq.com/s/PUknAvCV5D6RnfGqb46RiQ": "BeforeDawn 漏洞管理平台 | 致敬每一个在黎明前守夜的安全人员",
     "https://mp.weixin.qq.com/s/0h_qwNtOX0PhCtdUOMahWA": "一次从代码审计到利用：Kanboard SQL注入漏洞（CVE-2026-33058）分析",
-    "https://mp.weixin.qq.com/s/0Fe9Fp2Sr3ZMRaC_Mx3C8Q": "Interlock勒索软件利用思科FMC零日漏洞CVE-2026-20131获取Root权限"
+    "https://mp.weixin.qq.com/s/0Fe9Fp2Sr3ZMRaC_Mx3C8Q": "Interlock勒索软件利用思科FMC零日漏洞CVE-2026-20131获取Root权限",
+    "https://mp.weixin.qq.com/s/FVmbZs3bnfvNfIYFwmAFaQ": "CVE-2026-23673 ReFS 越界读分析",
+    "https://mp.weixin.qq.com/s/MOouM8QlEOg7U8YFMh7fsQ": "[被忽略的漏洞]sqli-labs之Less-29的另一种玩法",
+    "https://mp.weixin.qq.com/s/4DeGMyiZynCFuPY-1vlsYw": "【漏洞预警】Litellm 2026.3.24 供应链投毒事件",
+    "https://mp.weixin.qq.com/s/k7BAkFlQ4C19aZ_bXVmoHA": "苹果警告旧款iphone易受Coruna和DarkSword漏洞工具包攻击"
 }
