@@ -19370,5 +19370,9 @@
     "https://mp.weixin.qq.com/s/H7SJG_c-RNUsM0F7RLm2EA": "【漏洞通告】sbt存在命令注入漏洞(CVE-2026-32948)",
     "https://mp.weixin.qq.com/s/E8rEKJRZNNmnKdBaObHGKg": "【0day】深科特 LEAN MES系统 ∕Handler∕MobileAppLogin.ashx SQL注入漏洞",
     "https://mp.weixin.qq.com/s/Dz6OXyUqRq3T4808LeQKQw": "Microsoft Authenticator 未认领的 Deep Link：一次完整账号接管的故事（CVE-2026–26123）",
-    "https://mp.weixin.qq.com/s/Q54zaXV2Pa2Il-EUdfHlSQ": "漏洞预警 | Apifox 桌面客户端官方 CDN 脚本遭供应链投毒事件"
+    "https://mp.weixin.qq.com/s/Q54zaXV2Pa2Il-EUdfHlSQ": "漏洞预警 | Apifox 桌面客户端官方 CDN 脚本遭供应链投毒事件",
+    "https://mp.weixin.qq.com/s/Mq5QbqtIs8HUv66Zh5ya_Q": "一张图片 = 拿下网站？文件上传漏洞深度解析",
+    "https://mp.weixin.qq.com/s/Dt0y3O09kCBEiAX3tuKlpg": "漏洞预警 | Langflow远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/VrbuihpsTm-KIvZfw-0dLg": "漏洞预警 | LEAN MES系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/orMOHdDVMko29TMaGB9nxA": "SourceInsight4.0 最新4.00.0150 2026版本 破解分析"
 }
