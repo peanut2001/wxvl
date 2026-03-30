@@ -19434,5 +19434,7 @@
     "https://mp.weixin.qq.com/s/06Wx8xZAZJSBfcrdg2ZktA": "SQL 到 SSH：Grafana 中存在严重 CVSS 9.1 级远程代码执行漏洞，可将监控变成远程劫持",
     "https://mp.weixin.qq.com/s/XowWtYcv49e-LVwOLKCxzg": "【漏洞复现】Langflow 未授权远程代码执行（CVE-2026-33017）",
     "https://mp.weixin.qq.com/s/6o24iCVMgFntuACVFOLzcg": "苹果 DarkSword 漏洞工具公开，数亿 iPhone 面临窃密风险",
-    "https://mp.weixin.qq.com/s/RVb-ai_ZrfWTyWdY6jjl0g": "手把手CNVD从资产收集到通杀漏洞挖掘"
+    "https://mp.weixin.qq.com/s/RVb-ai_ZrfWTyWdY6jjl0g": "手把手CNVD从资产收集到通杀漏洞挖掘",
+    "https://mp.weixin.qq.com/s/00ZeX0Ks8aGMBwcjtvuItw": "Supermap iServer历史漏洞浅析(上)",
+    "https://mp.weixin.qq.com/s/cXyy1DJEUyJgoYke87id7w": "【漏洞通告】Citrix NetScaler ADC和NetScaler Gateway越界读取漏洞 CVE-2026-3055"
 }
