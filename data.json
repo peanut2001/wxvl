@@ -19430,5 +19430,6 @@
     "https://mp.weixin.qq.com/s/m0LjAX6cVyPs10fQ0BFxgQ": "5200万次下载，三个高危漏洞：你的AI应用正在\"裸奔\"吗？",
     "https://mp.weixin.qq.com/s/Etpy9YrD-LJ_kyTpA3abhA": "一次奇妙的降价支付逻辑漏洞挖掘之旅",
     "https://mp.weixin.qq.com/s/6iA6sknfVQhvjKA9HojMJw": "美国网络安全和基础设施安全局 (CISA) 警告：F5 BIG-IP 漏洞已被积极用于攻击",
-    "https://mp.weixin.qq.com/s/6It75fU3zzD6_a6l6bsXHg": "CORS 跨域漏洞攻防实战：靶场复现 + POC 编写 + 防御配置"
+    "https://mp.weixin.qq.com/s/6It75fU3zzD6_a6l6bsXHg": "CORS 跨域漏洞攻防实战：靶场复现 + POC 编写 + 防御配置",
+    "https://mp.weixin.qq.com/s/06Wx8xZAZJSBfcrdg2ZktA": "SQL 到 SSH：Grafana 中存在严重 CVSS 9.1 级远程代码执行漏洞，可将监控变成远程劫持"
 }
