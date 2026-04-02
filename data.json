@@ -19516,5 +19516,17 @@
     "https://mp.weixin.qq.com/s/7SHF5tJublgZAWFbv1I9wA": "【已复现】Vim 又一 RCE 漏洞(CVE-2026-34982)：利用存在限制条件",
     "https://mp.weixin.qq.com/s/bt58jVwrZHn08dSaVDPfqg": "代码钟馗启动AI漏洞雷达，OpenClaw隐秘漏洞浮出水面",
     "https://mp.weixin.qq.com/s/TmjWLJhNSmZvjLsvWOKw2Q": "【漏洞通告】Vim modeline 沙箱绕过命令执行漏洞(CVE-2026-34982)",
-    "https://mp.weixin.qq.com/s/aF6CsYKNXC0m9Khs74F2jQ": "JAVA代码审计 | 记录第一次命令执行漏洞"
+    "https://mp.weixin.qq.com/s/aF6CsYKNXC0m9Khs74F2jQ": "JAVA代码审计 | 记录第一次命令执行漏洞",
+    "https://mp.weixin.qq.com/s/gPB798-neMvv-AsO21JiIg": "【高危漏洞预警】Vim代码执行漏洞CVE-2026-34982",
+    "https://mp.weixin.qq.com/s/ho2ScK7cCBbPWGEAyhZmeQ": "Claude Code 30分钟挖出Vim用了三十年的0Day，收到陌生文件先别急着打开",
+    "https://mp.weixin.qq.com/s/7xvF8PsPGCEZMRPm4W8V-Q": "[漏洞播报]你的电脑主板也在变的不安全，技嘉控制中心曝9.2分高危漏洞",
+    "https://mp.weixin.qq.com/s/IbQPtCrjUILRzl88R0KjGg": "Vertex AI 漏洞暴露谷歌云数据和非公开制品",
+    "https://mp.weixin.qq.com/s/7pfSd1RZkB6ZEpchDnCgPg": "Nginx-UI备份漏洞可篡改加密配置，攻击者能注入恶意代码完全控制系统",
+    "https://mp.weixin.qq.com/s/_7UCIkcTUwXKUMKfXUSq5Q": "Telegram零日漏洞可零点击接管设备，官方否认存在",
+    "https://mp.weixin.qq.com/s/KIdRHmMcRrOMjBs4-_V6mQ": "赛门铁克DLP代理漏洞允许攻击者提升权限",
+    "https://mp.weixin.qq.com/s/DvqG__lhTNz8YWouGAwNUw": "请升级：技嘉控制中心曝 9.2 分高危漏洞，黑客可远程接管电脑",
+    "https://mp.weixin.qq.com/s/jjN4GtZjaxNhqnIf9f6WTg": "Cisco IMC 存在严重漏洞，攻击者可绕过身份验证",
+    "https://mp.weixin.qq.com/s/7yWR6bqfoaM-gZs1fyCjAQ": "Vim 高危 RCE 漏洞预警：打开文件即执行任意命令（CVE-2026-34714）",
+    "https://mp.weixin.qq.com/s/srC7Md79V2wmLMBg4Dj4CA": "Chrome 0Day漏洞遭野外利用，谷歌紧急更新修复21项高危漏洞",
+    "https://mp.weixin.qq.com/s/4fycSuE1mqanf8MFqWlrEQ": "libpng 官方参考库中的这两个严重漏洞已存在30年之久"
 }
