@@ -19528,5 +19528,11 @@
     "https://mp.weixin.qq.com/s/jjN4GtZjaxNhqnIf9f6WTg": "Cisco IMC 存在严重漏洞，攻击者可绕过身份验证",
     "https://mp.weixin.qq.com/s/7yWR6bqfoaM-gZs1fyCjAQ": "Vim 高危 RCE 漏洞预警：打开文件即执行任意命令（CVE-2026-34714）",
     "https://mp.weixin.qq.com/s/srC7Md79V2wmLMBg4Dj4CA": "Chrome 0Day漏洞遭野外利用，谷歌紧急更新修复21项高危漏洞",
-    "https://mp.weixin.qq.com/s/4fycSuE1mqanf8MFqWlrEQ": "libpng 官方参考库中的这两个严重漏洞已存在30年之久"
+    "https://mp.weixin.qq.com/s/4fycSuE1mqanf8MFqWlrEQ": "libpng 官方参考库中的这两个严重漏洞已存在30年之久",
+    "https://mp.weixin.qq.com/s/VBslJx7PZWnhL7q1qr8nYg": "【登录背后的秘密-第五章第一节】SRC高价值漏洞思路：从2FA绕过到账户接管，仅需一次URL替换",
+    "https://mp.weixin.qq.com/s/4z41CoSHRR0StQ2BG8HCvQ": "Chrome 再曝高危0day漏洞：CVE-2026-5281 ！",
+    "https://mp.weixin.qq.com/s/NHwvmyrUxU5lR4DXzd8TyA": "思科修复了高危及严重级别的漏洞",
+    "https://mp.weixin.qq.com/s/TO88zsQvbOvSeAyaJ5TCRg": "Joomla! 发布安全补丁：关键文件删除和 Web 服务漏洞暴露",
+    "https://mp.weixin.qq.com/s/8F1C__iMIqun-IwfSiYBSw": "黑客的蜜罐：针对近期 CVE-2026-21962 及其他关键 WebLogic 漏洞在高度交互式 Oracle 蜜罐上的攻击研究",
+    "https://mp.weixin.qq.com/s/PqTzkGsuXoWExXVEbJf6IA": "Chrome 再曝高危0day漏洞：CVE-2026-5281 ！"
 }
