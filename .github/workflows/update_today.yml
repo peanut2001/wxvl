@@ -1,12 +1,12 @@
 # This workflow will install Python dependencies, run tests and lint with a single version of Python
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
 
-name: update
+name: claude-daily-update
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '10 1 * * *'
 permissions:
   contents: write
 jobs:
@@ -23,11 +23,11 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-    - name: update
+    - name: crawl claude tips
       env: 
          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
-        python run.py today | tee /tmp/update.log
+        python run.py | tee /tmp/update.log
     - name: Commit and push if changed
       run: |
         git config --global user.email "test"

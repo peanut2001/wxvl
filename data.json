@@ -1,1 +1,16 @@
-﻿{}
+{
+    "https://www.msn.com/en-us/news/technology/i-connected-claude-to-figma-and-it-s-the-workflow-i-didn-t-know-i-was-missing/ar-AA20b9AB": {
+        "title": "I connected Claude to Figma and it's the workflow I didn't know I was missing",
+        "file": "doc/2026-04-04/I connected Claude to Figma and it's the workflow I didn't know I was missing.md",
+        "source": "",
+        "published_at": "2026-04-04T12:00:20+00:00",
+        "archived_at": "2026-04-07T08:58:12.096620+00:00"
+    },
+    "https://finance.sina.com.cn/roll/2026-04-01/doc-inhsywsw1723132.shtml": {
+        "title": "51万行Claude Code源代码泄露，电子宠物和AI助手遭提前曝光，开发者 ...",
+        "file": "doc/2026-04-01/51万行Claude Code源代码泄露，电子宠物和AI助手遭提前曝光，开发者 ....md",
+        "source": "",
+        "published_at": "2026-04-01T03:28:00+00:00",
+        "archived_at": "2026-04-07T08:58:12.096620+00:00"
+    }
+}

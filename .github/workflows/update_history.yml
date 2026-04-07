@@ -1,0 +1,36 @@
+name: claude-history-backfill
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "回溯天数"
+        required: false
+        default: "30"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      - name: Backfill
+        run: |
+          python run_history.py history --days "${{ github.event.inputs.days }}" | tee /tmp/update.log
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "test"
+          git config --global user.name "test"
+          git add .
+          MESSAGE=$(cat /tmp/update.log)
+          git diff-index --quiet HEAD || git commit -m "$(echo -e "$MESSAGE")"
+          git push
