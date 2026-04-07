@@ -19613,5 +19613,15 @@
     "https://mp.weixin.qq.com/s/Jwsz4e0aRIfTV13MEjXqXA": "RAG从元数据Key到RCE：CVE-2026-22738 深度解析Spring AI向量存储中的SpEL表达式注入与逃逸",
     "https://mp.weixin.qq.com/s/qjYH83QoPZZ78b0bMBX-7A": "漏洞预警 | LEAN MES系统文件上传漏洞",
     "https://mp.weixin.qq.com/s/ONVBz36WILWupIL-pLS-ow": "漏洞预警 | Vim代码执行漏洞",
-    "https://mp.weixin.qq.com/s/3mHXT8nMT3JmsoetyTcl5w": "攻击者利用RCE漏洞，14,000台F5 BIG-IP APM实例仍暴露在线"
+    "https://mp.weixin.qq.com/s/3mHXT8nMT3JmsoetyTcl5w": "攻击者利用RCE漏洞，14,000台F5 BIG-IP APM实例仍暴露在线",
+    "https://mp.weixin.qq.com/s/ZK8P83J6XmDUI1ar3yVL8A": "“龙虾”再曝安全漏洞，天融信专家对话央视支招如何做好安全防护",
+    "https://mp.weixin.qq.com/s/_G7VML5rbrw8xsBWjHj6dg": "2026-04-07 最新CVE漏洞情报和技术资讯头条",
+    "https://mp.weixin.qq.com/s/sCljuPajewd5FldFBBcGhw": "一次报复式 0day 漏洞披露背后的 MSRC 信任危机",
+    "https://mp.weixin.qq.com/s/qO5x45u9ZzcOhcElTlIIXA": "【威胁情报】CVE-2025-62215 Windows内核本地权限提升 PoC公开（Exploit-DB 52494）",
+    "https://mp.weixin.qq.com/s/Vd0GfbodXmvweO5I8CJp5Q": "攻击者利用 Outlook 365 漏洞强制截获 NTLM 哈希",
+    "https://mp.weixin.qq.com/s/2IpwEFCCgjtkKUV7JmSvAA": "Chamilo存在命令注入漏洞（CNVD-2026-14971、CVE-2025-50196）",
+    "https://mp.weixin.qq.com/s/S7sD1d1VS_ZK-7AjxcZRFQ": "Fortinet发布紧急补丁修复FortiClient零日漏洞",
+    "https://mp.weixin.qq.com/s/Eyuh_bSLVucsumY2_efy7w": "CNNVD 通报：OpenClaw 高危漏洞集中爆发，未授权可远程控机；ChatGPT 惊现 DNS 隧道数据泄露漏洞，敏感信息可被静默窃取| 牛览",
+    "https://mp.weixin.qq.com/s/Wedx3iYuT8vq7D5Z6RVyVw": "对用于攻击 CrowdStrike EDR 的 0day 漏洞进行逆向工程",
+    "https://mp.weixin.qq.com/s/2T-79_19Orn9ujAukNePRA": "图形化未授权访问漏洞扫描器，支持检测 40+种 常见服务的未授权漏洞"
 }
